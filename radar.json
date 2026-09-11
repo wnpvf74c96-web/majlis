@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T21:32:19.717235+00:00",
+  "generatedAt": "2026-09-11T21:36:43.743961+00:00",
   "topics": [
     {
       "id": "ai",
@@ -24,20 +24,17 @@
     {
       "id": "funding",
       "label": "Aides & appels à projets"
+    },
+    {
+      "id": "market",
+      "label": "Marché & concurrence"
+    },
+    {
+      "id": "legal",
+      "label": "Réglementation"
     }
   ],
   "items": [
-    {
-      "id": "d2fd01e0f0588f",
-      "topic": "frdz",
-      "topicLabel": "France ↔ Algérie",
-      "title": "Algérie-France : un appel à startups IA doté de 30 000 euros par lauréat",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa473649b824c0283032d7a8586fdb4&url=https%3a%2f%2fwww.msn.com%2ffr-xl%2fafrique-du-nord%2factualite%2falg%25C3%25A9rie-france-un-appel-%25C3%25A0-startups-ia-dot%25C3%25A9-de-30-000-euros-par-laur%25C3%25A9at%2far-AA2c1EnZ&c=7621358614601404201&mkt=en-us",
-      "source": "Bing News",
-      "published": "2026-09-11T05:01:41+00:00",
-      "kind": "opportunity",
-      "score": 8.76
-    },
     {
       "id": "9a0b872db06553",
       "topic": "funding",
@@ -65,7 +62,9 @@
   "errors": [
     "IA & outils: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "SaaS & business: Google News: aucun résultat récent | Bing News: aucun résultat récent",
+    "France ↔ Algérie: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "Web & freelance: Google News: aucun résultat récent | Bing News: aucun résultat récent",
-    "Économie durable: Google News: aucun résultat récent | Bing News: aucun résultat récent"
+    "Économie durable: Google News: aucun résultat récent | Bing News: aucun résultat récent",
+    "Marché & concurrence: Google News: aucun résultat récent | Bing News: aucun résultat récent"
   ]
 }
