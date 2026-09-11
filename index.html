@@ -10,7 +10,8 @@
 <link rel="manifest" href="./manifest.webmanifest">
 <link rel="icon" href="./icon.svg" type="image/svg+xml">
 <title>Majlis</title>
-<link rel="stylesheet" href="./app.css?v=7">
+<link rel="stylesheet" href="./app.css?v=9">
+<link rel="stylesheet" href="./dashboard.css?v=9">
 <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 </head>
 <body>
@@ -19,6 +20,43 @@
   <div><h1>Majlis</h1><p>académie personnelle — économie, politique, philosophie, histoire</p></div>
   <div class="head-actions"><span id="apiState" class="badge bad">Gemini non configuré</span><button id="settingsBtn" class="ghost">⚙ Réglages</button></div>
 </header>
+
+<section class="continuity-bar" id="continuityPanel">
+  <div class="continuity-main"><span class="label">CONTINUITÉ</span><span id="continuityNet" class="continuity-pill">…</span><span id="continuitySave" class="continuity-pill">Sauvegarde auto</span></div>
+  <div class="continuity-actions"><button id="resumeGeneration" class="ghost small" hidden>↻ Reprendre</button><button id="exportMajlis" class="ghost small">Exporter</button><button id="importMajlis" class="ghost small">Importer</button><input id="importMajlisFile" type="file" accept="application/json" hidden></div>
+  <div id="continuityRuntime" class="continuity-runtime"></div>
+</section>
+
+<section class="dashboard" id="dashboardPanel">
+  <div class="dash-hero">
+    <div class="dash-top">
+      <div><div class="label">CENTRE DE DÉCISION</div><h2 id="dashGreeting">Bonjour.</h2><p class="muted">Vois ce qui compte, reprends ce qui avance et capte ce qui arrive.</p></div>
+      <div id="dashDate" class="dash-date"></div>
+    </div>
+    <div class="dash-command"><input id="dashCommand" placeholder="Que veux-tu faire, apprendre ou ne pas oublier ?"><button id="dashStudy" class="primary" type="button">Étudier</button><button id="dashCapture" class="ghost" type="button">Capturer</button></div>
+    <div class="dash-stats">
+      <div class="dash-stat"><strong id="statProjects">0</strong><span>projets actifs</span></div>
+      <div class="dash-stat"><strong id="statTasks">0</strong><span>actions en attente</span></div>
+      <div class="dash-stat"><strong id="statNotes">0</strong><span>captures</span></div>
+      <div class="dash-stat"><strong id="statStudies">0</strong><span>études</span></div>
+    </div>
+  </div>
+  <div class="dash-grid">
+    <div class="dash-card"><div class="dash-card-head"><b>Mes 3 priorités</b><span>Aujourd’hui</span></div><div id="dashPriorities" class="dash-priority"></div></div>
+    <div class="dash-card"><div class="dash-card-head"><b>Continuer</b><span>Sans repartir de zéro</span></div><div id="dashContinue" class="dash-continue"></div><div class="dash-mini-actions" style="margin-top:8px"><button id="goProjects" class="ghost" type="button">Tous les projets</button><button id="goLibrary" class="ghost" type="button">Bibliothèque</button></div></div>
+  </div>
+  <div class="radar" id="radarPanel">
+    <div class="radar-head">
+      <div class="radar-title"><div class="label">RADAR MAJLIS · VEILLE AUTOMATIQUE</div><h3>Opportunités, nouveautés & actualités</h3><p class="muted">Actualisé automatiquement toutes les 6 heures. Majlis privilégie les signaux utiles et actionnables.</p></div>
+      <div class="radar-controls"><button id="radarRefresh" class="ghost small" type="button">Actualiser</button><button id="radarSeen" class="ghost small" type="button">Tout vu</button></div>
+    </div>
+    <div id="radarMeta" class="radar-meta"></div>
+    <div id="radarFeed" class="radar-feed"></div>
+    <div class="radar-footer"><span id="radarGenerated" class="radar-status"></span><div><button id="radarMore" class="ghost small" type="button" hidden>Voir plus</button></div></div>
+    <div id="dashStatus" class="radar-status"></div>
+  </div>
+</section>
+
 <section class="panel intro">
   <div class="label">MODE D'ÉTUDE</div>
   <div id="modes" class="modes"></div>
@@ -49,93 +87,42 @@
 
 <section class="panel workspace" id="workspacePanel">
   <div class="workspace-title">
-    <div>
-      <div class="label">ATELIER MAJLIS</div>
-      <h2>Projets, carnet & copilote</h2>
-      <p class="muted">Capture tes idées, poursuis tes projets, écris, planifie et questionne Majlis sans perdre le fil.</p>
-    </div>
+    <div><div class="label">ATELIER MAJLIS</div><h2>Projets, carnet & copilote</h2><p class="muted">Capture tes idées, poursuis tes projets, écris, planifie et questionne Majlis sans perdre le fil.</p></div>
     <span id="workspaceStatus" class="workspace-status"></span>
   </div>
-
   <div class="capture-box">
     <div class="capture-head"><b>Carnet rapide</b><span id="inboxCount" class="muted"></span></div>
     <div class="capture-form"><textarea id="quickCapture" placeholder="Une idée, une question, quelque chose à ne pas oublier…"></textarea><button id="captureBtn" class="primary" type="button">Capturer</button></div>
     <div id="inboxList" class="inbox-list"></div>
   </div>
-
-  <div class="project-create">
-    <input id="newProjectName" placeholder="Nom du nouveau projet…">
-    <button id="createProject" class="primary" type="button">+ Nouveau projet</button>
-    <button id="projectFromTopic" class="ghost" type="button">Depuis mon sujet actuel</button>
-  </div>
+  <div class="project-create"><input id="newProjectName" placeholder="Nom du nouveau projet…"><button id="createProject" class="primary" type="button">+ Nouveau projet</button><button id="projectFromTopic" class="ghost" type="button">Depuis mon sujet actuel</button></div>
   <div class="project-head"><div><b>Mes projets</b><span id="projectCount" class="muted"></span></div><div id="projectFilters" class="project-filters"></div></div>
   <div id="projectList" class="project-list"></div>
-
   <div id="projectEditor" class="project-editor" hidden>
     <div class="project-editor-head"><div><div class="label">PROJET OUVERT</div><h3 id="projectTitle">Projet</h3></div><button id="deleteProject" class="ghost small danger" type="button">Supprimer</button></div>
-    <div class="project-fields">
-      <div><label>Nom</label><input id="projectName"></div>
-      <div><label>Statut</label><select id="projectStatus"><option value="idea">Idée</option><option value="active">Actif</option><option value="paused">Pause</option><option value="done">Terminé</option></select></div>
-    </div>
+    <div class="project-fields"><div><label>Nom</label><input id="projectName"></div><div><label>Statut</label><select id="projectStatus"><option value="idea">Idée</option><option value="active">Actif</option><option value="paused">Pause</option><option value="done">Terminé</option></select></div></div>
     <label>Objectif / résultat attendu</label><textarea id="projectGoal" placeholder="À quoi ressemble une réussite concrète ?"></textarea>
     <label>Notes de travail</label><textarea id="projectNotes" class="project-notes" placeholder="Contexte, décisions, brouillon, liens, idées, hypothèses…"></textarea>
-
-    <div class="project-ai-actions">
-      <button class="ghost" type="button" data-ai="clarify">Clarifier</button>
-      <button class="ghost" type="button" data-ai="next">Prochaines étapes</button>
-      <button class="ghost" type="button" data-ai="plan">Plan 7 jours</button>
-      <button class="ghost" type="button" data-ai="challenge">Challenger</button>
-      <button class="ghost" type="button" data-ai="write">Note de cadrage</button>
-    </div>
-
-    <div class="tasks-box">
-      <div class="workspace-subtitle"><b>Prochaines actions</b><span class="muted">Transforme les idées en exécution.</span></div>
-      <div class="task-form"><input id="taskInput" placeholder="Ajouter une tâche concrète…"><button id="taskAdd" class="primary" type="button">Ajouter</button></div>
-      <div id="taskList" class="task-list"></div>
-    </div>
-
-    <div class="project-chat-box">
-      <div class="workspace-subtitle"><b>Questionner Majlis sur ce projet</b><span class="muted">Le contexte du projet est envoyé automatiquement.</span></div>
-      <div id="projectChat" class="project-chat"></div>
-      <textarea id="projectQuestion" placeholder="Ex. Qu’est-ce qui bloque vraiment ? Quelle décision prendre ? Réécris cette idée ? Donne-moi trois scénarios…"></textarea>
-      <div class="row"><span class="muted">⌘/Ctrl + Entrée pour envoyer</span><button id="askProject" class="primary" type="button">Questionner Majlis</button></div>
-    </div>
+    <div class="project-ai-actions"><button class="ghost" type="button" data-ai="clarify">Clarifier</button><button class="ghost" type="button" data-ai="next">Prochaines étapes</button><button class="ghost" type="button" data-ai="plan">Plan 7 jours</button><button class="ghost" type="button" data-ai="challenge">Challenger</button><button class="ghost" type="button" data-ai="write">Note de cadrage</button></div>
+    <div class="tasks-box"><div class="workspace-subtitle"><b>Prochaines actions</b><span class="muted">Transforme les idées en exécution.</span></div><div class="task-form"><input id="taskInput" placeholder="Ajouter une tâche concrète…"><button id="taskAdd" class="primary" type="button">Ajouter</button></div><div id="taskList" class="task-list"></div></div>
+    <div class="project-chat-box"><div class="workspace-subtitle"><b>Questionner Majlis sur ce projet</b><span class="muted">Le contexte du projet est envoyé automatiquement.</span></div><div id="projectChat" class="project-chat"></div><textarea id="projectQuestion" placeholder="Ex. Qu’est-ce qui bloque vraiment ? Quelle décision prendre ? Réécris cette idée ? Donne-moi trois scénarios…"></textarea><div class="row"><span class="muted">⌘/Ctrl + Entrée pour envoyer</span><button id="askProject" class="primary" type="button">Questionner Majlis</button></div></div>
   </div>
 </section>
 
 <section class="panel resources" id="resourcesPanel">
-  <div class="resources-title">
-    <div>
-      <div class="label">BIBLIOTHÈQUE ÉLITE</div>
-      <h2>Apprendre auprès des meilleurs</h2>
-      <p class="muted">Cours complets, conférences, documentaires, tutoriels et grands esprits — accès direct à YouTube.</p>
-    </div>
-    <span class="resource-badge">YouTube ↗</span>
-  </div>
-
-  <div class="resource-smart-box">
-    <div class="resource-smart-head"><b>Explorer mon sujet</b><span class="muted">Majlis transforme ton thème actuel en accès YouTube ciblés.</span></div>
-    <div class="resource-smart-form">
-      <input id="resourceTopic" placeholder="Ex. économie durable, Nietzsche, réseaux de neurones…">
-      <select id="resourceLang" aria-label="Langue"><option value="FR">FR</option><option value="EN">EN</option><option value="AR">AR</option></select>
-      <button id="resourceSmart" class="primary" type="button">Créer les liens</button>
-    </div>
-    <div id="smartLinks" class="smart-links"></div>
-  </div>
-
-  <div class="resource-library-head">
-    <div><b>Collection Majlis</b><span id="resourceCount" class="muted"></span></div>
-    <input id="resourceSearch" class="resource-search" placeholder="Rechercher une chaîne, un domaine, un auteur…">
-  </div>
-  <div id="resourceFilters" class="resource-filters"></div>
-  <div id="resourceGrid" class="resource-grid"></div>
+  <div class="resources-title"><div><div class="label">BIBLIOTHÈQUE ÉLITE</div><h2>Apprendre auprès des meilleurs</h2><p class="muted">Cours complets, conférences, documentaires, tutoriels et grands esprits — accès direct à YouTube.</p></div><span class="resource-badge">YouTube ↗</span></div>
+  <div class="resource-smart-box"><div class="resource-smart-head"><b>Explorer mon sujet</b><span class="muted">Majlis transforme ton thème actuel en accès YouTube ciblés.</span></div><div class="resource-smart-form"><input id="resourceTopic" placeholder="Ex. économie durable, Nietzsche, réseaux de neurones…"><select id="resourceLang" aria-label="Langue"><option value="FR">FR</option><option value="EN">EN</option><option value="AR">AR</option></select><button id="resourceSmart" class="primary" type="button">Créer les liens</button></div><div id="smartLinks" class="smart-links"></div></div>
+  <div class="resource-library-head"><div><b>Collection Majlis</b><span id="resourceCount" class="muted"></span></div><input id="resourceSearch" class="resource-search" placeholder="Rechercher une chaîne, un domaine, un auteur…"></div>
+  <div id="resourceFilters" class="resource-filters"></div><div id="resourceGrid" class="resource-grid"></div>
 </section>
 </div>
 <div id="settings" class="overlay" hidden><div class="modal"><div class="row"><h2>Réglages</h2><button id="closeSettings" class="ghost">✕</button></div><label>Clé API Gemini</label><input id="apiKey" type="password" autocomplete="off" autocapitalize="off" spellcheck="false" placeholder="AIza…"><p class="hint">Stockée uniquement dans Safari sur cet iPhone. Ne la partage pas.</p><label>Modèle</label><select id="model"><option value="gemini-3.8-flash" selected>Gemini 3.8 Flash — recommandé</option><option value="gemini-3.7-flash">Gemini 3.7 Flash</option><option value="gemini-3.6-flash">Gemini 3.6 Flash</option></select><label>Profil pédagogique</label><textarea id="profile" placeholder="Ex. je veux des cours très exigeants, avec exemples algériens…"></textarea><p id="settingsResult" class="settings-result"></p><div class="row"><button id="testApi" class="ghost">Tester Gemini</button><button id="saveSettings" class="primary">Enregistrer et fermer</button></div></div></div>
-<script src="./model-upgrade.js?v=7"></script>
-<script src="./prompts.js?v=7"></script>
-<script src="./app.js?v=7"></script>
-<script src="./workspace.js?v=7"></script>
-<script src="./resources.js?v=7"></script>
+<script src="./model-upgrade.js?v=9"></script>
+<script src="./prompts.js?v=9"></script>
+<script src="./app.js?v=9"></script>
+<script src="./workspace.js?v=9"></script>
+<script src="./resources.js?v=9"></script>
+<script src="./continuity.js?v=9"></script>
+<script src="./dashboard.js?v=9"></script>
 </body>
 </html>
