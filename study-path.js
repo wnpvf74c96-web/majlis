@@ -7,7 +7,7 @@ const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&
 const md=s=>window.marked?marked.parse(s||''):esc(s).replace(/\n/g,'<br>');
 const yt=q=>`https://www.youtube.com/results?search_query=${encodeURIComponent(q)}`;
 let current={topic:'',content:'',mode:'cours',level:'M1',depth:'Avancé'};
-let generation=0;
+let generation=0,lastObserved='';
 function key(topic){return String(topic||'').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/[^a-z0-9]+/g,'-').slice(0,90)}
 function library(topic){
  const t=topic||'sujet';
@@ -45,9 +45,13 @@ function prepare(detail,autoImpact=true){
  if(!detail?.topic)return;current={...current,...detail};$('studyBridge').hidden=false;$('bridgeTopic').textContent=detail.topic;renderLibrary(detail.topic);renderSkills(detail.topic);
  const caches=load(CACHE,{}),cached=caches[key(detail.topic)];if(cached?.text){renderImpact(cached.text);setImpactStatus('Analyse mémorisée')}else if(autoImpact)generateImpact(false);else{renderImpact('**Cartographie disponible.** Appuie sur « Générer l’impact » pour relier ce sujet à ses sphères, acteurs, métiers, décisions et effets de second ordre.');setImpactStatus('Prête à générer')}
 }
+function observeCourses(){
+ const folio=$('folio');if(!folio)return;const valid=new Set(['cours','approfondir','cas','comparer','auteurs','parcours']);
+ const obs=new MutationObserver(()=>{setTimeout(()=>{const d=load(DRAFT,null);if(!d?.topic||!d?.content||!valid.has(d.mode||'cours'))return;const sig=`${d.topic}|${d.mode}|${String(d.content).length}`;if(sig===lastObserved)return;lastObserved=sig;prepare({topic:d.topic,content:d.content,mode:d.mode,level:d.level,depth:d.depth},true)},0)});obs.observe(folio,{childList:true,subtree:true});
+}
 function init(){
  if(!$('studyBridge'))return;$('bridgeLibraryAll').onclick=()=>syncFullLibrary(current.topic);$('impactRetry').onclick=()=>generateImpact(true);$('bridgeSkillsAll').onclick=()=>$('skillsPanel')?.scrollIntoView({behavior:'smooth',block:'start'});
- window.addEventListener('majlis:study-ready',e=>prepare(e.detail,true));
+ window.addEventListener('majlis:study-ready',e=>prepare(e.detail,true));observeCourses();
  const d=load(DRAFT,null);if(d?.topic&&d?.content)prepare({topic:d.topic,content:d.content,mode:d.mode,level:d.level,depth:d.depth},false);
 }
 window.MajlisStudyPath={prepare,generateImpact};
