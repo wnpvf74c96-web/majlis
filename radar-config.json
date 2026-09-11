@@ -1,0 +1,12 @@
+{
+  "topics": [
+    {"id":"ai","label":"IA & outils","query":"intelligence artificielle nouveaux outils opportunité SaaS Europe France"},
+    {"id":"saas","label":"SaaS & business","query":"SaaS startup opportunité marché financement acquisition Europe France"},
+    {"id":"frdz","label":"France ↔ Algérie","query":"Algérie France startup numérique investissement appel à projets entrepreneuriat"},
+    {"id":"freelance","label":"Web & freelance","query":"développeur web freelance remote mission Java Angular IA France opportunité"},
+    {"id":"durable","label":"Économie durable","query":"développement durable économie circulaire transition écologique appel à projets aide entreprise France Europe"},
+    {"id":"funding","label":"Aides & appels à projets","query":"site:bpifrance.fr OR site:economie.gouv.fr appel à projets numérique IA transition entreprise startup"}
+  ],
+  "maxItems": 30,
+  "lookbackDays": 10
+}
