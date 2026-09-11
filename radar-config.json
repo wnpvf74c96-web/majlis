@@ -1,12 +1,14 @@
 {
   "topics": [
-    {"id":"ai","label":"IA & outils","query":"intelligence artificielle nouveaux outils opportunité SaaS Europe France"},
-    {"id":"saas","label":"SaaS & business","query":"SaaS startup opportunité marché financement acquisition Europe France"},
-    {"id":"frdz","label":"France ↔ Algérie","query":"Algérie France startup numérique investissement appel à projets entrepreneuriat"},
-    {"id":"freelance","label":"Web & freelance","query":"développeur web freelance remote mission Java Angular IA France opportunité"},
-    {"id":"durable","label":"Économie durable","query":"développement durable économie circulaire transition écologique appel à projets aide entreprise France Europe"},
-    {"id":"funding","label":"Aides & appels à projets","query":"site:bpifrance.fr OR site:economie.gouv.fr appel à projets numérique IA transition entreprise startup"}
+    {"id":"ai","label":"IA & outils","query":"intelligence artificielle nouveaux outils API lancement opportunité SaaS Europe France"},
+    {"id":"saas","label":"SaaS & business","query":"SaaS startup nouveau produit concurrent acquisition marché financement réglementation Europe France"},
+    {"id":"frdz","label":"France ↔ Algérie","query":"Algérie France startup numérique investissement appel à projets entrepreneuriat réglementation innovation"},
+    {"id":"freelance","label":"Web & freelance","query":"développeur web freelance remote mission Java Angular IA API France opportunité"},
+    {"id":"durable","label":"Économie durable","query":"développement durable économie circulaire transition écologique réglementation appel à projets aide entreprise France Europe"},
+    {"id":"funding","label":"Aides & appels à projets","query":"site:bpifrance.fr OR site:economie.gouv.fr appel à projets numérique IA transition entreprise startup financement"},
+    {"id":"market","label":"Marché & concurrence","query":"startup SaaS concurrence nouveau service nouvelle plateforme marché B2B France Europe API"},
+    {"id":"legal","label":"Réglementation","query":"nouvelle réglementation numérique IA plateforme freelance entreprise France Europe conformité 2026"}
   ],
-  "maxItems": 30,
+  "maxItems": 40,
   "lookbackDays": 10
 }
