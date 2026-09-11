@@ -10,4 +10,9 @@
   }catch{}
   return previous(input,init);
  };
+ function loadDeepChat(){
+  if(document.querySelector('script[data-majlis-deepchat]'))return;
+  const s=document.createElement('script');s.src='./deep-chat.js?v=12';s.async=false;s.dataset.majlisDeepchat='1';document.head.appendChild(s);
+ }
+ if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',loadDeepChat,{once:true});else loadDeepChat();
 })();
