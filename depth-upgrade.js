@@ -10,9 +10,8 @@
   }catch{}
   return previous(input,init);
  };
- function loadDeepChat(){
-  if(document.querySelector('script[data-majlis-deepchat]'))return;
-  const s=document.createElement('script');s.src='./deep-chat.js?v=12';s.async=false;s.dataset.majlisDeepchat='1';document.head.appendChild(s);
- }
- if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',loadDeepChat,{once:true});else loadDeepChat();
+ function addCss(href,id){if(document.getElementById(id))return;const l=document.createElement('link');l.id=id;l.rel='stylesheet';l.href=href;document.head.appendChild(l)}
+ function addScript(src,id,next){if(document.getElementById(id)){next?.();return}const s=document.createElement('script');s.id=id;s.src=src;s.onload=()=>next?.();document.body.appendChild(s)}
+ function loadV13(){addCss('./board.css?v=13','majlisBoardCss');addScript('./deep-chat.js?v=13','majlisDeepChatScript',()=>addScript('./board.js?v=13','majlisBoardScript'))}
+ if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',loadV13);else loadV13();
 })();
