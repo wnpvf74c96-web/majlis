@@ -4,7 +4,6 @@
   const FALLBACKS=['gemini-3.8-flash','gemini-3.7-flash','gemini-3.6-flash'];
   const sleep=ms=>new Promise(r=>setTimeout(r,ms));
 
-  // Migre automatiquement les anciens réglages Gemini 2.5.
   try{
     const saved=JSON.parse(localStorage.getItem(SETTINGS_KEY)||'{}');
     if(!saved.model || /^gemini-2\.5/.test(saved.model)){
@@ -44,8 +43,6 @@
 
     for(const model of candidates){
       const nextUrl=url.replace(/\/models\/[^/:]+:generateContent/,`/models/${encodeURIComponent(model)}:generateContent`);
-
-      // Deux essais rapides par modèle avant de passer au suivant.
       for(let attempt=0;attempt<2;attempt++){
         if(attempt>0) await sleep(700);
         const response=await nativeFetch(nextUrl,init);
@@ -53,20 +50,20 @@
           updateModel(model,requested);
           return response;
         }
-
         lastResponse=response;
         const message=await readMessage(response);
         const unavailable=response.status===404 || /no longer available|not found|deprecated|not supported|model.+available/i.test(message);
         const overloaded=response.status===500 || response.status===502 || response.status===503 || /high demand|overload|temporar(?:ily|y) unavailable|try again later|capacity/i.test(message);
-
-        // Les erreurs de clé, quota ou permission doivent remonter immédiatement.
         if(!unavailable && !overloaded) return response;
-
-        // Modèle retiré : inutile de réessayer le même.
         if(unavailable) break;
       }
     }
-
     return lastResponse;
   };
+
+  function loadContinuity(){
+    if(document.querySelector('script[data-majlis-continuity]'))return;
+    const s=document.createElement('script');s.src='./continuity.js?v=8';s.async=false;s.dataset.majlisContinuity='1';document.head.appendChild(s);
+  }
+  if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',loadContinuity,{once:true});else loadContinuity();
 })();
