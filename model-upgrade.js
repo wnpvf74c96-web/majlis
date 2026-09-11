@@ -2,6 +2,7 @@
   const SETTINGS_KEY='majlis.settings';
   const PREFERRED='gemini-3.8-flash';
   const FALLBACKS=['gemini-3.8-flash','gemini-3.7-flash','gemini-3.6-flash'];
+  const sleep=ms=>new Promise(r=>setTimeout(r,ms));
 
   // Migre automatiquement les anciens réglages Gemini 2.5.
   try{
@@ -12,8 +13,25 @@
     }
   }catch{}
 
-  // Protection contre les retraits de modèles : si Google désactive le modèle
-  // sélectionné, Majlis essaie automatiquement les Flash stables suivants.
+  function updateModel(model,requested){
+    if(model===requested)return;
+    try{
+      const saved=JSON.parse(localStorage.getItem(SETTINGS_KEY)||'{}');
+      saved.model=model;
+      localStorage.setItem(SETTINGS_KEY,JSON.stringify(saved));
+    }catch{}
+    setTimeout(()=>{
+      const select=document.getElementById('model');
+      if(select && [...select.options].some(o=>o.value===model)) select.value=model;
+      const status=document.getElementById('status');
+      if(status) status.textContent=`Gemini saturé : bascule automatique vers ${model}.`;
+    },0);
+  }
+
+  async function readMessage(response){
+    try{return (await response.clone().json())?.error?.message||''}catch{return ''}
+  }
+
   const nativeFetch=window.fetch.bind(window);
   window.fetch=async function(input,init){
     const url=typeof input==='string'?input:(input&&input.url)||'';
@@ -26,31 +44,29 @@
 
     for(const model of candidates){
       const nextUrl=url.replace(/\/models\/[^/:]+:generateContent/,`/models/${encodeURIComponent(model)}:generateContent`);
-      const nextInput=typeof input==='string'?nextUrl:nextUrl;
-      const response=await nativeFetch(nextInput,init);
-      if(response.ok){
-        if(model!==requested){
-          try{
-            const saved=JSON.parse(localStorage.getItem(SETTINGS_KEY)||'{}');
-            saved.model=model;
-            localStorage.setItem(SETTINGS_KEY,JSON.stringify(saved));
-          }catch{}
-          setTimeout(()=>{
-            const select=document.getElementById('model');
-            if(select && [...select.options].some(o=>o.value===model)) select.value=model;
-            const status=document.getElementById('status');
-            if(status) status.textContent=`Modèle mis à jour automatiquement vers ${model}.`;
-          },0);
-        }
-        return response;
-      }
 
-      lastResponse=response;
-      let message='';
-      try{message=(await response.clone().json())?.error?.message||''}catch{}
-      const unavailable=response.status===404 || /no longer available|not found|deprecated|not supported|model.+available/i.test(message);
-      if(!unavailable) return response;
+      // Deux essais rapides par modèle avant de passer au suivant.
+      for(let attempt=0;attempt<2;attempt++){
+        if(attempt>0) await sleep(700);
+        const response=await nativeFetch(nextUrl,init);
+        if(response.ok){
+          updateModel(model,requested);
+          return response;
+        }
+
+        lastResponse=response;
+        const message=await readMessage(response);
+        const unavailable=response.status===404 || /no longer available|not found|deprecated|not supported|model.+available/i.test(message);
+        const overloaded=response.status===500 || response.status===502 || response.status===503 || /high demand|overload|temporar(?:ily|y) unavailable|try again later|capacity/i.test(message);
+
+        // Les erreurs de clé, quota ou permission doivent remonter immédiatement.
+        if(!unavailable && !overloaded) return response;
+
+        // Modèle retiré : inutile de réessayer le même.
+        if(unavailable) break;
+      }
     }
+
     return lastResponse;
   };
 })();
