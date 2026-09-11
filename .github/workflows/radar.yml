@@ -13,11 +13,17 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: majlis-radar
+  cancel-in-progress: true
+
 jobs:
   radar:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       - name: Build radar feed
         run: python scripts/build_radar.py
       - name: Commit radar update
@@ -29,5 +35,10 @@ jobs:
             echo "No radar changes"
           else
             git commit -m "Actualiser la veille Majlis"
-            git push
+            for i in 1 2 3; do
+              git pull --rebase origin main && git push && exit 0
+              echo "Push concurrent, nouvel essai $i/3..."
+              sleep $((i * 3))
+            done
+            exit 1
           fi
