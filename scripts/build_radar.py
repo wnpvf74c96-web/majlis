@@ -10,7 +10,7 @@ NOW=datetime.now(timezone.utc)
 CUTOFF=NOW-timedelta(days=int(CFG.get('lookbackDays',10)))
 UA='Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/140 Safari/537.36 MajlisRadar/1.1'
 
-OPPORTUNITY_WORDS=('appel à projets','appel a projets','opportunité','opportunite','financement','subvention','aide','bourse','recrute','recrutement','mission','freelance','programme','candidature','investissement','fonds','grant','funding','accelerator','incubateur','concours','marché public','marche public')
+OPPORTUNITY_WORDS=('appel à projets','appel a projets','appel à startups','appel a startups','appel à candidatures','appel a candidatures','opportunité','opportunite','financement','subvention','aide','bourse','recrute','recrutement','mission','freelance','programme','candidature','investissement','fonds','grant','funding','accelerator','incubateur','concours','marché public','marche public','prix par lauréat','prix par laureat')
 NEW_WORDS=('lance','lancement','nouveau','nouvelle','annonce','mise à jour','sortie','release','ouvre','ouverture','dévoile','innovation','présente','presente')
 
 def clean_title(s):
