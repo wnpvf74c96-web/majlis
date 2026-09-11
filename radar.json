@@ -1,1 +1,71 @@
-{"generatedAt":null,"topics":[],"items":[],"status":"initializing"}
+{
+  "generatedAt": "2026-09-11T21:31:27.591829+00:00",
+  "topics": [
+    {
+      "id": "ai",
+      "label": "IA & outils"
+    },
+    {
+      "id": "saas",
+      "label": "SaaS & business"
+    },
+    {
+      "id": "frdz",
+      "label": "France ↔ Algérie"
+    },
+    {
+      "id": "freelance",
+      "label": "Web & freelance"
+    },
+    {
+      "id": "durable",
+      "label": "Économie durable"
+    },
+    {
+      "id": "funding",
+      "label": "Aides & appels à projets"
+    }
+  ],
+  "items": [
+    {
+      "id": "a852695a6aa745",
+      "topic": "frdz",
+      "topicLabel": "France ↔ Algérie",
+      "title": "Algérie-France : un appel à startups IA doté de 30 000 euros par lauréat",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa47330f04648fdb9cde6e94fc41aa3&url=https%3a%2f%2fwww.msn.com%2ffr-xl%2fafrique-du-nord%2factualite%2falg%25C3%25A9rie-france-un-appel-%25C3%25A0-startups-ia-dot%25C3%25A9-de-30-000-euros-par-laur%25C3%25A9at%2far-AA2c1EnZ&c=7621358614601404201&mkt=en-us",
+      "source": "Bing News",
+      "published": "2026-09-11T05:01:41+00:00",
+      "kind": "news",
+      "score": 3.76
+    },
+    {
+      "id": "9a0b872db06553",
+      "topic": "funding",
+      "topicLabel": "Aides & appels à projets",
+      "title": "Ed.ai lève 5 millions d'euros pour accélérer son déploiement en France et structurer sa conquête du marché américain - Bpifrance | Presse",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbVp4YkV4QVZzelVKRTREQ0RKRmdGVnRBQ0FIdU50UkJzUk82U3Y2WnBPX3lYSnJJc3NselI0SThpZDNKbm9FOEtWdHZtNjJ3RldlZXdLMkJLUlpzcDN3aXR0YlJ2cURqMXBfRHFpV19KMXFZQ1Zxa2hOalU4TGo2RGRtb2xyVjFlTnFabGVfMlQ1UVl1TUdlVU1FX0l5emZ1YkkyazZ1YmVSQVFXUmR5clJFM2F4VVRPdkN0Q2lJb3EyYUdpb3d4cEcxem9jNmJrb0FrVXhMejc4NGc?oc=5",
+      "source": "Bpifrance | Presse",
+      "published": "2026-09-10T07:49:56+00:00",
+      "kind": "news",
+      "score": 3.45
+    },
+    {
+      "id": "631937ce3f2f0c",
+      "topic": "funding",
+      "topicLabel": "Aides & appels à projets",
+      "title": "Molleau : l’entreprise qui veut réduire la consommation d’eau douche après douche - Bpifrance",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNckN5OHVCQ2tici1xVXRPcWZFSmc3WnBOWnBsVEpQSXliRHNNam9vSVVNYWVROVdnRVZIRE8xbXdYZFVEQURTYWZqTUl0cGRnUzlzaGJOZWYxanp5bG1TS0VFLVVtd3JESUQ5T3QwQlZRYktEY0o4SDk5WFBveTZFM1l6VWtoV1BlQl95UExyaWtXMkNlV1VEOWZwcG5NajB1WFFZR3l0MlNRMTAxR0RPWjBQRGhBbHFUVWlfV1dnbw?oc=5",
+      "source": "Bpifrance",
+      "published": "2026-09-10T04:26:30+00:00",
+      "kind": "news",
+      "score": 3.4
+    }
+  ],
+  "status": "ok",
+  "errors": [
+    "IA & outils: Google News: aucun résultat récent | Bing News: aucun résultat récent",
+    "SaaS & business: Google News: aucun résultat récent | Bing News: aucun résultat récent",
+    "Web & freelance: Google News: aucun résultat récent | Bing News: aucun résultat récent",
+    "Économie durable: Google News: aucun résultat récent | Bing News: aucun résultat récent"
+  ]
+}
