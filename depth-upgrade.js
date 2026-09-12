@@ -11,13 +11,11 @@
   return previous(input,init);
  };
  function addCss(href,id){const old=document.getElementById(id);if(old){old.href=href;return}const l=document.createElement('link');l.id=id;l.rel='stylesheet';l.href=href;document.head.appendChild(l)}
- function addScript(src,id,next){const old=document.getElementById(id);if(old)old.remove();const s=document.createElement('script');s.id=id;s.src=src;s.onload=()=>next?.();document.body.appendChild(s)}
- function loadV15(){
-  addCss('./board.css?v=15','majlisBoardCss');
-  addCss('./chat-mobile.css?v=15','majlisChatMobileCss');
-  addScript('./deep-chat.js?v=15','majlisDeepChatScript',()=>
-   addScript('./chat-rescue.js?v=15','majlisChatRescueScript',()=>
-    addScript('./board.js?v=15','majlisBoardScript')));
+ function addScript(src,id,next){const old=document.getElementById(id);if(old)old.remove();const s=document.createElement('script');s.id=id;s.src=src;s.onload=()=>next?.();s.onerror=()=>next?.();document.body.appendChild(s)}
+ function loadV16(){
+  addCss('./board.css?v=16','majlisBoardCss');
+  addScript('./chat-stable.js?v=16','majlisStableChatScript',()=>
+   addScript('./board.js?v=16','majlisBoardScript'));
  }
- if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',loadV15);else loadV15();
+ if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',loadV16);else loadV16();
 })();
