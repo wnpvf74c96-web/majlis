@@ -24,6 +24,8 @@ jobs:
           node --check deep-chat.js
           node --check board.js
           node --check depth-upgrade.js
+          node --check courses.js
+          node --check courses-board.js
       - name: Setup Pages
         uses: actions/configure-pages@v5
         with:
