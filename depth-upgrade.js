@@ -10,14 +10,14 @@
   }catch{}
   return previous(input,init);
  };
- function addCss(href,id){if(document.getElementById(id))return;const l=document.createElement('link');l.id=id;l.rel='stylesheet';l.href=href;document.head.appendChild(l)}
- function addScript(src,id,next){if(document.getElementById(id)){next?.();return}const s=document.createElement('script');s.id=id;s.src=src;s.onload=()=>next?.();document.body.appendChild(s)}
- function loadV14(){
-  addCss('./board.css?v=14','majlisBoardCss');
-  addCss('./chat-mobile.css?v=14','majlisChatMobileCss');
-  addScript('./deep-chat.js?v=14','majlisDeepChatScript',()=>
-   addScript('./chat-rescue.js?v=14','majlisChatRescueScript',()=>
-    addScript('./board.js?v=14','majlisBoardScript')));
+ function addCss(href,id){const old=document.getElementById(id);if(old){old.href=href;return}const l=document.createElement('link');l.id=id;l.rel='stylesheet';l.href=href;document.head.appendChild(l)}
+ function addScript(src,id,next){const old=document.getElementById(id);if(old)old.remove();const s=document.createElement('script');s.id=id;s.src=src;s.onload=()=>next?.();document.body.appendChild(s)}
+ function loadV15(){
+  addCss('./board.css?v=15','majlisBoardCss');
+  addCss('./chat-mobile.css?v=15','majlisChatMobileCss');
+  addScript('./deep-chat.js?v=15','majlisDeepChatScript',()=>
+   addScript('./chat-rescue.js?v=15','majlisChatRescueScript',()=>
+    addScript('./board.js?v=15','majlisBoardScript')));
  }
- if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',loadV14);else loadV14();
+ if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',loadV15);else loadV15();
 })();
