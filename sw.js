@@ -1,4 +1,4 @@
-const CACHE='majlis-v19';
+const CACHE='majlis-v20';
 const ASSETS=['./','./index.html','./app.css','./dashboard.css','./learning.css','./board.css','./theme-light.css','./courses.css','./courses-board.css','./prompts.js','./app.js','./model-upgrade.js','./continuity.js','./depth-upgrade.js','./deep-chat.js','./board.js','./courses.js','./courses-board.js','./workspace.js','./resources.js','./skills.js','./study-path.js','./dashboard.js','./radar.json','./manifest.webmanifest','./icon.svg','./icons/apple-touch-icon.png'];
 self.addEventListener('install',e=>e.waitUntil(caches.open(CACHE).then(c=>c.addAll(ASSETS)).then(()=>self.skipWaiting())));
 self.addEventListener('activate',e=>e.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k!==CACHE).map(k=>caches.delete(k)))).then(()=>self.clients.claim())));
