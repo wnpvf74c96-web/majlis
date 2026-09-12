@@ -1,0 +1,10 @@
+{
+  "name": "Pilotage Pro",
+  "short_name": "Pilotage",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f2eb",
+  "theme_color": "#10201a",
+  "description": "Pilotage opérationnel pour restaurant"
+}
