@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T21:36:43.743961+00:00",
+  "generatedAt": "2026-09-12T00:34:51.418903+00:00",
   "topics": [
     {
       "id": "ai",
@@ -36,6 +36,17 @@
   ],
   "items": [
     {
+      "id": "6ea00d3f6791b1",
+      "topic": "funding",
+      "topicLabel": "Aides & appels à projets",
+      "title": "Bourse de la transmission - Bpifrance Transmission",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zZVo5S1M2eEd6LUJnb0NHZjFpTkFYQmFNS2ZiX1hpRkpEVVZ2TU04dEx0TENLLXppd3JVMlZtZFV3Y2swZ05QQXlTSGJ5dkthUWc?oc=5",
+      "source": "Bpifrance Transmission",
+      "published": "2026-09-10T17:02:55+00:00",
+      "kind": "opportunity",
+      "score": 8.54
+    },
+    {
       "id": "9a0b872db06553",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
@@ -44,7 +55,7 @@
       "source": "Bpifrance | Presse",
       "published": "2026-09-10T07:49:56+00:00",
       "kind": "news",
-      "score": 3.45
+      "score": 3.41
     },
     {
       "id": "631937ce3f2f0c",
@@ -55,7 +66,18 @@
       "source": "Bpifrance",
       "published": "2026-09-10T04:26:30+00:00",
       "kind": "news",
-      "score": 3.4
+      "score": 3.36
+    },
+    {
+      "id": "d801c00b4be6c6",
+      "topic": "funding",
+      "topicLabel": "Aides & appels à projets",
+      "title": "Sommaire - tresor.economie.gouv.fr",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUkQ5RW8wVEVKbGcxZHYyY0hfaElna1pkQmEzREFFUmxSTmZ5UDR2akk5c1F0MDdxYkNGT0Q1MWtNWTJSdDNZMW5QRklJNEI3VHhncFhWTHEwOXU4dzd4MlM5NW00ZHVVY2FJSWtaMUpoWGlRZEhxd3Frckx4cEMxTWdQM19tUHNIZUNjbzl0cmtaTHM2eV9rcW1mdEJSZkhDc0Q1WFBYcG5iQ3h1SzIwQVJpR09iemRHMjZvbGNseG93Zw?oc=5",
+      "source": "tresor.economie.gouv.fr",
+      "published": "2026-09-08T07:00:00+00:00",
+      "kind": "news",
+      "score": 2.69
     }
   ],
   "status": "ok",
@@ -63,7 +85,7 @@
     "IA & outils: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "SaaS & business: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "France ↔ Algérie: Google News: aucun résultat récent | Bing News: aucun résultat récent",
-    "Web & freelance: Google News: aucun résultat récent | Bing News: aucun résultat récent",
+    "Web & freelance: Google News: aucun résultat récent | Bing News: ParseError: not well-formed (invalid token): line 1, column 41",
     "Économie durable: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "Marché & concurrence: Google News: aucun résultat récent | Bing News: aucun résultat récent"
   ]
