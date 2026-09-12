@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T06:32:58.001857+00:00",
+  "generatedAt": "2026-09-12T12:32:06.224833+00:00",
   "topics": [
     {
       "id": "ai",
@@ -44,7 +44,7 @@
       "source": "Bpifrance Transmission",
       "published": "2026-09-10T17:02:55+00:00",
       "kind": "opportunity",
-      "score": 8.45
+      "score": 8.37
     },
     {
       "id": "9a0b872db06553",
@@ -55,7 +55,7 @@
       "source": "Bpifrance | Presse",
       "published": "2026-09-10T07:49:56+00:00",
       "kind": "news",
-      "score": 3.32
+      "score": 3.23
     },
     {
       "id": "631937ce3f2f0c",
@@ -66,7 +66,7 @@
       "source": "Bpifrance",
       "published": "2026-09-10T04:26:30+00:00",
       "kind": "news",
-      "score": 3.27
+      "score": 3.18
     },
     {
       "id": "d801c00b4be6c6",
@@ -77,12 +77,12 @@
       "source": "tresor.economie.gouv.fr",
       "published": "2026-09-08T07:00:00+00:00",
       "kind": "news",
-      "score": 2.61
+      "score": 2.52
     }
   ],
   "status": "ok",
   "errors": [
-    "IA & outils: Google News: aucun résultat récent | Bing News: ParseError: not well-formed (invalid token): line 1, column 41",
+    "IA & outils: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "SaaS & business: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "France ↔ Algérie: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "Web & freelance: Google News: aucun résultat récent | Bing News: aucun résultat récent",
