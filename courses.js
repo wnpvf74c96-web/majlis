@@ -17,12 +17,15 @@ async function filesFor(courseId){const db=await openDB();return new Promise((re
 async function fileDelete(fileId){const db=await openDB();return new Promise((res,rej)=>{const tx=db.transaction(STORE,'readwrite');tx.objectStore(STORE).delete(fileId);tx.oncomplete=()=>res();tx.onerror=()=>rej(tx.error)})}
 async function filesDeleteCourse(courseId){const fs=await filesFor(courseId);await Promise.all(fs.map(f=>fileDelete(f.id)))}
 function fmtBytes(n=0){if(n<1024)return `${n} o`;if(n<1024*1024)return `${(n/1024).toFixed(1)} Ko`;return `${(n/1024/1024).toFixed(1)} Mo`}
+function basename(path=''){return String(path).split('/').filter(Boolean).pop()||String(path)}
+function mimeFromName(name=''){const ext=name.split('.').pop()?.toLowerCase();return({pdf:'application/pdf',txt:'text/plain',md:'text/markdown',csv:'text/csv',json:'application/json',rtf:'application/rtf',png:'image/png',jpg:'image/jpeg',jpeg:'image/jpeg',webp:'image/webp',gif:'image/gif',svg:'image/svg+xml',doc:'application/msword',docx:'application/vnd.openxmlformats-officedocument.wordprocessingml.document',xls:'application/vnd.ms-excel',xlsx:'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet',ppt:'application/vnd.ms-powerpoint',pptx:'application/vnd.openxmlformats-officedocument.presentationml.presentation'})[ext]||'application/octet-stream'}
 function iconFor(name='',type=''){const ext=name.split('.').pop()?.toLowerCase();if(type.includes('pdf')||ext==='pdf')return'PDF';if(/word|docx?|officedocument\.word/.test(type)||/^docx?$/.test(ext))return'DOC';if(/sheet|excel/.test(type)||/xlsx?|csv/.test(ext))return'XLS';if(/presentation|powerpoint/.test(type)||/pptx?/.test(ext))return'PPT';if(type.startsWith('image/'))return'IMG';if(type.startsWith('text/')||/txt|md|rtf/.test(ext))return'TXT';return'FILE'}
-function isTextFile(f){return f&&(/^(text\/)/.test(f.type)||/\.(txt|md|csv|json|rtf)$/i.test(f.name||''))}
+function isTextFile(f){return f&&(/^(text\/)/.test(f.type)||/\.(txt|md|csv|json|rtf)$/i.test(f.name||f.path||''))}
 function courseById(cid){return courses.find(c=>c.id===cid)}
 function touch(c){c.updated=new Date().toISOString();saveCourses(courses)}
+function setImportStatus(text='',bad=false){const el=$('courseImportStatus');if(!el)return;el.textContent=text;el.classList.toggle('bad',!!bad)}
 function ensureUI(){if($('coursesPanel'))return;const sec=document.createElement('section');sec.id='coursesPanel';sec.className='panel courses-panel';sec.innerHTML=`
-<div class="courses-head"><div><div class="label">MES COURS · ORGANISATION</div><h2>Classeur universitaire</h2><p class="muted">Classe tes matières, importe tes documents et reprends ton travail sans chercher partout.</p></div><span class="courses-badge">Stockage local</span></div>
+<div class="courses-head"><div><div class="label">MES COURS · ORGANISATION</div><h2>Classeur universitaire</h2><p class="muted">Classe tes matières, importe tes fichiers ou des dossiers complets et reprends ton travail sans chercher partout.</p></div><span class="courses-badge">Stockage local</span></div>
 <div class="course-summary"><div class="course-stat"><strong id="courseStatTotal">0</strong><span>matières / UE</span></div><div class="course-stat"><strong id="courseStatFiles">0</strong><span>fichiers</span></div><div class="course-stat"><strong id="courseStatS1">0</strong><span>semestre 1</span></div><div class="course-stat"><strong id="courseStatS2">0</strong><span>semestre 2</span></div></div>
 <div class="course-toolbar"><input id="courseSearch" placeholder="Rechercher une matière, un code, un document…"><select id="courseFilter"><option value="all">Tous</option><option value="S1">Semestre 1</option><option value="S2">Semestre 2</option><option value="Annuel">Annuel</option><option value="Archives">Archives</option></select><button id="courseNew" class="primary" type="button">+ Nouvelle matière</button></div>
 <div id="courseCreate" class="course-create" hidden><input id="courseNewName" placeholder="Nom de la matière / UE"><input id="courseNewCode" placeholder="Code"><select id="courseNewSemester"><option>S1</option><option>S2</option><option>Annuel</option><option>Archives</option></select><input id="courseNewExam" type="date" aria-label="Date d'examen"><button id="courseCreateBtn" class="primary" type="button">Créer</button></div>
@@ -32,7 +35,17 @@ function ensureUI(){if($('coursesPanel'))return;const sec=document.createElement
   <div class="course-fields"><div><label>Nom</label><input id="courseName"></div><div><label>Semestre</label><select id="courseSemester"><option>S1</option><option>S2</option><option>Annuel</option><option>Archives</option></select></div><div><label>Examen / échéance</label><input id="courseExam" type="date"></div></div>
   <div class="course-progress-editor"><input id="courseProgress" type="range" min="0" max="100" step="5"><span id="courseProgressValue" class="course-progress-value">0%</span></div>
   <div class="course-notes-wrap"><label>Notes / objectifs / informations utiles</label><textarea id="courseNotes" placeholder="Plan du cours, chapitres à revoir, consignes, liens, objectifs…"></textarea></div>
-  <div class="course-files"><div class="course-files-head"><b>Documents du cours</b><span id="courseFileCount" class="muted"></span></div><label id="courseDrop" class="course-drop"><strong>Importer des fichiers</strong><span>PDF, Word, PowerPoint, Excel, images, notes…</span><input id="courseFileInput" type="file" multiple hidden></label><div id="courseFileList" class="course-file-list"></div><div id="courseStorage" class="course-storage"></div></div>
+  <div class="course-files">
+    <div class="course-files-head"><b>Documents du cours</b><span id="courseFileCount" class="muted"></span></div>
+    <div class="course-import-actions">
+      <label class="course-import-btn"><span>＋</span><b>Fichiers</b><small>Un ou plusieurs documents</small><input id="courseFileInput" type="file" multiple hidden></label>
+      <label class="course-import-btn"><span>▤</span><b>Dossier</b><small>Importer toute l’arborescence</small><input id="courseFolderInput" type="file" multiple webkitdirectory directory hidden></label>
+      <label class="course-import-btn"><span>ZIP</span><b>Archive ZIP</b><small>Fiable sur iPhone / iCloud Drive</small><input id="courseZipInput" type="file" accept=".zip,application/zip,application/x-zip-compressed" hidden></label>
+    </div>
+    <label id="courseDrop" class="course-drop"><strong>Ou dépose tes documents ici</strong><span>Les sous-dossiers sont conservés quand le navigateur les fournit.</span></label>
+    <div id="courseImportStatus" class="course-import-status" aria-live="polite"></div>
+    <div id="courseFileList" class="course-file-list"></div><div id="courseStorage" class="course-storage"></div>
+  </div>
 </div>`;
 const anchor=$('skillsPanel')||$('workspacePanel')||$('resourcesPanel');anchor?.insertAdjacentElement('beforebegin',sec);bind();render()}
 function bind(){
@@ -47,8 +60,10 @@ function bind(){
  ['courseName','courseSemester','courseExam','courseNotes','courseProgress'].forEach(k=>$(k).addEventListener(k==='courseProgress'?'input':'change',saveActive));
  $('courseName').addEventListener('input',debounce(saveActive,350));$('courseNotes').addEventListener('input',debounce(saveActive,350));
  $('courseProgress').oninput=()=>{$('courseProgressValue').textContent=`${$('courseProgress').value}%`;saveActive()};
- $('courseFileInput').onchange=e=>importFiles([...e.target.files]);
- const drop=$('courseDrop');['dragenter','dragover'].forEach(n=>drop.addEventListener(n,e=>{e.preventDefault();drop.classList.add('drag')}));['dragleave','drop'].forEach(n=>drop.addEventListener(n,e=>{e.preventDefault();drop.classList.remove('drag')}));drop.addEventListener('drop',e=>importFiles([...e.dataTransfer.files]));
+ $('courseFileInput').onchange=e=>importFiles([...e.target.files],'fichiers');
+ const folder=$('courseFolderInput');folder.setAttribute('webkitdirectory','');folder.setAttribute('directory','');folder.multiple=true;folder.onchange=e=>importFiles([...e.target.files],'dossier');
+ $('courseZipInput').onchange=e=>{const f=e.target.files?.[0];if(f)importZip(f)};
+ const drop=$('courseDrop');['dragenter','dragover'].forEach(n=>drop.addEventListener(n,e=>{e.preventDefault();drop.classList.add('drag')}));['dragleave','drop'].forEach(n=>drop.addEventListener(n,e=>{e.preventDefault();drop.classList.remove('drag')}));drop.addEventListener('drop',async e=>{const list=await filesFromDrop(e.dataTransfer);importFiles(list,'dépôt')});
  window.addEventListener('majlis:open-courses',()=>window.MajlisBoard?.show?.('courses'));
 }
 function debounce(fn,ms){let t;return(...a)=>{clearTimeout(t);t=setTimeout(()=>fn(...a),ms)}}
@@ -56,11 +71,56 @@ function createCourse(){const name=$('courseNewName').value.trim();if(!name)retu
 async function render(){renderGrid();await updateStats();if(activeId&&courseById(activeId))openCourse(activeId,false)}
 async function updateStats(){let totalFiles=0;for(const c of courses){try{totalFiles+=(await filesFor(c.id)).length}catch{}}$('courseStatTotal').textContent=courses.length;$('courseStatFiles').textContent=totalFiles;$('courseStatS1').textContent=courses.filter(c=>c.semester==='S1').length;$('courseStatS2').textContent=courses.filter(c=>c.semester==='S2').length;try{const e=await navigator.storage?.estimate?.();if(e&&$('courseStorage'))$('courseStorage').textContent=`Stockage de l’app : ${fmtBytes(e.usage||0)} utilisés` }catch{}}
 function renderGrid(){const root=$('courseGrid');if(!root)return;let list=courses.filter(c=>filter==='all'||c.semester===filter);if(query)list=list.filter(c=>`${c.name} ${c.code||''} ${c.notes||''}`.toLowerCase().includes(query));root.innerHTML='';if(!list.length){root.innerHTML='<div class="course-empty">Aucune matière ici pour le moment. Crée une UE puis importe tes supports de cours.</div>';return}list.sort((a,b)=>new Date(b.updated||0)-new Date(a.updated||0)).forEach(c=>{const b=document.createElement('button');b.type='button';b.className='course-card';const exam=c.exam?new Date(`${c.exam}T12:00:00`).toLocaleDateString('fr-FR'):'Aucune échéance';b.innerHTML=`<div class="course-card-top"><div><h3>${esc(c.name)}</h3><div class="course-code">${esc(c.code||'Sans code')}</div></div><span class="course-pill">${esc(c.semester||'—')}</span></div><div class="course-progress"><span style="width:${Number(c.progress)||0}%"></span></div><div class="course-card-foot"><span>${Number(c.progress)||0}% maîtrisé</span><span>${esc(exam)}</span></div>`;b.onclick=()=>openCourse(c.id);root.appendChild(b)})}
-async function openCourse(cid,scroll=true){const c=courseById(cid);if(!c)return;activeId=cid;localStorage.setItem(ACTIVE,cid);$('courseDetail').hidden=false;$('courseDetailTitle').textContent=c.name;$('courseDetailSub').textContent=[c.code,c.semester].filter(Boolean).join(' · ');$('courseName').value=c.name||'';$('courseSemester').value=c.semester||'S1';$('courseExam').value=c.exam||'';$('courseNotes').value=c.notes||'';$('courseProgress').value=Number(c.progress)||0;$('courseProgressValue').textContent=`${Number(c.progress)||0}%`;await renderFiles();if(scroll)$('courseDetail').scrollIntoView({behavior:'smooth',block:'start'})}
+async function openCourse(cid,scroll=true){const c=courseById(cid);if(!c)return;activeId=cid;localStorage.setItem(ACTIVE,cid);$('courseDetail').hidden=false;$('courseDetailTitle').textContent=c.name;$('courseDetailSub').textContent=[c.code,c.semester].filter(Boolean).join(' · ');$('courseName').value=c.name||'';$('courseSemester').value=c.semester||'S1';$('courseExam').value=c.exam||'';$('courseNotes').value=c.notes||'';$('courseProgress').value=Number(c.progress)||0;$('courseProgressValue').textContent=`${Number(c.progress)||0}%`;setImportStatus('');await renderFiles();if(scroll)$('courseDetail').scrollIntoView({behavior:'smooth',block:'start'})}
 function saveActive(){const c=courseById(activeId);if(!c)return;c.name=$('courseName').value.trim()||c.name;c.semester=$('courseSemester').value;c.exam=$('courseExam').value;c.notes=$('courseNotes').value;c.progress=Number($('courseProgress').value)||0;touch(c);$('courseDetailTitle').textContent=c.name;$('courseDetailSub').textContent=[c.code,c.semester].filter(Boolean).join(' · ');renderGrid()}
 async function removeCourse(){const c=courseById(activeId);if(!c)return;if(!confirm(`Supprimer « ${c.name} » et tous ses fichiers de Majlis ?`))return;await filesDeleteCourse(c.id);courses=courses.filter(x=>x.id!==c.id);saveCourses(courses);activeId='';localStorage.removeItem(ACTIVE);$('courseDetail').hidden=true;render();}
-async function importFiles(list){if(!activeId||!list.length)return;const c=courseById(activeId);for(const file of list){await filePut({id:id(),courseId:activeId,name:file.name,type:file.type||'',size:file.size,lastModified:file.lastModified||Date.now(),created:new Date().toISOString(),blob:file})}if(c)touch(c);$('courseFileInput').value='';await renderFiles();await updateStats()}
-async function renderFiles(){const root=$('courseFileList');if(!root||!activeId)return;const fs=(await filesFor(activeId)).sort((a,b)=>new Date(b.created)-new Date(a.created));$('courseFileCount').textContent=`${fs.length} fichier${fs.length>1?'s':''}`;root.innerHTML='';if(!fs.length){root.innerHTML='<div class="course-search-empty">Aucun document importé.</div>';return}fs.forEach(f=>{const row=document.createElement('div');row.className='course-file';row.innerHTML=`<div class="course-file-icon">${iconFor(f.name,f.type)}</div><div><div class="course-file-name">${esc(f.name)}</div><div class="course-file-meta">${fmtBytes(f.size)} · ${new Date(f.created).toLocaleDateString('fr-FR')}</div></div><div class="course-file-actions"><button class="ghost small" type="button" data-open>Ouvrir</button>${isTextFile(f)?'<button class="ghost small" type="button" data-study>Étudier</button>':''}<button class="ghost small course-danger" type="button" data-del>×</button></div>`;row.querySelector('[data-open]').onclick=()=>openFile(f.id);row.querySelector('[data-study]')?.addEventListener('click',()=>studyTextFile(f.id));row.querySelector('[data-del]').onclick=async()=>{await fileDelete(f.id);await renderFiles();await updateStats()};root.appendChild(row)})}
+async function askPersistentStorage(){try{if(navigator.storage?.persist)await navigator.storage.persist()}catch{}}
+async function importFiles(list,source='fichiers'){
+ if(!activeId||!list.length){if(source==='dossier')setImportStatus('Aucun fichier trouvé dans ce dossier.',true);return}
+ const c=courseById(activeId);await askPersistentStorage();let done=0,totalBytes=0;
+ setImportStatus(`Import de ${list.length} fichier${list.length>1?'s':''}…`);
+ try{
+  for(const file of list){
+   if(!file||file.size===0&&file.name==='.DS_Store')continue;
+   const path=(file.webkitRelativePath||file._relativePath||file.name||'document').replace(/^\/+/, '');
+   await filePut({id:id(),courseId:activeId,name:basename(path),path,type:file.type||mimeFromName(path),size:file.size||0,lastModified:file.lastModified||Date.now(),created:new Date().toISOString(),blob:file});
+   done++;totalBytes+=file.size||0;if(done%10===0)setImportStatus(`Import… ${done}/${list.length}`)
+  }
+  if(c)touch(c);
+  if($('courseFileInput'))$('courseFileInput').value='';if($('courseFolderInput'))$('courseFolderInput').value='';
+  setImportStatus(`${done} fichier${done>1?'s':''} importé${done>1?'s':''} depuis ${source} · ${fmtBytes(totalBytes)}`);
+  await renderFiles();await updateStats();
+ }catch(err){console.error(err);setImportStatus('Import interrompu. Le stockage de l’iPhone est peut-être plein ou Safari a refusé un fichier.',true)}
+}
+function loadScript(src,id){return new Promise((resolve,reject)=>{if(window.JSZip)return resolve(window.JSZip);let s=document.getElementById(id);if(s){s.addEventListener('load',()=>resolve(window.JSZip),{once:true});s.addEventListener('error',reject,{once:true});return}s=document.createElement('script');s.id=id;s.src=src;s.onload=()=>resolve(window.JSZip);s.onerror=reject;document.head.appendChild(s)})}
+async function importZip(file){
+ if(!activeId||!file)return;setImportStatus(`Ouverture de ${file.name}…`);
+ try{
+  const JSZip=await loadScript('https://cdn.jsdelivr.net/npm/jszip@3.10.1/dist/jszip.min.js','majlisJSZip');
+  if(!JSZip)throw new Error('JSZip indisponible');
+  const zip=await JSZip.loadAsync(file);const entries=Object.values(zip.files).filter(e=>!e.dir&&!/(^|\/)__MACOSX\//.test(e.name)&&!/(^|\/)\.DS_Store$/.test(e.name));
+  if(!entries.length){setImportStatus('Cette archive ZIP ne contient aucun fichier exploitable.',true);return}
+  await askPersistentStorage();const c=courseById(activeId);let done=0,totalBytes=0;
+  for(const entry of entries){
+   setImportStatus(`ZIP : ${done+1}/${entries.length} · ${entry.name}`);
+   const raw=await entry.async('blob');const type=mimeFromName(entry.name);const blob=raw.type===type?raw:new Blob([raw],{type});
+   const path=entry.name.replace(/^\/+/, '');await filePut({id:id(),courseId:activeId,name:basename(path),path,type,size:blob.size,lastModified:Date.now(),created:new Date().toISOString(),blob});done++;totalBytes+=blob.size;
+  }
+  if(c)touch(c);$('courseZipInput').value='';setImportStatus(`${done} fichier${done>1?'s':''} importé${done>1?'s':''} depuis le ZIP · ${fmtBytes(totalBytes)}`);await renderFiles();await updateStats();
+ }catch(err){console.error(err);setImportStatus('Impossible de lire ce ZIP. Vérifie qu’il s’agit bien d’une archive .zip standard et que tu es connecté pour le premier chargement du lecteur ZIP.',true)}
+}
+async function filesFromDrop(dt){
+ const items=[...(dt?.items||[])];if(!items.length)return[...(dt?.files||[])];
+ const out=[];
+ const walk=entry=>new Promise(resolve=>{
+  if(!entry)return resolve();
+  if(entry.isFile)return entry.file(f=>{f._relativePath=entry.fullPath?.replace(/^\//,'')||f.name;out.push(f);resolve()},()=>resolve());
+  if(entry.isDirectory){const reader=entry.createReader();const read=()=>reader.readEntries(async ents=>{if(!ents.length)return resolve();for(const e of ents)await walk(e);read()},()=>resolve());read();return}
+  resolve();
+ });
+ const entries=items.map(i=>i.webkitGetAsEntry?.()).filter(Boolean);if(!entries.length)return[...(dt?.files||[])];for(const e of entries)await walk(e);return out;
+}
+async function renderFiles(){const root=$('courseFileList');if(!root||!activeId)return;const fs=(await filesFor(activeId)).sort((a,b)=>String(a.path||a.name).localeCompare(String(b.path||b.name),'fr',{numeric:true}));$('courseFileCount').textContent=`${fs.length} fichier${fs.length>1?'s':''}`;root.innerHTML='';if(!fs.length){root.innerHTML='<div class="course-search-empty">Aucun document importé.</div>';return}fs.forEach(f=>{const row=document.createElement('div');row.className='course-file';const path=f.path||f.name;const folder=path.includes('/')?path.split('/').slice(0,-1).join(' / '):'';row.innerHTML=`<div class="course-file-icon">${iconFor(f.name,f.type)}</div><div><div class="course-file-name">${esc(f.name)}</div><div class="course-file-meta">${folder?`<span class="course-file-path">${esc(folder)}</span> · `:''}${fmtBytes(f.size)} · ${new Date(f.created).toLocaleDateString('fr-FR')}</div></div><div class="course-file-actions"><button class="ghost small" type="button" data-open>Ouvrir</button>${isTextFile(f)?'<button class="ghost small" type="button" data-study>Étudier</button>':''}<button class="ghost small course-danger" type="button" data-del>×</button></div>`;row.querySelector('[data-open]').onclick=()=>openFile(f.id);row.querySelector('[data-study]')?.addEventListener('click',()=>studyTextFile(f.id));row.querySelector('[data-del]').onclick=async()=>{await fileDelete(f.id);await renderFiles();await updateStats()};root.appendChild(row)})}
 async function openFile(fid){const r=await fileGet(fid);if(!r?.blob)return;const url=URL.createObjectURL(r.blob);window.open(url,'_blank');setTimeout(()=>URL.revokeObjectURL(url),60000)}
 async function studyTextFile(fid){const r=await fileGet(fid);const c=courseById(activeId);if(!r?.blob||!c)return;let text='';try{text=await r.blob.text()}catch{};window.MajlisBoard?.show?.('study');setTimeout(()=>{if($('topic'))$('topic').value=`${c.name} — ${r.name}`;if($('angle'))$('angle').value=`Travaille à partir de ce document importé. Respecte fidèlement son contenu et distingue clairement ce qui vient du document de toute explication ajoutée.\n\nCONTENU DU DOCUMENT:\n${text.slice(0,10000)}`;$('topic')?.focus()},180)}
 function studyCourse(){const c=courseById(activeId);if(!c)return;window.MajlisBoard?.show?.('study');setTimeout(()=>{if($('topic'))$('topic').value=c.name;if($('angle'))$('angle').value=[c.code?`Code: ${c.code}`:'',c.notes?`Notes et objectifs:\n${c.notes}`:''].filter(Boolean).join('\n\n');$('topic')?.focus()},180)}
