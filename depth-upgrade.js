@@ -21,11 +21,16 @@
   icon.href='./icon.svg?v=18';icon.type='image/svg+xml';
   const theme=document.querySelector('meta[name="theme-color"]');if(theme)theme.content='#0d1015';
  }
- function loadV18(){
+ function loadV19(){
   ensureIcon();
   addCss('./theme-light.css?v=18','majlisLightThemeCss');
   addCss('./board.css?v=17','majlisBoardCss');
-  addScript('./deep-chat.js?v=17','majlisDeepChatScript',()=>addScript('./board.js?v=17','majlisBoardScript'));
+  addCss('./courses.css?v=19','majlisCoursesCss');
+  addCss('./courses-board.css?v=19','majlisCoursesBoardCss');
+  addScript('./courses.js?v=19','majlisCoursesScript',()=>
+   addScript('./deep-chat.js?v=17','majlisDeepChatScript',()=>
+    addScript('./board.js?v=17','majlisBoardScript',()=>
+     addScript('./courses-board.js?v=19','majlisCoursesBoardScript'))));
  }
- if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',loadV18);else loadV18();
+ if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',loadV19);else loadV19();
 })();
