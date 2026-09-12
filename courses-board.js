@@ -1,0 +1,15 @@
+(()=>{
+'use strict';
+const $=id=>document.getElementById(id);
+const managedIds=['studyModePanel','normalPanel','debatePanel','folioSection','studyBridge','historyPanel','deepChatPanel','workspacePanel','resourcesPanel','skillsPanel','dashboardPanel'];
+function hideCourses(){const p=$('coursesPanel');p?.classList.remove('courses-open')}
+function openCourses(){const p=$('coursesPanel');if(!p)return;const home=$('boardHome');home?.classList.add('board-space-hidden');managedIds.forEach(id=>$(id)?.classList.add('board-space-hidden'));p.classList.add('courses-open');document.querySelectorAll('.board-nav-btn').forEach(b=>b.classList.remove('active'));window.scrollTo({top:0,behavior:'smooth'});window.MajlisCourses?.refresh?.()}
+function addBoardShortcut(){const root=document.querySelector('#boardHome .board-actions');if(!root||root.querySelector('[data-course-organizer]'))return;const b=document.createElement('button');b.type='button';b.className='board-action';b.dataset.courseOrganizer='1';b.innerHTML='<span class="board-action-icon">▤</span><span class="board-action-title">Mes cours</span><span class="board-action-sub">Matières, semestres et fichiers.</span>';b.onclick=openCourses;root.insertBefore(b,root.firstChild)}
+function patchBoard(){if(!window.MajlisBoard||window.MajlisBoard.__coursesPatched)return false;const original=window.MajlisBoard.show;window.MajlisBoard.show=function(name){hideCourses();return original(name)};window.MajlisBoard.__coursesPatched=true;return true}
+function interceptCommand(){const go=$('boardGo'),input=$('boardCommand');if(!go||!input||go.dataset.coursesBound)return;go.dataset.coursesBound='1';const wants=()=>/mes cours|organis.*cours|mati[eè]re|semestre|fichier|document.*cours|classeur/i.test(input.value||'');go.addEventListener('click',e=>{if(!wants())return;e.stopImmediatePropagation();e.preventDefault();openCourses();input.value=''},true);input.addEventListener('keydown',e=>{if(e.key!=='Enter'||!wants())return;e.stopImmediatePropagation();e.preventDefault();openCourses();input.value=''},true)}
+function bindNav(){document.querySelectorAll('.board-nav-btn').forEach(b=>{if(b.dataset.courseHideBound)return;b.dataset.courseHideBound='1';b.addEventListener('click',hideCourses,true)})}
+function expose(){if(window.MajlisCourses){const oldOpen=window.MajlisCourses.open;window.MajlisCourses.open=(cid)=>{openCourses();if(cid&&oldOpen){setTimeout(()=>{const card=[...document.querySelectorAll('.course-card')].find(x=>x.textContent.includes((JSON.parse(localStorage.getItem('majlis.courses.v1')||'[]').find(c=>c.id===cid)||{}).name||''));card?.click()},100)}}}}
+function init(){let n=0;const timer=setInterval(()=>{addBoardShortcut();patchBoard();interceptCommand();bindNav();expose();hideCourses();if($('boardHome')&&$('coursesPanel')&&window.MajlisBoard){clearInterval(timer)}if(++n>100)clearInterval(timer)},80)}
+document.readyState==='loading'?document.addEventListener('DOMContentLoaded',init):init();
+window.MajlisCoursesSpace={open:openCourses};
+})();
