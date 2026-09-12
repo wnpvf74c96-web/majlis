@@ -1,0 +1,114 @@
+/* Majlis V14 — chat mobile always usable */
+@media (max-width: 720px){
+  body:has(#deepChatPanel:not(.board-space-hidden)){
+    overflow:hidden;
+  }
+  body:has(#deepChatPanel:not(.board-space-hidden)) .app{
+    padding-bottom:88px;
+  }
+  body:has(#deepChatPanel:not(.board-space-hidden)) #deepChatPanel{
+    height:calc(100dvh - 150px);
+    min-height:560px;
+    display:flex;
+    flex-direction:column;
+    overflow:hidden;
+    margin-bottom:0;
+  }
+  body:has(#deepChatPanel:not(.board-space-hidden)) #deepChatPanel .dc-title{
+    flex:0 0 auto;
+  }
+  body:has(#deepChatPanel:not(.board-space-hidden)) #deepChatPanel .dc-title p{
+    display:none;
+  }
+  body:has(#deepChatPanel:not(.board-space-hidden)) #deepChatPanel .dc-title h2{
+    margin-bottom:2px;
+  }
+  body:has(#deepChatPanel:not(.board-space-hidden)) #deepChatPanel .dc-modes{
+    flex:0 0 auto;
+    padding:8px 0 6px;
+  }
+  body:has(#deepChatPanel:not(.board-space-hidden)) #deepChatPanel .dc-shell{
+    display:flex !important;
+    flex-direction:column;
+    flex:1 1 auto;
+    min-height:0;
+    gap:6px;
+    margin-top:0;
+  }
+  body:has(#deepChatPanel:not(.board-space-hidden)) #deepChatPanel .dc-side{
+    flex:0 0 auto;
+    padding:6px;
+    margin:0;
+  }
+  body:has(#deepChatPanel:not(.board-space-hidden)) #deepChatPanel .dc-side-head{
+    display:none;
+  }
+  body:has(#deepChatPanel:not(.board-space-hidden)) #deepChatPanel .dc-thread-list{
+    display:flex;
+    overflow-x:auto;
+    max-height:46px;
+    gap:5px;
+  }
+  body:has(#deepChatPanel:not(.board-space-hidden)) #deepChatPanel .dc-thread{
+    min-width:120px;
+    max-width:165px;
+    padding:6px 22px 6px 7px;
+  }
+  body:has(#deepChatPanel:not(.board-space-hidden)) #deepChatPanel .dc-thread small{
+    display:none;
+  }
+  body:has(#deepChatPanel:not(.board-space-hidden)) #deepChatPanel .dc-main{
+    display:flex;
+    flex-direction:column;
+    flex:1 1 auto;
+    min-height:0;
+  }
+  body:has(#deepChatPanel:not(.board-space-hidden)) #deepChatPanel .dc-context{
+    flex:0 0 auto;
+    margin-bottom:5px;
+  }
+  body:has(#deepChatPanel:not(.board-space-hidden)) #deepChatPanel .dc-thread-view{
+    flex:1 1 auto;
+    height:auto !important;
+    min-height:120px !important;
+    padding:9px;
+  }
+  body:has(#deepChatPanel:not(.board-space-hidden)) #deepChatPanel .dc-quick{
+    flex:0 0 auto;
+    padding:5px 0 4px;
+  }
+  body:has(#deepChatPanel:not(.board-space-hidden)) #deepChatPanel .dc-compose{
+    flex:0 0 auto;
+    position:relative;
+    z-index:40;
+    margin-top:2px;
+    border:1px solid #8b6bc75c;
+    box-shadow:0 -12px 30px rgba(0,0,0,.22);
+    background:#141b24;
+  }
+  body:has(#deepChatPanel:not(.board-space-hidden)) #deepChatPanel .dc-compose textarea{
+    min-height:74px !important;
+    max-height:150px !important;
+    font-size:16px !important;
+    background:#0d1218;
+    border-color:#ffffff1a;
+  }
+  body:has(#deepChatPanel:not(.board-space-hidden)) #deepChatPanel .dc-compose-foot{
+    margin-top:5px;
+  }
+  body:has(#deepChatPanel:not(.board-space-hidden)) #deepChatPanel .dc-compose-hint{
+    font-size:8px;
+    max-width:58%;
+  }
+  body:has(#deepChatPanel:not(.board-space-hidden)) #deepChatPanel .dc-send{
+    min-height:40px;
+    min-width:94px;
+  }
+  body:has(#deepChatPanel:not(.board-space-hidden)) #deepChatPanel .dc-profile{
+    position:fixed;
+    inset:90px 10px 90px;
+    z-index:100;
+    overflow:auto;
+    box-shadow:0 20px 70px rgba(0,0,0,.55);
+  }
+}
