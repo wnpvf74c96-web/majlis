@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T12:32:54.771032+00:00",
+  "generatedAt": "2026-09-13T18:30:42.530246+00:00",
   "topics": [
     {
       "id": "ai",
@@ -44,18 +44,18 @@
       "source": "Bpifrance | Presse",
       "published": "2026-09-10T07:49:56+00:00",
       "kind": "news",
-      "score": 2.88
+      "score": 2.79
     },
     {
-      "id": "631937ce3f2f0c",
+      "id": "72dc1b956bd777",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
-      "title": "Molleau : l’entreprise qui veut réduire la consommation d’eau douche après douche - Bpifrance",
+      "title": "Molleau : l’entreprise qui veut réduire la consommation d’eau douche après douche - bigmedia.bpifrance.fr",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNckN5OHVCQ2tici1xVXRPcWZFSmc3WnBOWnBsVEpQSXliRHNNam9vSVVNYWVROVdnRVZIRE8xbXdYZFVEQURTYWZqTUl0cGRnUzlzaGJOZWYxanp5bG1TS0VFLVVtd3JESUQ5T3QwQlZRYktEY0o4SDk5WFBveTZFM1l6VWtoV1BlQl95UExyaWtXMkNlV1VEOWZwcG5NajB1WFFZR3l0MlNRMTAxR0RPWjBQRGhBbHFUVWlfV1dnbw?oc=5",
-      "source": "Bpifrance",
+      "source": "bigmedia.bpifrance.fr",
       "published": "2026-09-10T04:26:30+00:00",
       "kind": "news",
-      "score": 2.83
+      "score": 2.74
     },
     {
       "id": "d801c00b4be6c6",
@@ -66,7 +66,7 @@
       "source": "tresor.economie.gouv.fr",
       "published": "2026-09-08T07:00:00+00:00",
       "kind": "news",
-      "score": 2.17
+      "score": 2.08
     }
   ],
   "status": "ok",
@@ -75,7 +75,7 @@
     "SaaS & business: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "France ↔ Algérie: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "Web & freelance: Google News: aucun résultat récent | Bing News: aucun résultat récent",
-    "Économie durable: Google News: aucun résultat récent | Bing News: aucun résultat récent",
+    "Économie durable: Google News: aucun résultat récent | Bing News: ParseError: not well-formed (invalid token): line 1, column 41",
     "Marché & concurrence: Google News: aucun résultat récent | Bing News: aucun résultat récent"
   ]
 }
