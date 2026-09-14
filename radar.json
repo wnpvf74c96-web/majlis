@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T18:30:42.530246+00:00",
+  "generatedAt": "2026-09-14T00:37:47.389331+00:00",
   "topics": [
     {
       "id": "ai",
@@ -36,26 +36,15 @@
   ],
   "items": [
     {
-      "id": "9a0b872db06553",
+      "id": "631937ce3f2f0c",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
-      "title": "Ed.ai lève 5 millions d'euros pour accélérer son déploiement en France et structurer sa conquête du marché américain - Bpifrance | Presse",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbVp4YkV4QVZzelVKRTREQ0RKRmdGVnRBQ0FIdU50UkJzUk82U3Y2WnBPX3lYSnJJc3NselI0SThpZDNKbm9FOEtWdHZtNjJ3RldlZXdLMkJLUlpzcDN3aXR0YlJ2cURqMXBfRHFpV19KMXFZQ1Zxa2hOalU4TGo2RGRtb2xyVjFlTnFabGVfMlQ1UVl1TUdlVU1FX0l5emZ1YkkyazZ1YmVSQVFXUmR5clJFM2F4VVRPdkN0Q2lJb3EyYUdpb3d4cEcxem9jNmJrb0FrVXhMejc4NGc?oc=5",
-      "source": "Bpifrance | Presse",
-      "published": "2026-09-10T07:49:56+00:00",
-      "kind": "news",
-      "score": 2.79
-    },
-    {
-      "id": "72dc1b956bd777",
-      "topic": "funding",
-      "topicLabel": "Aides & appels à projets",
-      "title": "Molleau : l’entreprise qui veut réduire la consommation d’eau douche après douche - bigmedia.bpifrance.fr",
+      "title": "Molleau : l’entreprise qui veut réduire la consommation d’eau douche après douche - Bpifrance",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNckN5OHVCQ2tici1xVXRPcWZFSmc3WnBOWnBsVEpQSXliRHNNam9vSVVNYWVROVdnRVZIRE8xbXdYZFVEQURTYWZqTUl0cGRnUzlzaGJOZWYxanp5bG1TS0VFLVVtd3JESUQ5T3QwQlZRYktEY0o4SDk5WFBveTZFM1l6VWtoV1BlQl95UExyaWtXMkNlV1VEOWZwcG5NajB1WFFZR3l0MlNRMTAxR0RPWjBQRGhBbHFUVWlfV1dnbw?oc=5",
-      "source": "bigmedia.bpifrance.fr",
+      "source": "Bpifrance",
       "published": "2026-09-10T04:26:30+00:00",
       "kind": "news",
-      "score": 2.74
+      "score": 2.66
     },
     {
       "id": "d801c00b4be6c6",
@@ -66,7 +55,7 @@
       "source": "tresor.economie.gouv.fr",
       "published": "2026-09-08T07:00:00+00:00",
       "kind": "news",
-      "score": 2.08
+      "score": 1.99
     }
   ],
   "status": "ok",
@@ -75,7 +64,7 @@
     "SaaS & business: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "France ↔ Algérie: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "Web & freelance: Google News: aucun résultat récent | Bing News: aucun résultat récent",
-    "Économie durable: Google News: aucun résultat récent | Bing News: ParseError: not well-formed (invalid token): line 1, column 41",
+    "Économie durable: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "Marché & concurrence: Google News: aucun résultat récent | Bing News: aucun résultat récent"
   ]
 }
