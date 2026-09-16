@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T18:30:30.797413+00:00",
+  "generatedAt": "2026-09-16T00:35:35.624367+00:00",
   "topics": [
     {
       "id": "ai",
@@ -36,15 +36,15 @@
   ],
   "items": [
     {
-      "id": "d5996afcc8f88d",
+      "id": "9a0b872db06553",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
-      "title": "Ed.ai lève 5 millions d'euros pour accélérer son déploiement en France et structurer sa conquête du marché américain - presse.bpifrance.fr",
+      "title": "Ed.ai lève 5 millions d'euros pour accélérer son déploiement en France et structurer sa conquête du marché américain - Bpifrance | Presse",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbVp4YkV4QVZzelVKRTREQ0RKRmdGVnRBQ0FIdU50UkJzUk82U3Y2WnBPX3lYSnJJc3NselI0SThpZDNKbm9FOEtWdHZtNjJ3RldlZXdLMkJLUlpzcDN3aXR0YlJ2cURqMXBfRHFpV19KMXFZQ1Zxa2hOalU4TGo2RGRtb2xyVjFlTnFabGVfMlQ1UVl1TUdlVU1FX0l5emZ1YkkyazZ1YmVSQVFXUmR5clJFM2F4VVRPdkN0Q2lJb3EyYUdpb3d4cEcxem9jNmJrb0FrVXhMejc4NGc?oc=5",
-      "source": "presse.bpifrance.fr",
+      "source": "Bpifrance | Presse",
       "published": "2026-09-10T07:49:56+00:00",
       "kind": "news",
-      "score": 2.09
+      "score": 2.01
     },
     {
       "id": "631937ce3f2f0c",
@@ -55,7 +55,7 @@
       "source": "Bpifrance",
       "published": "2026-09-10T04:26:30+00:00",
       "kind": "news",
-      "score": 2.04
+      "score": 1.96
     },
     {
       "id": "d801c00b4be6c6",
@@ -66,7 +66,7 @@
       "source": "tresor.economie.gouv.fr",
       "published": "2026-09-08T07:00:00+00:00",
       "kind": "news",
-      "score": 1.38
+      "score": 1.29
     }
   ],
   "status": "ok",
