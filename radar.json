@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T00:36:05.575401+00:00",
+  "generatedAt": "2026-09-17T06:36:29.147773+00:00",
   "topics": [
     {
       "id": "ai",
@@ -44,18 +44,7 @@
       "source": "Bpifrance Transmission",
       "published": "2026-09-15T16:23:59+00:00",
       "kind": "opportunity",
-      "score": 8.53
-    },
-    {
-      "id": "631937ce3f2f0c",
-      "topic": "funding",
-      "topicLabel": "Aides & appels à projets",
-      "title": "Molleau : l’entreprise qui veut réduire la consommation d’eau douche après douche - Bpifrance",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNckN5OHVCQ2tici1xVXRPcWZFSmc3WnBOWnBsVEpQSXliRHNNam9vSVVNYWVROVdnRVZIRE8xbXdYZFVEQURTYWZqTUl0cGRnUzlzaGJOZWYxanp5bG1TS0VFLVVtd3JESUQ5T3QwQlZRYktEY0o4SDk5WFBveTZFM1l6VWtoV1BlQl95UExyaWtXMkNlV1VEOWZwcG5NajB1WFFZR3l0MlNRMTAxR0RPWjBQRGhBbHFUVWlfV1dnbw?oc=5",
-      "source": "Bpifrance",
-      "published": "2026-09-10T04:26:30+00:00",
-      "kind": "news",
-      "score": 1.61
+      "score": 8.44
     },
     {
       "id": "d801c00b4be6c6",
@@ -66,7 +55,7 @@
       "source": "tresor.economie.gouv.fr",
       "published": "2026-09-08T07:00:00+00:00",
       "kind": "news",
-      "score": 0.94
+      "score": 0.86
     }
   ],
   "status": "ok",
