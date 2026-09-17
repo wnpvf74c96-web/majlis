@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T12:35:12.015444+00:00",
+  "generatedAt": "2026-09-17T18:32:28.013513+00:00",
   "topics": [
     {
       "id": "ai",
@@ -42,9 +42,9 @@
       "title": "Bourse de la transmission - Bpifrance Transmission",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zZVo5S1M2eEd6LUJnb0NHZjFpTkFYQmFNS2ZiX1hpRkpEVVZ2TU04dEx0TENLLXppd3JVMlZtZFV3Y2swZ05QQXlTSGJ5dkthUWc?oc=5",
       "source": "Bpifrance Transmission",
-      "published": "2026-09-15T16:23:59+00:00",
+      "published": "2026-09-16T07:50:24+00:00",
       "kind": "opportunity",
-      "score": 8.36
+      "score": 8.49
     },
     {
       "id": "d801c00b4be6c6",
@@ -55,7 +55,7 @@
       "source": "tresor.economie.gouv.fr",
       "published": "2026-09-08T07:00:00+00:00",
       "kind": "news",
-      "score": 0.77
+      "score": 0.68
     }
   ],
   "status": "ok",
