@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T12:33:28.200323+00:00",
+  "generatedAt": "2026-09-18T18:30:47.138188+00:00",
   "topics": [
     {
       "id": "ai",
@@ -42,14 +42,14 @@
       "title": "Bourse de la transmission - Bpifrance Transmission",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zZVo5S1M2eEd6LUJnb0NHZjFpTkFYQmFNS2ZiX1hpRkpEVVZ2TU04dEx0TENLLXppd3JVMlZtZFV3Y2swZ05QQXlTSGJ5dkthUWc?oc=5",
       "source": "Bpifrance Transmission",
-      "published": "2026-09-17T05:54:38+00:00",
+      "published": "2026-09-17T15:01:05+00:00",
       "kind": "opportunity",
-      "score": 8.55
+      "score": 8.6
     }
   ],
   "status": "ok",
   "errors": [
-    "IA & outils: Google News: aucun résultat récent | Bing News: ParseError: not well-formed (invalid token): line 1, column 41",
+    "IA & outils: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "SaaS & business: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "France ↔ Algérie: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "Web & freelance: Google News: aucun résultat récent | Bing News: aucun résultat récent",
