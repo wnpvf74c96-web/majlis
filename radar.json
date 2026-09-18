@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T00:35:02.467184+00:00",
+  "generatedAt": "2026-09-18T06:34:09.890850+00:00",
   "topics": [
     {
       "id": "ai",
@@ -42,20 +42,9 @@
       "title": "Bourse de la transmission - Bpifrance Transmission",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zZVo5S1M2eEd6LUJnb0NHZjFpTkFYQmFNS2ZiX1hpRkpEVVZ2TU04dEx0TENLLXppd3JVMlZtZFV3Y2swZ05QQXlTSGJ5dkthUWc?oc=5",
       "source": "Bpifrance Transmission",
-      "published": "2026-09-16T07:50:24+00:00",
+      "published": "2026-09-16T16:58:34+00:00",
       "kind": "opportunity",
-      "score": 8.41
-    },
-    {
-      "id": "d801c00b4be6c6",
-      "topic": "funding",
-      "topicLabel": "Aides & appels à projets",
-      "title": "Sommaire - tresor.economie.gouv.fr",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUkQ5RW8wVEVKbGcxZHYyY0hfaElna1pkQmEzREFFUmxSTmZ5UDR2akk5c1F0MDdxYkNGT0Q1MWtNWTJSdDNZMW5QRklJNEI3VHhncFhWTHEwOXU4dzd4MlM5NW00ZHVVY2FJSWtaMUpoWGlRZEhxd3Frckx4cEMxTWdQM19tUHNIZUNjbzl0cmtaTHM2eV9rcW1mdEJSZkhDc0Q1WFBYcG5iQ3h1SzIwQVJpR09iemRHMjZvbGNseG93Zw?oc=5",
-      "source": "tresor.economie.gouv.fr",
-      "published": "2026-09-08T07:00:00+00:00",
-      "kind": "news",
-      "score": 0.59
+      "score": 8.45
     }
   ],
   "status": "ok",
