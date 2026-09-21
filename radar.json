@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T00:36:06.723134+00:00",
+  "generatedAt": "2026-09-21T06:37:29.213898+00:00",
   "topics": [
     {
       "id": "ai",
@@ -36,37 +36,37 @@
   ],
   "items": [
     {
-      "id": "25256fa1696304",
+      "id": "08ed7967ee3e6b",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Énergie, bois, santé mobile : le Prix EY de l’Entrepreneur de l’Année dévoile son palmarès dans l’Est",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab07bfa141e4c29bcb3376ae8a811bf&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fenergie-bois-sante-mobile-le-prix-ey-de-lentrepreneur-de-lannee-devoile-son-palmares-dans-lest&c=11438164714991982262&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab0d0ac45ff47a2a464a4d9f189c678&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fenergie-bois-sante-mobile-le-prix-ey-de-lentrepreneur-de-lannee-devoile-son-palmares-dans-lest&c=11438164714991982262&mkt=en-us",
       "source": "Bing News",
       "published": "2026-09-15T06:59:00+00:00",
       "kind": "new",
-      "score": 3.99
+      "score": 3.91
     },
     {
-      "id": "43c03d9c1a0ab8",
+      "id": "41bdcbfadfd82e",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Cybersécurité en santé : Où en sommes nous ?",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab07bfa141e4c29bcb3376ae8a811bf&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-dossiers%2fcybersecurite-en-sante-ou-en-sommes-nous&c=2830124820269863935&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab0d0ac45ff47a2a464a4d9f189c678&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-dossiers%2fcybersecurite-en-sante-ou-en-sommes-nous&c=2830124820269863935&mkt=en-us",
       "source": "Bing News",
       "published": "2026-09-17T07:45:00+00:00",
       "kind": "news",
-      "score": 2.7
+      "score": 2.62
     },
     {
-      "id": "0cfd4be66c49fc",
+      "id": "1dc16eeed360de",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Intelligence Artificielle",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab07bfa141e4c29bcb3376ae8a811bf&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fintelligence-artificielle&c=12231843114881683980&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab0d0ac45ff47a2a464a4d9f189c678&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fintelligence-artificielle&c=12231843114881683980&mkt=en-us",
       "source": "Bing News",
       "published": "2026-09-13T17:00:00+00:00",
       "kind": "news",
-      "score": 1.44
+      "score": 1.35
     }
   ],
   "status": "ok",
