@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T00:35:01.066259+00:00",
+  "generatedAt": "2026-09-22T06:34:39.602077+00:00",
   "topics": [
     {
       "id": "ai",
@@ -36,37 +36,37 @@
   ],
   "items": [
     {
-      "id": "16b342f267f9cc",
+      "id": "1a6217ccb35dd6",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Cybersécurité en santé : Où en sommes nous ?",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab1cd384d2149eb8ae5fce7191b5d04&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-dossiers%2fcybersecurite-en-sante-ou-en-sommes-nous&c=2830124820269863935&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab22183e5df409e9e4480aec86c87c0&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-dossiers%2fcybersecurite-en-sante-ou-en-sommes-nous&c=2830124820269863935&mkt=en-us",
       "source": "Bing News",
       "published": "2026-09-17T07:45:00+00:00",
       "kind": "news",
-      "score": 2.35
+      "score": 2.27
     },
     {
-      "id": "c1612f6d5b1675",
+      "id": "13cd2904ea9391",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Intelligence artificielle en entreprise : définition, enjeux et perspectives",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab1cd384d2149eb8ae5fce7191b5d04&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-dossiers%2fintelligence-artificielle-en-entreprise-definition-enjeux-et-perspectives&c=4300092932941871590&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab22183e5df409e9e4480aec86c87c0&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-dossiers%2fintelligence-artificielle-en-entreprise-definition-enjeux-et-perspectives&c=4300092932941871590&mkt=en-us",
       "source": "Bing News",
       "published": "2026-09-14T08:41:00+00:00",
       "kind": "news",
-      "score": 1.32
+      "score": 1.23
     },
     {
-      "id": "2df5353058bb7d",
+      "id": "b9222e21423bb1",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Intelligence Artificielle",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab1cd384d2149eb8ae5fce7191b5d04&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fintelligence-artificielle&c=12231843114881683980&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab22183e5df409e9e4480aec86c87c0&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fintelligence-artificielle&c=12231843114881683980&mkt=en-us",
       "source": "Bing News",
       "published": "2026-09-13T17:00:00+00:00",
       "kind": "news",
-      "score": 1.09
+      "score": 1.0
     }
   ],
   "status": "ok",
