@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T18:34:33.746574+00:00",
+  "generatedAt": "2026-09-23T00:34:02.409324+00:00",
   "topics": [
     {
       "id": "ai",
@@ -36,48 +36,48 @@
   ],
   "items": [
     {
-      "id": "ad5f7c77b7731a",
+      "id": "ca310902a1f0ee",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Énergie, bois, santé mobile : le Prix EY de l’Entrepreneur de l’Année dévoile son palmarès dans l’Est",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab2ca3de506459bb13a010b56352042&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fenergie-bois-sante-mobile-le-prix-ey-de-lentrepreneur-de-lannee-devoile-son-palmares-dans-lest&c=11438164714991982262&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab31e7e8c13461d8529efbb2745abb7&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fenergie-bois-sante-mobile-le-prix-ey-de-lentrepreneur-de-lannee-devoile-son-palmares-dans-lest&c=11438164714991982262&mkt=en-us",
       "source": "Bing News",
       "published": "2026-09-15T06:59:00+00:00",
       "kind": "new",
-      "score": 3.38
+      "score": 3.29
     },
     {
-      "id": "09b4064308bf28",
+      "id": "66528b59df5455",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Cybersécurité en santé : Où en sommes nous ?",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab2ca3de506459bb13a010b56352042&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-dossiers%2fcybersecurite-en-sante-ou-en-sommes-nous&c=2830124820269863935&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab31e7e8c13461d8529efbb2745abb7&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-dossiers%2fcybersecurite-en-sante-ou-en-sommes-nous&c=2830124820269863935&mkt=en-us",
       "source": "Bing News",
       "published": "2026-09-17T07:45:00+00:00",
       "kind": "news",
-      "score": 2.09
+      "score": 2.0
     },
     {
-      "id": "3133546b81ff7f",
+      "id": "6b2c785e7ac30c",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Intelligence artificielle en entreprise : définition, enjeux et perspectives",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab2ca3de506459bb13a010b56352042&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-dossiers%2fintelligence-artificielle-en-entreprise-definition-enjeux-et-perspectives&c=4300092932941871590&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab31e7e8c13461d8529efbb2745abb7&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-dossiers%2fintelligence-artificielle-en-entreprise-definition-enjeux-et-perspectives&c=4300092932941871590&mkt=en-us",
       "source": "Bing News",
       "published": "2026-09-14T08:41:00+00:00",
       "kind": "news",
-      "score": 1.06
+      "score": 0.97
     },
     {
-      "id": "e2399657e20552",
+      "id": "34cf5175acf050",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Intelligence Artificielle",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab2ca3de506459bb13a010b56352042&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fintelligence-artificielle&c=12231843114881683980&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab31e7e8c13461d8529efbb2745abb7&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fintelligence-artificielle&c=12231843114881683980&mkt=en-us",
       "source": "Bing News",
       "published": "2026-09-13T17:00:00+00:00",
       "kind": "news",
-      "score": 0.83
+      "score": 0.74
     }
   ],
   "status": "ok",
@@ -87,6 +87,6 @@
     "France ↔ Algérie: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "Web & freelance: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "Économie durable: Google News: aucun résultat récent | Bing News: aucun résultat récent",
-    "Marché & concurrence: Google News: aucun résultat récent | Bing News: ParseError: not well-formed (invalid token): line 1, column 41"
+    "Marché & concurrence: Google News: aucun résultat récent | Bing News: aucun résultat récent"
   ]
 }
