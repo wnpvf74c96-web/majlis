@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T18:32:31.904366+00:00",
+  "generatedAt": "2026-09-24T00:36:21.681263+00:00",
   "topics": [
     {
       "id": "ai",
@@ -36,48 +36,48 @@
   ],
   "items": [
     {
-      "id": "518c9e2ad4a6fb",
+      "id": "161f3c91b273ec",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Prix EY de l'Entrepreneur de l'Année : le palmarès 2026 du Sud-Est",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab41b45c7414aca82b1269959d3afda&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fprix-ey-de-lentrepreneur-de-lannee-le-palmares-2026-du-sud-est&c=6658684764542994770&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab47089b4c44665a1971f115a425cc8&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fprix-ey-de-lentrepreneur-de-lannee-le-palmares-2026-du-sud-est&c=6658684764542994770&mkt=en-us",
       "source": "Bing News",
       "published": "2026-09-23T09:28:00+00:00",
       "kind": "news",
-      "score": 3.87
+      "score": 3.78
     },
     {
-      "id": "178cc23211a935",
+      "id": "f7ff13da9ba9c9",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Site en maintenance",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab41b45c7414aca82b1269959d3afda&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-evenements%2fparticipez-a-la-4e-edition-de-big-green&c=13171392952840332387&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab47089b4c44665a1971f115a425cc8&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-evenements%2fparticipez-a-la-4e-edition-de-big-green&c=13171392952840332387&mkt=en-us",
       "source": "Bing News",
       "published": "2026-09-21T17:00:00+00:00",
       "kind": "news",
-      "score": 3.28
+      "score": 3.19
     },
     {
-      "id": "2c3385e4ed7acb",
-      "topic": "funding",
-      "topicLabel": "Aides & appels à projets",
-      "title": "Management visuel : avantages, outils, mise en place",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab41b45c7414aca82b1269959d3afda&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-dossiers%2fmanagement-visuel-avantages-outils-mise-en-place&c=15850211724065744623&mkt=en-us",
-      "source": "Bing News",
-      "published": "2026-09-21T03:44:00+00:00",
-      "kind": "news",
-      "score": 3.08
-    },
-    {
-      "id": "c43cc9c1e41175",
+      "id": "b1446aca05a16f",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Cybersécurité en santé : Où en sommes nous ?",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab41b45c7414aca82b1269959d3afda&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-dossiers%2fcybersecurite-en-sante-ou-en-sommes-nous&c=2830124820269863935&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab47089b4c44665a1971f115a425cc8&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-dossiers%2fcybersecurite-en-sante-ou-en-sommes-nous&c=2830124820269863935&mkt=en-us",
       "source": "Bing News",
       "published": "2026-09-17T07:45:00+00:00",
       "kind": "news",
-      "score": 1.74
+      "score": 1.65
+    },
+    {
+      "id": "a17d85eebf6751",
+      "topic": "funding",
+      "topicLabel": "Aides & appels à projets",
+      "title": "Intelligence artificielle en entreprise : définition, enjeux et perspectives",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab47089b4c44665a1971f115a425cc8&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-dossiers%2fintelligence-artificielle-en-entreprise-definition-enjeux-et-perspectives&c=4300092932941871590&mkt=en-us",
+      "source": "Bing News",
+      "published": "2026-09-14T08:41:00+00:00",
+      "kind": "news",
+      "score": 0.62
     }
   ],
   "status": "ok",
