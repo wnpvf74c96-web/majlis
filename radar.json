@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T06:36:05.014186+00:00",
+  "generatedAt": "2026-09-24T12:35:51.623226+00:00",
   "topics": [
     {
       "id": "ai",
@@ -36,21 +36,21 @@
   ],
   "items": [
     {
-      "id": "5bd7fa1718c8d7",
+      "id": "6ea00d3f6791b1",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
-      "title": "Prix EY de l'Entrepreneur de l'Année : le palmarès 2026 du Sud-Est",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab4c4d8e85540088a093f084fe6b563&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fprix-ey-de-lentrepreneur-de-lannee-le-palmares-2026-du-sud-est&c=6658684764542994770&mkt=fr-ca",
-      "source": "Bing News",
-      "published": "2026-09-23T09:28:00+00:00",
-      "kind": "news",
-      "score": 3.69
+      "title": "Bourse de la transmission - Bpifrance Transmission",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zZVo5S1M2eEd6LUJnb0NHZjFpTkFYQmFNS2ZiX1hpRkpEVVZ2TU04dEx0TENLLXppd3JVMlZtZFV3Y2swZ05QQXlTSGJ5dkthUWc?oc=5",
+      "source": "Bpifrance Transmission",
+      "published": "2026-09-24T10:04:21+00:00",
+      "kind": "opportunity",
+      "score": 8.96
     }
   ],
   "status": "ok",
   "errors": [
     "IA & outils: Google News: aucun résultat récent | Bing News: aucun résultat récent",
-    "SaaS & business: Google News: aucun résultat récent | Bing News: ParseError: not well-formed (invalid token): line 1, column 41",
+    "SaaS & business: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "France ↔ Algérie: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "Web & freelance: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "Économie durable: Google News: aucun résultat récent | Bing News: aucun résultat récent",
