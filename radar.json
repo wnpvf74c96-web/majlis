@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T06:36:05.541128+00:00",
+  "generatedAt": "2026-09-25T12:35:40.424268+00:00",
   "topics": [
     {
       "id": "ai",
@@ -44,14 +44,14 @@
       "source": "Bpifrance Transmission",
       "published": "2026-09-24T03:27:55+00:00",
       "kind": "opportunity",
-      "score": 8.6
+      "score": 8.52
     }
   ],
   "status": "ok",
   "errors": [
     "IA & outils: Google News: aucun résultat récent | Bing News: aucun résultat récent",
-    "SaaS & business: Google News: aucun résultat récent | Bing News: aucun résultat récent",
-    "France ↔ Algérie: Google News: aucun résultat récent | Bing News: aucun résultat récent",
+    "SaaS & business: Google News: aucun résultat récent | Bing News: ParseError: not well-formed (invalid token): line 1, column 41",
+    "France ↔ Algérie: Google News: aucun résultat récent | Bing News: ParseError: not well-formed (invalid token): line 1, column 41",
     "Web & freelance: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "Économie durable: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "Marché & concurrence: Google News: aucun résultat récent | Bing News: aucun résultat récent"
