@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T12:33:03.478334+00:00",
+  "generatedAt": "2026-09-26T18:31:56.903579+00:00",
   "topics": [
     {
       "id": "ai",
@@ -36,17 +36,6 @@
   ],
   "items": [
     {
-      "id": "6ea00d3f6791b1",
-      "topic": "funding",
-      "topicLabel": "Aides & appels à projets",
-      "title": "Bourse de la transmission - Bpifrance Transmission",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zZVo5S1M2eEd6LUJnb0NHZjFpTkFYQmFNS2ZiX1hpRkpEVVZ2TU04dEx0TENLLXppd3JVMlZtZFV3Y2swZ05QQXlTSGJ5dkthUWc?oc=5",
-      "source": "Bpifrance Transmission",
-      "published": "2026-09-24T22:29:11+00:00",
-      "kind": "opportunity",
-      "score": 8.44
-    },
-    {
       "id": "e90f15dd6e349c",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
@@ -55,16 +44,16 @@
       "source": "economie.gouv.fr",
       "published": "2026-09-25T19:52:31+00:00",
       "kind": "news",
-      "score": 3.76
+      "score": 3.67
     }
   ],
   "status": "ok",
   "errors": [
     "IA & outils: Google News: aucun résultat récent | Bing News: aucun résultat récent",
-    "SaaS & business: Google News: aucun résultat récent | Bing News: ParseError: not well-formed (invalid token): line 1, column 41",
+    "SaaS & business: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "France ↔ Algérie: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "Web & freelance: Google News: aucun résultat récent | Bing News: aucun résultat récent",
-    "Économie durable: Google News: aucun résultat récent | Bing News: ParseError: not well-formed (invalid token): line 1, column 41",
+    "Économie durable: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "Marché & concurrence: Google News: aucun résultat récent | Bing News: aucun résultat récent"
   ]
 }
