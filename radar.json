@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T18:35:02.546451+00:00",
+  "generatedAt": "2026-09-29T00:38:05.561631+00:00",
   "topics": [
     {
       "id": "ai",
@@ -44,7 +44,18 @@
       "source": "economie.gouv.fr",
       "published": "2026-09-25T19:52:31+00:00",
       "kind": "news",
-      "score": 2.97
+      "score": 2.88
+    },
+    {
+      "id": "e2fe9c4c0fa146",
+      "topic": "legal",
+      "topicLabel": "Réglementation",
+      "title": "Facturation électronique : but, outils et calendrier - Capital.fr",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPY2Ftd3JURDMzU1hfTVcwYWVLamtmT1BoeFcwNzJ6aUpxOGZiQmpMTGdDUktnTXNkRXZsSzNFZzlnRWVKQUVYMHdUMU4wVERraEJ6V2U5blpWa21xaGRRamNUbkFPdjVYbktIMVRHbldQRjlkSWhhU1FJeDcyOFdyMHltcEYtVVRJZnpSWWZfUlNqRDdZVEc4UnB0LW5XR0d2?oc=5",
+      "source": "Capital.fr",
+      "published": "2026-09-25T10:10:48+00:00",
+      "kind": "news",
+      "score": 2.74
     }
   ],
   "status": "ok",
