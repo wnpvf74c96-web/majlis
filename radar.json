@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T06:37:23.748549+00:00",
+  "generatedAt": "2026-09-29T12:38:34.395061+00:00",
   "topics": [
     {
       "id": "ai",
@@ -44,18 +44,18 @@
       "source": "economie.gouv.fr",
       "published": "2026-09-25T19:52:31+00:00",
       "kind": "news",
-      "score": 2.79
+      "score": 2.71
     },
     {
-      "id": "e2fe9c4c0fa146",
+      "id": "511bdab9fd1de9",
       "topic": "legal",
       "topicLabel": "Réglementation",
-      "title": "Facturation électronique : but, outils et calendrier - Capital.fr",
+      "title": "Facturation électronique : but, outils et calendrier - capital.fr",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPY2Ftd3JURDMzU1hfTVcwYWVLamtmT1BoeFcwNzJ6aUpxOGZiQmpMTGdDUktnTXNkRXZsSzNFZzlnRWVKQUVYMHdUMU4wVERraEJ6V2U5blpWa21xaGRRamNUbkFPdjVYbktIMVRHbldQRjlkSWhhU1FJeDcyOFdyMHltcEYtVVRJZnpSWWZfUlNqRDdZVEc4UnB0LW5XR0d2?oc=5",
-      "source": "Capital.fr",
+      "source": "capital.fr",
       "published": "2026-09-25T10:10:48+00:00",
       "kind": "news",
-      "score": 2.65
+      "score": 2.56
     }
   ],
   "status": "ok",
@@ -65,6 +65,6 @@
     "France ↔ Algérie: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "Web & freelance: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "Économie durable: Google News: aucun résultat récent | Bing News: aucun résultat récent",
-    "Marché & concurrence: Google News: aucun résultat récent | Bing News: ParseError: not well-formed (invalid token): line 1, column 41"
+    "Marché & concurrence: Google News: aucun résultat récent | Bing News: aucun résultat récent"
   ]
 }
