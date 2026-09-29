@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T00:38:05.561631+00:00",
+  "generatedAt": "2026-09-29T06:37:23.748549+00:00",
   "topics": [
     {
       "id": "ai",
@@ -44,7 +44,7 @@
       "source": "economie.gouv.fr",
       "published": "2026-09-25T19:52:31+00:00",
       "kind": "news",
-      "score": 2.88
+      "score": 2.79
     },
     {
       "id": "e2fe9c4c0fa146",
@@ -55,7 +55,7 @@
       "source": "Capital.fr",
       "published": "2026-09-25T10:10:48+00:00",
       "kind": "news",
-      "score": 2.74
+      "score": 2.65
     }
   ],
   "status": "ok",
@@ -65,6 +65,6 @@
     "France ↔ Algérie: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "Web & freelance: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "Économie durable: Google News: aucun résultat récent | Bing News: aucun résultat récent",
-    "Marché & concurrence: Google News: aucun résultat récent | Bing News: aucun résultat récent"
+    "Marché & concurrence: Google News: aucun résultat récent | Bing News: ParseError: not well-formed (invalid token): line 1, column 41"
   ]
 }
