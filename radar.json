@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T12:38:34.395061+00:00",
+  "generatedAt": "2026-09-29T18:36:01.407035+00:00",
   "topics": [
     {
       "id": "ai",
@@ -36,6 +36,17 @@
   ],
   "items": [
     {
+      "id": "6ea00d3f6791b1",
+      "topic": "funding",
+      "topicLabel": "Aides & appels à projets",
+      "title": "Bourse de la transmission - Bpifrance Transmission",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zZVo5S1M2eEd6LUJnb0NHZjFpTkFYQmFNS2ZiX1hpRkpEVVZ2TU04dEx0TENLLXppd3JVMlZtZFV3Y2swZ05QQXlTSGJ5dkthUWc?oc=5",
+      "source": "Bpifrance Transmission",
+      "published": "2026-09-28T10:14:45+00:00",
+      "kind": "opportunity",
+      "score": 8.53
+    },
+    {
       "id": "e90f15dd6e349c",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
@@ -44,18 +55,18 @@
       "source": "economie.gouv.fr",
       "published": "2026-09-25T19:52:31+00:00",
       "kind": "news",
-      "score": 2.71
+      "score": 2.62
     },
     {
-      "id": "511bdab9fd1de9",
+      "id": "e2fe9c4c0fa146",
       "topic": "legal",
       "topicLabel": "Réglementation",
-      "title": "Facturation électronique : but, outils et calendrier - capital.fr",
+      "title": "Facturation électronique : but, outils et calendrier - Capital.fr",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPY2Ftd3JURDMzU1hfTVcwYWVLamtmT1BoeFcwNzJ6aUpxOGZiQmpMTGdDUktnTXNkRXZsSzNFZzlnRWVKQUVYMHdUMU4wVERraEJ6V2U5blpWa21xaGRRamNUbkFPdjVYbktIMVRHbldQRjlkSWhhU1FJeDcyOFdyMHltcEYtVVRJZnpSWWZfUlNqRDdZVEc4UnB0LW5XR0d2?oc=5",
-      "source": "capital.fr",
+      "source": "Capital.fr",
       "published": "2026-09-25T10:10:48+00:00",
       "kind": "news",
-      "score": 2.56
+      "score": 2.48
     }
   ],
   "status": "ok",
