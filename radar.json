@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T12:41:38.927093+00:00",
+  "generatedAt": "2026-09-30T18:34:58.998386+00:00",
   "topics": [
     {
       "id": "ai",
@@ -36,17 +36,6 @@
   ],
   "items": [
     {
-      "id": "6ea00d3f6791b1",
-      "topic": "funding",
-      "topicLabel": "Aides & appels à projets",
-      "title": "Bourse de la transmission - Bpifrance Transmission",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zZVo5S1M2eEd6LUJnb0NHZjFpTkFYQmFNS2ZiX1hpRkpEVVZ2TU04dEx0TENLLXppd3JVMlZtZFV3Y2swZ05QQXlTSGJ5dkthUWc?oc=5",
-      "source": "Bpifrance Transmission",
-      "published": "2026-09-29T07:20:07+00:00",
-      "kind": "opportunity",
-      "score": 8.57
-    },
-    {
       "id": "fbff9be30610d0",
       "topic": "durable",
       "topicLabel": "Économie durable",
@@ -55,7 +44,7 @@
       "source": "rsedatanews.net",
       "published": "2026-09-27T09:21:08+00:00",
       "kind": "news",
-      "score": 2.9
+      "score": 2.82
     },
     {
       "id": "e90f15dd6e349c",
@@ -66,7 +55,7 @@
       "source": "economie.gouv.fr",
       "published": "2026-09-25T19:52:31+00:00",
       "kind": "news",
-      "score": 2.35
+      "score": 2.27
     },
     {
       "id": "e2fe9c4c0fa146",
@@ -77,7 +66,7 @@
       "source": "Capital.fr",
       "published": "2026-09-25T10:10:48+00:00",
       "kind": "news",
-      "score": 2.21
+      "score": 2.13
     }
   ],
   "status": "ok",
@@ -86,6 +75,6 @@
     "SaaS & business: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "France ↔ Algérie: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "Web & freelance: Google News: aucun résultat récent | Bing News: aucun résultat récent",
-    "Marché & concurrence: Google News: aucun résultat récent | Bing News: aucun résultat récent"
+    "Marché & concurrence: Google News: aucun résultat récent | Bing News: ParseError: not well-formed (invalid token): line 1, column 41"
   ]
 }
