@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T00:40:05.364731+00:00",
+  "generatedAt": "2026-09-30T06:37:54.034523+00:00",
   "topics": [
     {
       "id": "ai",
@@ -44,7 +44,18 @@
       "source": "Bpifrance Transmission",
       "published": "2026-09-28T22:56:30+00:00",
       "kind": "opportunity",
-      "score": 8.62
+      "score": 8.54
+    },
+    {
+      "id": "fbff9be30610d0",
+      "topic": "durable",
+      "topicLabel": "Économie durable",
+      "title": "Les textes du 26-27 septembre 2026 - rsedatanews.net",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUjhyRHFqRkVIQ0NIME03NURFM1k4Q2RvZ0VNNWJoRkRpN2l3eFYzV3I1MFloYTNsaThkYUJzWWdPd1EzNEFvNmJvQU9rbVYxcG5UcFJ4V1B6Nkc1ZjFrRTNQT3l5YXRBS0tpWUdIclNJT3VobTdKWFBxdTM2TmVDSHdhYnJwcW9raWEzLWpJYVFCQlQzS3hYMjc1SGNRY0R1SFphYWRVekw?oc=5",
+      "source": "rsedatanews.net",
+      "published": "2026-09-27T09:21:08+00:00",
+      "kind": "news",
+      "score": 2.99
     },
     {
       "id": "e90f15dd6e349c",
@@ -55,7 +66,7 @@
       "source": "economie.gouv.fr",
       "published": "2026-09-25T19:52:31+00:00",
       "kind": "news",
-      "score": 2.53
+      "score": 2.44
     },
     {
       "id": "e2fe9c4c0fa146",
@@ -66,7 +77,7 @@
       "source": "Capital.fr",
       "published": "2026-09-25T10:10:48+00:00",
       "kind": "news",
-      "score": 2.39
+      "score": 2.3
     }
   ],
   "status": "ok",
@@ -75,7 +86,6 @@
     "SaaS & business: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "France ↔ Algérie: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "Web & freelance: Google News: aucun résultat récent | Bing News: aucun résultat récent",
-    "Économie durable: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "Marché & concurrence: Google News: aucun résultat récent | Bing News: aucun résultat récent"
   ]
 }
