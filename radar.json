@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T00:41:32.823012+00:00",
+  "generatedAt": "2026-10-01T06:39:42.947912+00:00",
   "topics": [
     {
       "id": "ai",
@@ -44,7 +44,7 @@
       "source": "rsedatanews.net",
       "published": "2026-09-27T09:21:08+00:00",
       "kind": "news",
-      "score": 2.73
+      "score": 2.64
     },
     {
       "id": "e90f15dd6e349c",
@@ -55,7 +55,7 @@
       "source": "economie.gouv.fr",
       "published": "2026-09-25T19:52:31+00:00",
       "kind": "news",
-      "score": 2.18
+      "score": 2.09
     },
     {
       "id": "e2fe9c4c0fa146",
@@ -66,15 +66,15 @@
       "source": "Capital.fr",
       "published": "2026-09-25T10:10:48+00:00",
       "kind": "news",
-      "score": 2.04
+      "score": 1.95
     }
   ],
   "status": "ok",
   "errors": [
     "IA & outils: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "SaaS & business: Google News: aucun résultat récent | Bing News: aucun résultat récent",
-    "France ↔ Algérie: Google News: aucun résultat récent | Bing News: ParseError: not well-formed (invalid token): line 1, column 41",
+    "France ↔ Algérie: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "Web & freelance: Google News: aucun résultat récent | Bing News: aucun résultat récent",
-    "Marché & concurrence: Google News: aucun résultat récent | Bing News: ParseError: not well-formed (invalid token): line 1, column 41"
+    "Marché & concurrence: Google News: aucun résultat récent | Bing News: aucun résultat récent"
   ]
 }
