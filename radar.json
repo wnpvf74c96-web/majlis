@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T18:37:28.134639+00:00",
+  "generatedAt": "2026-10-02T00:39:26.759297+00:00",
   "topics": [
     {
       "id": "ai",
@@ -36,15 +36,15 @@
   ],
   "items": [
     {
-      "id": "fbff9be30610d0",
-      "topic": "durable",
-      "topicLabel": "Économie durable",
-      "title": "Les textes du 26-27 septembre 2026 - rsedatanews.net",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUjhyRHFqRkVIQ0NIME03NURFM1k4Q2RvZ0VNNWJoRkRpN2l3eFYzV3I1MFloYTNsaThkYUJzWWdPd1EzNEFvNmJvQU9rbVYxcG5UcFJ4V1B6Nkc1ZjFrRTNQT3l5YXRBS0tpWUdIclNJT3VobTdKWFBxdTM2TmVDSHdhYnJwcW9raWEzLWpJYVFCQlQzS3hYMjc1SGNRY0R1SFphYWRVekw?oc=5",
-      "source": "rsedatanews.net",
-      "published": "2026-09-27T09:21:08+00:00",
+      "id": "760433cae0fb27",
+      "topic": "funding",
+      "topicLabel": "Aides & appels à projets",
+      "title": "LETTRE ÉCONOMIQUE Égypte - tresor.economie.gouv.fr",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPS1g2T2F1aHg5TmJES2hMTFpEQW8yQXN3LVBDcVpueGkta0I0Q09Nc0FJRnlVdV9CZ3dEVjgyVnZRVnNuVXlEUjlZRnVVZU1WX2ZVUFZwVTY0NUNBQkZzZU9HT2RWMkxjazE3RC1GbmRZTGp3RzcxSEMwcXQ1SlZUQ0hXNGV2T2NXcmFXVFhlM1J3NjdvNnpoR3NWcFptZ09JRDZVbFREazFXZ1U0bFhTTUdKOVZuVTNMSmJVNno3REdnT05wSk9hUGpRYjRjTnBqYzFYVElEMzcydw?oc=5",
+      "source": "tresor.economie.gouv.fr",
+      "published": "2026-10-01T20:06:28+00:00",
       "kind": "news",
-      "score": 2.46
+      "score": 3.93
     },
     {
       "id": "e90f15dd6e349c",
@@ -55,7 +55,7 @@
       "source": "economie.gouv.fr",
       "published": "2026-09-25T19:52:31+00:00",
       "kind": "news",
-      "score": 1.92
+      "score": 1.83
     },
     {
       "id": "e2fe9c4c0fa146",
@@ -66,7 +66,7 @@
       "source": "Capital.fr",
       "published": "2026-09-25T10:10:48+00:00",
       "kind": "news",
-      "score": 1.78
+      "score": 1.69
     }
   ],
   "status": "ok",
@@ -75,6 +75,7 @@
     "SaaS & business: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "France ↔ Algérie: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "Web & freelance: Google News: aucun résultat récent | Bing News: aucun résultat récent",
+    "Économie durable: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "Marché & concurrence: Google News: aucun résultat récent | Bing News: aucun résultat récent"
   ]
 }
