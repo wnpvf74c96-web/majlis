@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T18:36:31.714347+00:00",
+  "generatedAt": "2026-10-03T00:38:02.807790+00:00",
   "topics": [
     {
       "id": "ai",
@@ -44,18 +44,18 @@
       "source": "tresor.economie.gouv.fr",
       "published": "2026-10-01T20:06:28+00:00",
       "kind": "news",
-      "score": 3.67
+      "score": 3.58
     },
     {
-      "id": "e90f15dd6e349c",
-      "topic": "funding",
-      "topicLabel": "Aides & appels à projets",
-      "title": "Untitled - economie.gouv.fr",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPLWxZV05ibXB3OHZKVFk0Qk5hRlVITEFlT2xzOE9UeHlSRVA3cS16VUF5c1BieFZHLXptMm9WUEViWjM5b2ExbzBFY2E1a3dZSklNNDF1a0xuTV9OUWJlTllYam5mQlN1cGVqS09wQ0o0N0NKcDZkcV9ZSFJQMThSRWpkcUFjVTcxa3NCZ3AtSUNaNGl0Uk9vUWFZbjFUVG5IR2dsZ0tXZlhEel9DSnhpSzdEaGktS3dSOUdnMVhGUVdVVU9ZY0VYd1dBMlkzMFI5QjVqcUJzT2hoQTQ3ZlU5Y3hNdFE5VGdBQXRjQlJBUG5Pd2Z6bGs2bFhES2E2U0VNWmFIdVExUktRS1pHWGxxQzZodkVraEhu?oc=5",
-      "source": "economie.gouv.fr",
-      "published": "2026-09-25T19:52:31+00:00",
+      "id": "fbff9be30610d0",
+      "topic": "durable",
+      "topicLabel": "Économie durable",
+      "title": "Les textes du 26-27 septembre 2026 - rsedatanews.net",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUjhyRHFqRkVIQ0NIME03NURFM1k4Q2RvZ0VNNWJoRkRpN2l3eFYzV3I1MFloYTNsaThkYUJzWWdPd1EzNEFvNmJvQU9rbVYxcG5UcFJ4V1B6Nkc1ZjFrRTNQT3l5YXRBS0tpWUdIclNJT3VobTdKWFBxdTM2TmVDSHdhYnJwcW9raWEzLWpJYVFCQlQzS3hYMjc1SGNRY0R1SFphYWRVekw?oc=5",
+      "source": "rsedatanews.net",
+      "published": "2026-09-27T09:21:08+00:00",
       "kind": "news",
-      "score": 1.57
+      "score": 2.03
     },
     {
       "id": "e2fe9c4c0fa146",
@@ -66,16 +66,15 @@
       "source": "Capital.fr",
       "published": "2026-09-25T10:10:48+00:00",
       "kind": "news",
-      "score": 1.43
+      "score": 1.34
     }
   ],
   "status": "ok",
   "errors": [
     "IA & outils: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "SaaS & business: Google News: aucun résultat récent | Bing News: aucun résultat récent",
-    "France ↔ Algérie: Google News: aucun résultat récent | Bing News: aucun résultat récent",
+    "France ↔ Algérie: Google News: aucun résultat récent | Bing News: ParseError: not well-formed (invalid token): line 1, column 41",
     "Web & freelance: Google News: aucun résultat récent | Bing News: aucun résultat récent",
-    "Économie durable: Google News: aucun résultat récent | Bing News: aucun résultat récent",
-    "Marché & concurrence: Google News: aucun résultat récent | Bing News: aucun résultat récent"
+    "Marché & concurrence: Google News: aucun résultat récent | Bing News: ParseError: not well-formed (invalid token): line 1, column 41"
   ]
 }
