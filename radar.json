@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T06:46:28.838262+00:00",
+  "generatedAt": "2026-10-03T15:42:32.335475+00:00",
   "topics": [
     {
       "id": "ai",
@@ -44,7 +44,7 @@
       "source": "tresor.economie.gouv.fr",
       "published": "2026-10-01T20:06:28+00:00",
       "kind": "news",
-      "score": 3.49
+      "score": 3.36
     },
     {
       "id": "e2fe9c4c0fa146",
@@ -55,7 +55,7 @@
       "source": "Capital.fr",
       "published": "2026-09-25T10:10:48+00:00",
       "kind": "news",
-      "score": 1.25
+      "score": 1.12
     }
   ],
   "status": "ok",
