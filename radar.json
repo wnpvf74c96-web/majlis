@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T00:38:02.807790+00:00",
+  "generatedAt": "2026-10-03T06:46:28.838262+00:00",
   "topics": [
     {
       "id": "ai",
@@ -44,18 +44,7 @@
       "source": "tresor.economie.gouv.fr",
       "published": "2026-10-01T20:06:28+00:00",
       "kind": "news",
-      "score": 3.58
-    },
-    {
-      "id": "fbff9be30610d0",
-      "topic": "durable",
-      "topicLabel": "Économie durable",
-      "title": "Les textes du 26-27 septembre 2026 - rsedatanews.net",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUjhyRHFqRkVIQ0NIME03NURFM1k4Q2RvZ0VNNWJoRkRpN2l3eFYzV3I1MFloYTNsaThkYUJzWWdPd1EzNEFvNmJvQU9rbVYxcG5UcFJ4V1B6Nkc1ZjFrRTNQT3l5YXRBS0tpWUdIclNJT3VobTdKWFBxdTM2TmVDSHdhYnJwcW9raWEzLWpJYVFCQlQzS3hYMjc1SGNRY0R1SFphYWRVekw?oc=5",
-      "source": "rsedatanews.net",
-      "published": "2026-09-27T09:21:08+00:00",
-      "kind": "news",
-      "score": 2.03
+      "score": 3.49
     },
     {
       "id": "e2fe9c4c0fa146",
@@ -66,15 +55,16 @@
       "source": "Capital.fr",
       "published": "2026-09-25T10:10:48+00:00",
       "kind": "news",
-      "score": 1.34
+      "score": 1.25
     }
   ],
   "status": "ok",
   "errors": [
     "IA & outils: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "SaaS & business: Google News: aucun résultat récent | Bing News: aucun résultat récent",
-    "France ↔ Algérie: Google News: aucun résultat récent | Bing News: ParseError: not well-formed (invalid token): line 1, column 41",
+    "France ↔ Algérie: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "Web & freelance: Google News: aucun résultat récent | Bing News: aucun résultat récent",
-    "Marché & concurrence: Google News: aucun résultat récent | Bing News: ParseError: not well-formed (invalid token): line 1, column 41"
+    "Économie durable: Google News: aucun résultat récent | Bing News: aucun résultat récent",
+    "Marché & concurrence: Google News: aucun résultat récent | Bing News: aucun résultat récent"
   ]
 }
