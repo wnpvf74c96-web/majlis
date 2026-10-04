@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T23:09:08.463010+00:00",
+  "generatedAt": "2026-10-04T03:52:47.727120+00:00",
   "topics": [
     {
       "id": "ai",
@@ -44,7 +44,7 @@
       "source": "tresor.economie.gouv.fr",
       "published": "2026-10-01T20:06:28+00:00",
       "kind": "news",
-      "score": 3.26
+      "score": 3.19
     },
     {
       "id": "e2fe9c4c0fa146",
@@ -55,16 +55,16 @@
       "source": "Capital.fr",
       "published": "2026-09-25T10:10:48+00:00",
       "kind": "news",
-      "score": 1.01
+      "score": 0.94
     }
   ],
   "status": "ok",
   "errors": [
-    "IA & outils: Google News: aucun résultat récent | Bing News: ParseError: not well-formed (invalid token): line 1, column 41",
+    "IA & outils: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "SaaS & business: Google News: aucun résultat récent | Bing News: aucun résultat récent",
-    "France ↔ Algérie: Google News: aucun résultat récent | Bing News: aucun résultat récent",
-    "Web & freelance: Google News: aucun résultat récent | Bing News: ParseError: not well-formed (invalid token): line 1, column 41",
-    "Économie durable: Google News: aucun résultat récent | Bing News: ParseError: not well-formed (invalid token): line 1, column 41",
-    "Marché & concurrence: Google News: aucun résultat récent | Bing News: aucun résultat récent"
+    "France ↔ Algérie: Google News: aucun résultat récent | Bing News: ParseError: not well-formed (invalid token): line 1, column 41",
+    "Web & freelance: Google News: aucun résultat récent | Bing News: aucun résultat récent",
+    "Économie durable: Google News: aucun résultat récent | Bing News: aucun résultat récent",
+    "Marché & concurrence: Google News: aucun résultat récent | Bing News: ParseError: not well-formed (invalid token): line 1, column 41"
   ]
 }
