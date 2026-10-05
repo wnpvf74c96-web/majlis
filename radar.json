@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T06:44:39.362053+00:00",
+  "generatedAt": "2026-10-05T12:40:36.313331+00:00",
   "topics": [
     {
       "id": "ai",
@@ -36,46 +36,112 @@
   ],
   "items": [
     {
-      "id": "0292c1af7a7066",
+      "id": "655082b2423cea",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
-      "title": "dp-french-tech-ticket-2-09032017-sircom bat - economie.gouv.fr",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQm1TMUlWSGZkNklIUHJkdWxHWDdoRnNUVE83OTMwWnAta3pxclZ4aWpjRGo3MnQ0bmFtT09Cb2N4b3lEZHJHZ2FNUmFZX051bDhKUFlUbWc5M2h6a3JsZWhtMUdjNE1YVzU3M2VvMk1sU2dTazN6R3F5MjgwV2ZJMk9PNFVsZ2NPa0c5NE1GMGFfbEhKUVdITy1icw?oc=5",
-      "source": "economie.gouv.fr",
-      "published": "2026-10-04T12:17:01+00:00",
-      "kind": "news",
-      "score": 3.73
+      "title": "7 fabricants de plaids et couvertures qui réchauffent l’automne",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac39aeee34f430c82f6bcae5489357c&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2f7-fabricants-de-plaids-et-couvertures-qui-rechauffent-lautomne&c=2832172325345558215&mkt=en-us",
+      "source": "Bing News",
+      "published": "2026-10-01T07:28:00+00:00",
+      "kind": "new",
+      "score": 4.52
     },
     {
-      "id": "760433cae0fb27",
+      "id": "3702ea9e8ec31a",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
-      "title": "LETTRE ÉCONOMIQUE Égypte - tresor.economie.gouv.fr",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPS1g2T2F1aHg5TmJES2hMTFpEQW8yQXN3LVBDcVpueGkta0I0Q09Nc0FJRnlVdV9CZ3dEVjgyVnZRVnNuVXlEUjlZRnVVZU1WX2ZVUFZwVTY0NUNBQkZzZU9HT2RWMkxjazE3RC1GbmRZTGp3RzcxSEMwcXQ1SlZUQ0hXNGV2T2NXcmFXVFhlM1J3NjdvNnpoR3NWcFptZ09JRDZVbFREazFXZ1U0bFhTTUdKOVZuVTNMSmJVNno3REdnT05wSk9hUGpRYjRjTnBqYzFYVElEMzcydw?oc=5",
-      "source": "tresor.economie.gouv.fr",
-      "published": "2026-10-01T20:06:28+00:00",
+      "title": "Catch'Up du Hub : CEOxCFO : le binome stratégique pour assurer croissance et rentabilité",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac39aeee34f430c82f6bcae5489357c&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-evenements%2fcatchup-du-hub-ceoxcfo-le-binome-strategique-pour-assurer-croissance-et-rentabilite&c=1564238457207937528&mkt=en-us",
+      "source": "Bing News",
+      "published": "2026-10-05T02:55:00+00:00",
       "kind": "news",
-      "score": 2.79
+      "score": 3.86
     },
     {
-      "id": "e2fe9c4c0fa146",
-      "topic": "legal",
-      "topicLabel": "Réglementation",
-      "title": "Facturation électronique : but, outils et calendrier - Capital.fr",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPY2Ftd3JURDMzU1hfTVcwYWVLamtmT1BoeFcwNzJ6aUpxOGZiQmpMTGdDUktnTXNkRXZsSzNFZzlnRWVKQUVYMHdUMU4wVERraEJ6V2U5blpWa21xaGRRamNUbkFPdjVYbktIMVRHbldQRjlkSWhhU1FJeDcyOFdyMHltcEYtVVRJZnpSWWZfUlNqRDdZVEc4UnB0LW5XR0d2?oc=5",
-      "source": "Capital.fr",
-      "published": "2026-09-25T10:10:48+00:00",
+      "id": "08da44db9d4d15",
+      "topic": "funding",
+      "topicLabel": "Aides & appels à projets",
+      "title": "« Diriger exige une grande capacité d’adaptation »",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac39aeee34f430c82f6bcae5489357c&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fdiriger-exige-une-grande-capacite-dadaptation&c=10826534410288900689&mkt=en-us",
+      "source": "Bing News",
+      "published": "2026-10-02T07:44:00+00:00",
       "kind": "news",
-      "score": 0.55
+      "score": 2.88
+    },
+    {
+      "id": "8302c092da1fd5",
+      "topic": "funding",
+      "topicLabel": "Aides & appels à projets",
+      "title": "Octobre Rose : et si la vraie sensibilisation ne se jouait pas en un mois ?",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac39aeee34f430c82f6bcae5489357c&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2foctobre-rose-et-si-la-vraie-sensibilisation-ne-se-jouait-pas-en-un-mois&c=4204893419653391249&mkt=en-us",
+      "source": "Bing News",
+      "published": "2026-10-02T05:00:00+00:00",
+      "kind": "news",
+      "score": 2.84
+    },
+    {
+      "id": "16075689994ddd",
+      "topic": "funding",
+      "topicLabel": "Aides & appels à projets",
+      "title": "Cléon : les chaussures françaises ne marchent pas qu'avec le luxe",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac39aeee34f430c82f6bcae5489357c&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fcleon-les-chaussures-francaises-ne-marchent-pas-quavec-le-luxe&c=931383124157875128&mkt=en-us",
+      "source": "Bing News",
+      "published": "2026-10-01T16:59:00+00:00",
+      "kind": "news",
+      "score": 2.66
+    },
+    {
+      "id": "fbfa37e9256009",
+      "topic": "funding",
+      "topicLabel": "Aides & appels à projets",
+      "title": "À Go Entrepreneurs Lyon : l’IA, un associé omniprésent des porteurs de projets",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac39aeee34f430c82f6bcae5489357c&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fa-go-entrepreneurs-lyon-lia-un-associe-omnipresent-des-porteurs-de-projets&c=17842292848803837923&mkt=en-us",
+      "source": "Bing News",
+      "published": "2026-10-01T07:09:00+00:00",
+      "kind": "news",
+      "score": 2.52
+    },
+    {
+      "id": "645c009943eea2",
+      "topic": "funding",
+      "topicLabel": "Aides & appels à projets",
+      "title": "Smart Reuse : la startup qui donne une seconde vie au matériel industriel",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac39aeee34f430c82f6bcae5489357c&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fsmart-reuse-la-startup-qui-donne-une-seconde-vie-au-materiel-industriel&c=15056814227570681067&mkt=en-us",
+      "source": "Bing News",
+      "published": "2026-09-30T03:36:00+00:00",
+      "kind": "news",
+      "score": 2.12
+    },
+    {
+      "id": "a67bf5ca9779eb",
+      "topic": "funding",
+      "topicLabel": "Aides & appels à projets",
+      "title": "Bien vieillir : le film Soudain dans les yeux d’une directrice d’Ehpad",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac39aeee34f430c82f6bcae5489357c&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fbien-vieillir-le-film-soudain-dans-les-yeux-dune-directrice-dehpad&c=10108829061353291562&mkt=en-us",
+      "source": "Bing News",
+      "published": "2026-09-29T17:00:00+00:00",
+      "kind": "news",
+      "score": 1.96
+    },
+    {
+      "id": "1ad0f8354bd49a",
+      "topic": "funding",
+      "topicLabel": "Aides & appels à projets",
+      "title": "Les leçons du culot : oser voir au-delà des frontières, avec Gardette Industries",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac39aeee34f430c82f6bcae5489357c&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fles-lecons-du-culot-oser-voir-au-dela-des-frontieres-avec-gardette-industries&c=2826030566407233975&mkt=en-us",
+      "source": "Bing News",
+      "published": "2026-09-29T02:40:00+00:00",
+      "kind": "news",
+      "score": 1.75
     }
   ],
   "status": "ok",
   "errors": [
-    "IA & outils: Google News: aucun résultat récent | Bing News: aucun résultat récent",
-    "SaaS & business: Google News: aucun résultat récent | Bing News: aucun résultat récent",
-    "France ↔ Algérie: Google News: aucun résultat récent | Bing News: aucun résultat récent",
-    "Web & freelance: Google News: aucun résultat récent | Bing News: aucun résultat récent",
-    "Économie durable: Google News: aucun résultat récent | Bing News: aucun résultat récent",
-    "Marché & concurrence: Google News: aucun résultat récent | Bing News: aucun résultat récent"
+    "IA & outils: Google News: HTTPError: HTTP Error 503: Service Unavailable | Bing News: aucun résultat récent",
+    "SaaS & business: Google News: HTTPError: HTTP Error 503: Service Unavailable | Bing News: aucun résultat récent",
+    "France ↔ Algérie: Google News: HTTPError: HTTP Error 503: Service Unavailable | Bing News: aucun résultat récent",
+    "Web & freelance: Google News: HTTPError: HTTP Error 503: Service Unavailable | Bing News: aucun résultat récent",
+    "Économie durable: Google News: HTTPError: HTTP Error 503: Service Unavailable | Bing News: aucun résultat récent",
+    "Marché & concurrence: Google News: HTTPError: HTTP Error 503: Service Unavailable | Bing News: aucun résultat récent"
   ]
 }
