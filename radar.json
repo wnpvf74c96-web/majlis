@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T06:39:28.719854+00:00",
+  "generatedAt": "2026-10-06T12:39:00.049823+00:00",
   "topics": [
     {
       "id": "ai",
@@ -36,6 +36,17 @@
   ],
   "items": [
     {
+      "id": "20e01ea313f0db",
+      "topic": "funding",
+      "topicLabel": "Aides & appels à projets",
+      "title": "Wiremind ouvre son capital pour la première fois et lève 35 millions d'euros - Bpifrance | Presse",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORFFlaEZEdk0zYUJTY2lfenpvYWVRdWNpUllyVUFBQUktWUFvUGlqcUN0QUVuZDVkNVFTVndON3lFc1RNRUNvSUxvNmtMUFJPUkxsT3ZUTVkydTVPZktRalhLdUJTZWVsUzRxUjN2UnpXcHVKS0hyRXBmbVJwWW9rS2E0el9qS2pOWElVUXcyd3pzenZ2WjdfNTRablM3QWpsWnFxdXRzWQ?oc=5",
+      "source": "Bpifrance | Presse",
+      "published": "2026-10-06T10:53:41+00:00",
+      "kind": "new",
+      "score": 5.97
+    },
+    {
       "id": "0292c1af7a7066",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
@@ -44,7 +55,7 @@
       "source": "economie.gouv.fr",
       "published": "2026-10-04T12:17:01+00:00",
       "kind": "news",
-      "score": 3.38
+      "score": 3.29
     },
     {
       "id": "760433cae0fb27",
@@ -55,7 +66,7 @@
       "source": "tresor.economie.gouv.fr",
       "published": "2026-10-01T20:06:28+00:00",
       "kind": "news",
-      "score": 2.45
+      "score": 2.36
     }
   ],
   "status": "ok",
