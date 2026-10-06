@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T12:39:00.049823+00:00",
+  "generatedAt": "2026-10-06T18:36:23.925075+00:00",
   "topics": [
     {
       "id": "ai",
@@ -44,7 +44,7 @@
       "source": "Bpifrance | Presse",
       "published": "2026-10-06T10:53:41+00:00",
       "kind": "new",
-      "score": 5.97
+      "score": 5.89
     },
     {
       "id": "0292c1af7a7066",
@@ -55,25 +55,25 @@
       "source": "economie.gouv.fr",
       "published": "2026-10-04T12:17:01+00:00",
       "kind": "news",
-      "score": 3.29
+      "score": 3.21
     },
     {
-      "id": "760433cae0fb27",
+      "id": "ac7852edd386c1",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
-      "title": "LETTRE ÉCONOMIQUE Égypte - tresor.economie.gouv.fr",
+      "title": "LETTRE ÉCONOMIQUE Égypte - economie.gouv.fr",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPS1g2T2F1aHg5TmJES2hMTFpEQW8yQXN3LVBDcVpueGkta0I0Q09Nc0FJRnlVdV9CZ3dEVjgyVnZRVnNuVXlEUjlZRnVVZU1WX2ZVUFZwVTY0NUNBQkZzZU9HT2RWMkxjazE3RC1GbmRZTGp3RzcxSEMwcXQ1SlZUQ0hXNGV2T2NXcmFXVFhlM1J3NjdvNnpoR3NWcFptZ09JRDZVbFREazFXZ1U0bFhTTUdKOVZuVTNMSmJVNno3REdnT05wSk9hUGpRYjRjTnBqYzFYVElEMzcydw?oc=5",
-      "source": "tresor.economie.gouv.fr",
+      "source": "economie.gouv.fr",
       "published": "2026-10-01T20:06:28+00:00",
       "kind": "news",
-      "score": 2.36
+      "score": 2.27
     }
   ],
   "status": "ok",
   "errors": [
     "IA & outils: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "SaaS & business: Google News: aucun résultat récent | Bing News: aucun résultat récent",
-    "France ↔ Algérie: Google News: aucun résultat récent | Bing News: aucun résultat récent",
+    "France ↔ Algérie: Google News: aucun résultat récent | Bing News: ParseError: not well-formed (invalid token): line 1, column 41",
     "Web & freelance: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "Économie durable: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "Marché & concurrence: Google News: aucun résultat récent | Bing News: aucun résultat récent"
