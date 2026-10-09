@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T18:38:12.509606+00:00",
+  "generatedAt": "2026-10-09T00:46:28.955096+00:00",
   "topics": [
     {
       "id": "ai",
@@ -44,7 +44,7 @@
       "source": "Bpifrance | Presse",
       "published": "2026-10-06T10:53:41+00:00",
       "kind": "new",
-      "score": 5.19
+      "score": 5.1
     },
     {
       "id": "c47b643a185af0",
@@ -53,9 +53,9 @@
       "title": "Mapping 2026 des startups françaises à impact1 382 startups à impact répondent aux priorités de notre temps :il faut maintenant leur permettre de changer d'échelle - Bpifrance | Presse",
       "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNQ0NTVktQM0RDdHVRbGluQnpnX3B2NkR6dVZBQ2E0M1hPdmJJNFZkVS1FcG5FZFBfTUltSzgxdk8td18xMEJfbTdjRHc1em9kZXl3X1l2OHBCZHRtM0VNVVp5a3pnTmdxODhGaXNUR2pETjcteENsRGl6X0JCRFhqWGpjdWtHMExCalZlSEFKTTEyNVhXMm5EcEhudkV2azV4SndWZG9DajVjTmJ5NGx6am5STWJwMTlIb3FJWHBhRmJ2emlCU0pXLV9OMTc3anJTOF9GT19ReTQ5SURZV2RZQXFWYWpENkhuazlJRkNVY0Y5OUlHTGVKSlBIX1RkcktsSzFTUTUyLUJMQmowRUVDWTVzYldfS01Hd3VZ?oc=5",
       "source": "Bpifrance | Presse",
-      "published": "2026-10-08T13:28:48+00:00",
+      "published": "2026-10-08T13:28:25+00:00",
       "kind": "news",
-      "score": 3.92
+      "score": 3.84
     },
     {
       "id": "0292c1af7a7066",
@@ -66,18 +66,7 @@
       "source": "economie.gouv.fr",
       "published": "2026-10-04T12:17:01+00:00",
       "kind": "news",
-      "score": 2.51
-    },
-    {
-      "id": "ac7852edd386c1",
-      "topic": "funding",
-      "topicLabel": "Aides & appels à projets",
-      "title": "LETTRE ÉCONOMIQUE Égypte - economie.gouv.fr",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPS1g2T2F1aHg5TmJES2hMTFpEQW8yQXN3LVBDcVpueGkta0I0Q09Nc0FJRnlVdV9CZ3dEVjgyVnZRVnNuVXlEUjlZRnVVZU1WX2ZVUFZwVTY0NUNBQkZzZU9HT2RWMkxjazE3RC1GbmRZTGp3RzcxSEMwcXQ1SlZUQ0hXNGV2T2NXcmFXVFhlM1J3NjdvNnpoR3NWcFptZ09JRDZVbFREazFXZ1U0bFhTTUdKOVZuVTNMSmJVNno3REdnT05wSk9hUGpRYjRjTnBqYzFYVElEMzcydw?oc=5",
-      "source": "economie.gouv.fr",
-      "published": "2026-10-01T20:06:28+00:00",
-      "kind": "news",
-      "score": 1.57
+      "score": 2.42
     }
   ],
   "status": "ok",
