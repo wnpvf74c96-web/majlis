@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T12:39:06.904415+00:00",
+  "generatedAt": "2026-10-09T18:36:40.442933+00:00",
   "topics": [
     {
       "id": "ai",
@@ -44,7 +44,7 @@
       "source": "Bpifrance | Presse",
       "published": "2026-10-06T10:53:41+00:00",
       "kind": "new",
-      "score": 4.92
+      "score": 4.84
     },
     {
       "id": "c47b643a185af0",
@@ -55,7 +55,7 @@
       "source": "Bpifrance | Presse",
       "published": "2026-10-08T13:28:25+00:00",
       "kind": "news",
-      "score": 3.66
+      "score": 3.58
     },
     {
       "id": "0292c1af7a7066",
@@ -66,7 +66,7 @@
       "source": "economie.gouv.fr",
       "published": "2026-10-04T12:17:01+00:00",
       "kind": "news",
-      "score": 2.24
+      "score": 2.16
     }
   ],
   "status": "ok",
