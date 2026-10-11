@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T12:38:42.955780+00:00",
+  "generatedAt": "2026-10-11T18:35:56.957106+00:00",
   "topics": [
     {
       "id": "ai",
@@ -44,7 +44,7 @@
       "source": "Bpifrance | Presse",
       "published": "2026-10-06T10:53:41+00:00",
       "kind": "new",
-      "score": 4.22
+      "score": 4.14
     },
     {
       "id": "c47b643a185af0",
@@ -55,7 +55,7 @@
       "source": "Bpifrance | Presse",
       "published": "2026-10-08T13:28:25+00:00",
       "kind": "news",
-      "score": 2.96
+      "score": 2.88
     }
   ],
   "status": "ok",
@@ -65,6 +65,6 @@
     "France ↔ Algérie: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "Web & freelance: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "Économie durable: Google News: aucun résultat récent | Bing News: aucun résultat récent",
-    "Marché & concurrence: Google News: aucun résultat récent | Bing News: ParseError: not well-formed (invalid token): line 1, column 41"
+    "Marché & concurrence: Google News: aucun résultat récent | Bing News: aucun résultat récent"
   ]
 }
