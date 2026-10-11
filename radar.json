@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T00:43:04.085196+00:00",
+  "generatedAt": "2026-10-11T06:39:08.364051+00:00",
   "topics": [
     {
       "id": "ai",
@@ -44,7 +44,7 @@
       "source": "Bpifrance Transmission",
       "published": "2026-10-09T15:28:01+00:00",
       "kind": "opportunity",
-      "score": 8.52
+      "score": 8.43
     },
     {
       "id": "20e01ea313f0db",
@@ -55,7 +55,7 @@
       "source": "Bpifrance | Presse",
       "published": "2026-10-06T10:53:41+00:00",
       "kind": "new",
-      "score": 4.4
+      "score": 4.31
     },
     {
       "id": "c47b643a185af0",
@@ -66,7 +66,7 @@
       "source": "Bpifrance | Presse",
       "published": "2026-10-08T13:28:25+00:00",
       "kind": "news",
-      "score": 3.14
+      "score": 3.05
     },
     {
       "id": "0292c1af7a7066",
@@ -77,7 +77,7 @@
       "source": "economie.gouv.fr",
       "published": "2026-10-04T12:17:01+00:00",
       "kind": "news",
-      "score": 1.72
+      "score": 1.63
     }
   ],
   "status": "ok",
@@ -85,7 +85,7 @@
     "IA & outils: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "SaaS & business: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "France ↔ Algérie: Google News: aucun résultat récent | Bing News: aucun résultat récent",
-    "Web & freelance: Google News: aucun résultat récent | Bing News: aucun résultat récent",
+    "Web & freelance: Google News: aucun résultat récent | Bing News: ParseError: not well-formed (invalid token): line 1, column 41",
     "Économie durable: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "Marché & concurrence: Google News: aucun résultat récent | Bing News: aucun résultat récent"
   ]
