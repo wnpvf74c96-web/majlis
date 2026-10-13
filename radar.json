@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T15:33:52.667647+00:00",
+  "generatedAt": "2026-10-13T00:45:24.564799+00:00",
   "topics": [
     {
       "id": "ai",
@@ -36,6 +36,17 @@
   ],
   "items": [
     {
+      "id": "9f01446612e5cb",
+      "topic": "funding",
+      "topicLabel": "Aides & appels à projets",
+      "title": "APE : rapport d'activité 2024 - 2025 - economie.gouv.fr",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZ3lTVkl1QW9vUDdEUW5wdGkxZkFNOXFpcW1RbEtNMmV3QVlIaEh3RG1fSEFKY0x4SXd3X0hFX3FHXzRZYjNBNlpicmN0elJtQnBlQm9qSmpkeWFfekJaQ1kwOVl6WWQ5VXJxUHZ2c1ZmWkluUXBRcmxjQkRaa3hBNlpFd01XY3piZ3JwTmZfOTZRbm9NVGszbmdJbTgxRjZUTGNYMWtFbmRfYTZkTVJuakp3YXE1UlNIakJwN3RxOF92My11U2dMM29uOHpidS0zOWxNZ19PclNaN0xUc2pfWEVwbzFLMWZsdmZNdG1jeWo?oc=5",
+      "source": "economie.gouv.fr",
+      "published": "2026-10-12T19:05:57+00:00",
+      "kind": "news",
+      "score": 3.92
+    },
+    {
       "id": "20e01ea313f0db",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
@@ -44,7 +55,7 @@
       "source": "Bpifrance | Presse",
       "published": "2026-10-06T10:53:41+00:00",
       "kind": "new",
-      "score": 3.83
+      "score": 3.7
     },
     {
       "id": "c47b643a185af0",
@@ -55,16 +66,16 @@
       "source": "Bpifrance | Presse",
       "published": "2026-10-08T13:28:25+00:00",
       "kind": "news",
-      "score": 2.57
+      "score": 2.44
     }
   ],
   "status": "ok",
   "errors": [
     "IA & outils: Google News: aucun résultat récent | Bing News: aucun résultat récent",
-    "SaaS & business: Google News: aucun résultat récent | Bing News: ParseError: not well-formed (invalid token): line 1, column 41",
+    "SaaS & business: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "France ↔ Algérie: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "Web & freelance: Google News: aucun résultat récent | Bing News: aucun résultat récent",
-    "Économie durable: Google News: aucun résultat récent | Bing News: ParseError: not well-formed (invalid token): line 1, column 41",
+    "Économie durable: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "Marché & concurrence: Google News: aucun résultat récent | Bing News: aucun résultat récent"
   ]
 }
