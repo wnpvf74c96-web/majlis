@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T00:45:24.564799+00:00",
+  "generatedAt": "2026-10-13T14:17:02.378214+00:00",
   "topics": [
     {
       "id": "ai",
@@ -36,46 +36,101 @@
   ],
   "items": [
     {
-      "id": "9f01446612e5cb",
+      "id": "d6af3c652f0b62",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
-      "title": "APE : rapport d'activité 2024 - 2025 - economie.gouv.fr",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZ3lTVkl1QW9vUDdEUW5wdGkxZkFNOXFpcW1RbEtNMmV3QVlIaEh3RG1fSEFKY0x4SXd3X0hFX3FHXzRZYjNBNlpicmN0elJtQnBlQm9qSmpkeWFfekJaQ1kwOVl6WWQ5VXJxUHZ2c1ZmWkluUXBRcmxjQkRaa3hBNlpFd01XY3piZ3JwTmZfOTZRbm9NVGszbmdJbTgxRjZUTGNYMWtFbmRfYTZkTVJuakp3YXE1UlNIakJwN3RxOF92My11U2dMM29uOHpidS0zOWxNZ19PclNaN0xUc2pfWEVwbzFLMWZsdmZNdG1jeWo?oc=5",
-      "source": "economie.gouv.fr",
-      "published": "2026-10-12T19:05:57+00:00",
-      "kind": "news",
-      "score": 3.92
-    },
-    {
-      "id": "20e01ea313f0db",
-      "topic": "funding",
-      "topicLabel": "Aides & appels à projets",
-      "title": "Wiremind ouvre son capital pour la première fois et lève 35 millions d'euros - Bpifrance | Presse",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORFFlaEZEdk0zYUJTY2lfenpvYWVRdWNpUllyVUFBQUktWUFvUGlqcUN0QUVuZDVkNVFTVndON3lFc1RNRUNvSUxvNmtMUFJPUkxsT3ZUTVkydTVPZktRalhLdUJTZWVsUzRxUjN2UnpXcHVKS0hyRXBmbVJwWW9rS2E0el9qS2pOWElVUXcyd3pzenZ2WjdfNTRablM3QWpsWnFxdXRzWQ?oc=5",
-      "source": "Bpifrance | Presse",
-      "published": "2026-10-06T10:53:41+00:00",
+      "title": "Sport Tech : la donnée est-elle la nouvelle star des terrains ?",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ace3d62d5e04788ae181f99aef88415&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fsport-tech-la-donnee-est-elle-la-nouvelle-star-des-terrains&c=3476073585017611862&mkt=en-us",
+      "source": "Bing News",
+      "published": "2026-10-11T17:00:00+00:00",
       "kind": "new",
-      "score": 3.7
+      "score": 5.34
     },
     {
-      "id": "c47b643a185af0",
+      "id": "aee11f51ea830c",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
-      "title": "Mapping 2026 des startups françaises à impact1 382 startups à impact répondent aux priorités de notre temps :il faut maintenant leur permettre de changer d'échelle - Bpifrance | Presse",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNQ0NTVktQM0RDdHVRbGluQnpnX3B2NkR6dVZBQ2E0M1hPdmJJNFZkVS1FcG5FZFBfTUltSzgxdk8td18xMEJfbTdjRHc1em9kZXl3X1l2OHBCZHRtM0VNVVp5a3pnTmdxODhGaXNUR2pETjcteENsRGl6X0JCRFhqWGpjdWtHMExCalZlSEFKTTEyNVhXMm5EcEhudkV2azV4SndWZG9DajVjTmJ5NGx6am5STWJwMTlIb3FJWHBhRmJ2emlCU0pXLV9OMTc3anJTOF9GT19ReTQ5SURZV2RZQXFWYWpENkhuazlJRkNVY0Y5OUlHTGVKSlBIX1RkcktsSzFTUTUyLUJMQmowRUVDWTVzYldfS01Hd3VZ?oc=5",
-      "source": "Bpifrance | Presse",
-      "published": "2026-10-08T13:28:25+00:00",
+      "title": "[Tribune] L'ère de la synthèse : pourquoi l'innovation ne doit plus choisir ses combats",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ace3d62d5e04788ae181f99aef88415&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2ftribune-lere-de-la-synthese-pourquoi-linnovation-ne-doit-plus-choisir-ses-combats&c=5216575753918757429&mkt=en-us",
+      "source": "Bing News",
+      "published": "2026-10-07T01:00:00+00:00",
+      "kind": "new",
+      "score": 3.71
+    },
+    {
+      "id": "cec7fbaa53960f",
+      "topic": "funding",
+      "topicLabel": "Aides & appels à projets",
+      "title": "Quartiers et entrepreneuriat : regards croisés en Bourgogne-Franche-Comté",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ace3d62d5e04788ae181f99aef88415&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fquartiers-et-entrepreneuriat-regards-croises-en-bourgogne-franche-comte&c=7359020416987883764&mkt=en-us",
+      "source": "Bing News",
+      "published": "2026-10-12T10:23:00+00:00",
       "kind": "news",
-      "score": 2.44
+      "score": 3.59
+    },
+    {
+      "id": "89af15124bfb58",
+      "topic": "funding",
+      "topicLabel": "Aides & appels à projets",
+      "title": "L’histoire et l’innovation récompensées au Prix EY de l’Entrepreneur de l’Année Nord de France",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ace3d62d5e04788ae181f99aef88415&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2flhistoire-et-linnovation-recompensees-au-prix-ey-de-lentrepreneur-de-lannee-nord-de-france&c=17109306083798891893&mkt=en-us",
+      "source": "Bing News",
+      "published": "2026-10-06T08:51:00+00:00",
+      "kind": "new",
+      "score": 3.47
+    },
+    {
+      "id": "39ae859387af98",
+      "topic": "funding",
+      "topicLabel": "Aides & appels à projets",
+      "title": "Tourisme : Bpifrance veut fédérer la filière autour de la « French Experience »",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ace3d62d5e04788ae181f99aef88415&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2ftourisme-bpifrance-veut-federer-la-filiere-autour-de-la-french-experience&c=17226580228190143172&mkt=en-us",
+      "source": "Bing News",
+      "published": "2026-10-09T12:21:00+00:00",
+      "kind": "news",
+      "score": 2.57
+    },
+    {
+      "id": "8dd4ac5560e22c",
+      "topic": "funding",
+      "topicLabel": "Aides & appels à projets",
+      "title": "[Tribune] : “Et si l’humour devenait une porte d’entrée vers la santé mentale ?”",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ace3d62d5e04788ae181f99aef88415&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2ftribune-et-si-lhumour-devenait-une-porte-dentree-vers-la-sante-mentale&c=2107339304248883390&mkt=en-us",
+      "source": "Bing News",
+      "published": "2026-10-08T17:00:00+00:00",
+      "kind": "news",
+      "score": 2.29
+    },
+    {
+      "id": "a9dbea401ce5fa",
+      "topic": "funding",
+      "topicLabel": "Aides & appels à projets",
+      "title": "Big 2026 : 9 entrepreneurs partagent leur définition du culot",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ace3d62d5e04788ae181f99aef88415&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fbig-2026-9-entrepreneurs-partagent-leur-definition-du-culot&c=4433008049304490779&mkt=en-us",
+      "source": "Bing News",
+      "published": "2026-10-07T23:12:00+00:00",
+      "kind": "news",
+      "score": 2.03
+    },
+    {
+      "id": "463620b5624d74",
+      "topic": "funding",
+      "topicLabel": "Aides & appels à projets",
+      "title": "Mobilité, réemploi, recyclage : 5 entreprises qui accélèrent la transition écologique",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ace3d62d5e04788ae181f99aef88415&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fmobilite-reemploi-recyclage-5-entreprises-qui-accelerent-la-transition-ecologique&c=6065056978519825441&mkt=en-us",
+      "source": "Bing News",
+      "published": "2026-10-06T23:16:00+00:00",
+      "kind": "news",
+      "score": 1.68
     }
   ],
   "status": "ok",
   "errors": [
-    "IA & outils: Google News: aucun résultat récent | Bing News: aucun résultat récent",
+    "IA & outils: Google News: aucun résultat récent | Bing News: ParseError: not well-formed (invalid token): line 1, column 41",
     "SaaS & business: Google News: aucun résultat récent | Bing News: aucun résultat récent",
-    "France ↔ Algérie: Google News: aucun résultat récent | Bing News: aucun résultat récent",
-    "Web & freelance: Google News: aucun résultat récent | Bing News: aucun résultat récent",
+    "France ↔ Algérie: Google News: aucun résultat récent | Bing News: ParseError: not well-formed (invalid token): line 1, column 41",
+    "Web & freelance: Google News: aucun résultat récent | Bing News: ParseError: not well-formed (invalid token): line 1, column 41",
     "Économie durable: Google News: aucun résultat récent | Bing News: aucun résultat récent",
-    "Marché & concurrence: Google News: aucun résultat récent | Bing News: aucun résultat récent"
+    "Marché & concurrence: Google News: aucun résultat récent | Bing News: ParseError: not well-formed (invalid token): line 1, column 41"
   ]
 }
