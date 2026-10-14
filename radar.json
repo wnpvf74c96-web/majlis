@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T04:58:26.420246+00:00",
+  "generatedAt": "2026-10-14T11:58:41.774474+00:00",
   "topics": [
     {
       "id": "ai",
@@ -36,92 +36,92 @@
   ],
   "items": [
     {
-      "id": "c3da59df81f439",
+      "id": "5c7620a3f7ad9f",
+      "topic": "funding",
+      "topicLabel": "Aides & appels à projets",
+      "title": "Fonds Défense Bpifrance : déjà 150 millions d’euros investis par les Français",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf6e7682ad44328c6e6852c3feaee0&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2ffonds-defense-bpifrance-deja-150-millions-deuros-investis-par-les-francais&c=9486616422762325458&mkt=en-us",
+      "source": "Bing News",
+      "published": "2026-10-06T04:33:00+00:00",
+      "kind": "opportunity",
+      "score": 6.09
+    },
+    {
+      "id": "95e0d2b7985d66",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Sport Tech : la donnée est-elle la nouvelle star des terrains ?",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf0bf5dbf94d499389d7e3951746cd&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fsport-tech-la-donnee-est-elle-la-nouvelle-star-des-terrains&c=3476073585017611862&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf6e7682ad44328c6e6852c3feaee0&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fsport-tech-la-donnee-est-elle-la-nouvelle-star-des-terrains&c=3476073585017611862&mkt=en-us",
       "source": "Bing News",
       "published": "2026-10-11T17:00:00+00:00",
       "kind": "new",
-      "score": 5.13
+      "score": 5.02
     },
     {
-      "id": "e1d33963d69799",
+      "id": "1239ac8ffde272",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "[Tribune] L'ère de la synthèse : pourquoi l'innovation ne doit plus choisir ses combats",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf0bf5dbf94d499389d7e3951746cd&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2ftribune-lere-de-la-synthese-pourquoi-linnovation-ne-doit-plus-choisir-ses-combats&c=5216575753918757429&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf6e7682ad44328c6e6852c3feaee0&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2ftribune-lere-de-la-synthese-pourquoi-linnovation-ne-doit-plus-choisir-ses-combats&c=5216575753918757429&mkt=en-us",
       "source": "Bing News",
       "published": "2026-10-07T01:00:00+00:00",
       "kind": "new",
-      "score": 3.49
+      "score": 3.39
     },
     {
-      "id": "e854105c95adf8",
+      "id": "f2f4cc1943fd9f",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Quartiers et entrepreneuriat : regards croisés en Bourgogne-Franche-Comté",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf0bf5dbf94d499389d7e3951746cd&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fquartiers-et-entrepreneuriat-regards-croises-en-bourgogne-franche-comte&c=7359020416987883764&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf6e7682ad44328c6e6852c3feaee0&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fquartiers-et-entrepreneuriat-regards-croises-en-bourgogne-franche-comte&c=7359020416987883764&mkt=en-us",
       "source": "Bing News",
       "published": "2026-10-12T10:23:00+00:00",
       "kind": "news",
-      "score": 3.38
+      "score": 3.28
     },
     {
-      "id": "93f9dcc2d51908",
+      "id": "5a5cb5068a69c2",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "L’histoire et l’innovation récompensées au Prix EY de l’Entrepreneur de l’Année Nord de France",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf0bf5dbf94d499389d7e3951746cd&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2flhistoire-et-linnovation-recompensees-au-prix-ey-de-lentrepreneur-de-lannee-nord-de-france&c=17109306083798891893&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf6e7682ad44328c6e6852c3feaee0&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2flhistoire-et-linnovation-recompensees-au-prix-ey-de-lentrepreneur-de-lannee-nord-de-france&c=17109306083798891893&mkt=en-us",
       "source": "Bing News",
       "published": "2026-10-06T08:51:00+00:00",
       "kind": "new",
-      "score": 3.26
+      "score": 3.15
     },
     {
-      "id": "5d80ddd820a398",
+      "id": "15150c5d501ddb",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Tourisme : Bpifrance veut fédérer la filière autour de la « French Experience »",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf0bf5dbf94d499389d7e3951746cd&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2ftourisme-bpifrance-veut-federer-la-filiere-autour-de-la-french-experience&c=17226580228190143172&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf6e7682ad44328c6e6852c3feaee0&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2ftourisme-bpifrance-veut-federer-la-filiere-autour-de-la-french-experience&c=17226580228190143172&mkt=en-us",
       "source": "Bing News",
       "published": "2026-10-09T12:21:00+00:00",
       "kind": "news",
-      "score": 2.36
+      "score": 2.26
     },
     {
-      "id": "9e29574983b145",
+      "id": "0f59e1394daa83",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "[Tribune] : “Et si l’humour devenait une porte d’entrée vers la santé mentale ?”",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf0bf5dbf94d499389d7e3951746cd&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2ftribune-et-si-lhumour-devenait-une-porte-dentree-vers-la-sante-mentale&c=2107339304248883390&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf6e7682ad44328c6e6852c3feaee0&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2ftribune-et-si-lhumour-devenait-une-porte-dentree-vers-la-sante-mentale&c=2107339304248883390&mkt=en-us",
       "source": "Bing News",
       "published": "2026-10-08T17:00:00+00:00",
       "kind": "news",
-      "score": 2.08
+      "score": 1.97
     },
     {
-      "id": "d0751526515bd1",
+      "id": "0eeda5894cc1af",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Big 2026 : 9 entrepreneurs partagent leur définition du culot",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf0bf5dbf94d499389d7e3951746cd&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fbig-2026-9-entrepreneurs-partagent-leur-definition-du-culot&c=4433008049304490779&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf6e7682ad44328c6e6852c3feaee0&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fbig-2026-9-entrepreneurs-partagent-leur-definition-du-culot&c=4433008049304490779&mkt=en-us",
       "source": "Bing News",
       "published": "2026-10-07T23:12:00+00:00",
       "kind": "news",
-      "score": 1.82
-    },
-    {
-      "id": "8dba13e5367b45",
-      "topic": "funding",
-      "topicLabel": "Aides & appels à projets",
-      "title": "Mobilité, réemploi, recyclage : 5 entreprises qui accélèrent la transition écologique",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acf0bf5dbf94d499389d7e3951746cd&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fmobilite-reemploi-recyclage-5-entreprises-qui-accelerent-la-transition-ecologique&c=6065056978519825441&mkt=en-us",
-      "source": "Bing News",
-      "published": "2026-10-06T23:16:00+00:00",
-      "kind": "news",
-      "score": 1.47
+      "score": 1.71
     }
   ],
   "status": "ok",
@@ -129,7 +129,7 @@
     "IA & outils: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "SaaS & business: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "France ↔ Algérie: Google News: aucun résultat récent | Bing News: aucun résultat récent",
-    "Web & freelance: Google News: aucun résultat récent | Bing News: aucun résultat récent",
+    "Web & freelance: Google News: aucun résultat récent | Bing News: ParseError: not well-formed (invalid token): line 1, column 41",
     "Économie durable: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "Marché & concurrence: Google News: aucun résultat récent | Bing News: aucun résultat récent"
   ]
