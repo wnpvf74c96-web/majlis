@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T04:39:35.976838+00:00",
+  "generatedAt": "2026-10-18T11:13:21.621338+00:00",
   "topics": [
     {
       "id": "ai",
@@ -36,68 +36,68 @@
   ],
   "items": [
     {
-      "id": "abdce7d28d95fd",
+      "id": "a29a15faf46a0e",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Sport Tech : la donnée est-elle la nouvelle star des terrains ?",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad44d8bd85f48f8af57cd36b909b221&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fsport-tech-la-donnee-est-elle-la-nouvelle-star-des-terrains&c=3476073585017611862&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4a9d4ed4d432bb0ad27408b204729&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fsport-tech-la-donnee-est-elle-la-nouvelle-star-des-terrains&c=3476073585017611862&mkt=en-us",
       "source": "Bing News",
       "published": "2026-10-11T17:00:00+00:00",
       "kind": "new",
-      "score": 3.73
+      "score": 3.63
     },
     {
-      "id": "c7071dd7ffca8b",
+      "id": "04bfacb2263a6f",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Ametra Group : l’industrie comme héritage, l’humain comme boussole",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad44d8bd85f48f8af57cd36b909b221&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fametra-group-lindustrie-comme-heritage-lhumain-comme-boussole&c=6129041268582104044&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4a9d4ed4d432bb0ad27408b204729&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fametra-group-lindustrie-comme-heritage-lhumain-comme-boussole&c=6129041268582104044&mkt=en-us",
       "source": "Bing News",
       "published": "2026-10-15T03:42:00+00:00",
       "kind": "news",
-      "score": 2.94
+      "score": 2.84
     },
     {
-      "id": "30d80ac65d067c",
+      "id": "f05e69c91f691f",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Reprise de Duralex : Cédric Meston choisi par le tribunal de commerce d’Orléans",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad44d8bd85f48f8af57cd36b909b221&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2freprise-de-duralex-cedric-meston-choisi-par-le-tribunal-de-commerce-dorleans&c=11137270512166545386&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4a9d4ed4d432bb0ad27408b204729&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2freprise-de-duralex-cedric-meston-choisi-par-le-tribunal-de-commerce-dorleans&c=11137270512166545386&mkt=en-us",
       "source": "Bing News",
       "published": "2026-10-14T10:55:00+00:00",
       "kind": "news",
-      "score": 2.69
+      "score": 2.6
     },
     {
-      "id": "8ea6e95ac63abc",
+      "id": "1a119daa060d4c",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Tourisme : Bpifrance veut fédérer la filière autour de la « French Experience »",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad44d8bd85f48f8af57cd36b909b221&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2ftourisme-bpifrance-veut-federer-la-filiere-autour-de-la-french-experience&c=17226580228190143172&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4a9d4ed4d432bb0ad27408b204729&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2ftourisme-bpifrance-veut-federer-la-filiere-autour-de-la-french-experience&c=17226580228190143172&mkt=en-us",
       "source": "Bing News",
       "published": "2026-10-09T12:21:00+00:00",
       "kind": "news",
-      "score": 0.96
+      "score": 0.87
     },
     {
-      "id": "5b963cd560ed52",
+      "id": "6a05ca7a69356f",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "[Tribune] : “Et si l’humour devenait une porte d’entrée vers la santé mentale ?”",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad44d8bd85f48f8af57cd36b909b221&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2ftribune-et-si-lhumour-devenait-une-porte-dentree-vers-la-sante-mentale&c=2107339304248883390&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad4a9d4ed4d432bb0ad27408b204729&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2ftribune-et-si-lhumour-devenait-une-porte-dentree-vers-la-sante-mentale&c=2107339304248883390&mkt=en-us",
       "source": "Bing News",
       "published": "2026-10-08T17:00:00+00:00",
       "kind": "news",
-      "score": 0.68
+      "score": 0.58
     }
   ],
   "status": "ok",
   "errors": [
-    "IA & outils: Google News: aucun résultat récent | Bing News: ParseError: not well-formed (invalid token): line 1, column 41",
-    "SaaS & business: Google News: aucun résultat récent | Bing News: ParseError: not well-formed (invalid token): line 1, column 41",
-    "France ↔ Algérie: Google News: aucun résultat récent | Bing News: ParseError: not well-formed (invalid token): line 1, column 41",
+    "IA & outils: Google News: aucun résultat récent | Bing News: aucun résultat récent",
+    "SaaS & business: Google News: aucun résultat récent | Bing News: aucun résultat récent",
+    "France ↔ Algérie: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "Web & freelance: Google News: aucun résultat récent | Bing News: aucun résultat récent",
-    "Économie durable: Google News: aucun résultat récent | Bing News: ParseError: not well-formed (invalid token): line 1, column 41",
-    "Marché & concurrence: Google News: aucun résultat récent | Bing News: ParseError: not well-formed (invalid token): line 1, column 41"
+    "Économie durable: Google News: aucun résultat récent | Bing News: aucun résultat récent",
+    "Marché & concurrence: Google News: aucun résultat récent | Bing News: aucun résultat récent"
   ]
 }
