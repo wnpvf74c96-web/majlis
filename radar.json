@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T22:23:41.563300+00:00",
+  "generatedAt": "2026-10-20T04:55:56.311585+00:00",
   "topics": [
     {
       "id": "ai",
@@ -36,48 +36,48 @@
   ],
   "items": [
     {
-      "id": "e3b5c6b8bbccb8",
+      "id": "fe4754dac0b7f1",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Sylvie-René : elles réinventent les meubles de nos grand-mères",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad69871a77a4049a22c90cf04b35517&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fsylvie-rene-elles-reinventent-les-meubles-de-nos-grand-meres&c=8296110263091386986&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad6f45fcc2244769bc297841ff8c7b0&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fsylvie-rene-elles-reinventent-les-meubles-de-nos-grand-meres&c=8296110263091386986&mkt=en-us",
       "source": "Bing News",
       "published": "2026-10-18T16:59:00+00:00",
       "kind": "news",
-      "score": 3.57
+      "score": 3.48
     },
     {
-      "id": "b84babaaa51f22",
+      "id": "d436612bd3690c",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Sport Tech : la donnée est-elle la nouvelle star des terrains ?",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad69871a77a4049a22c90cf04b35517&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fsport-tech-la-donnee-est-elle-la-nouvelle-star-des-terrains&c=3476073585017611862&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad6f45fcc2244769bc297841ff8c7b0&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fsport-tech-la-donnee-est-elle-la-nouvelle-star-des-terrains&c=3476073585017611862&mkt=en-us",
       "source": "Bing News",
       "published": "2026-10-11T17:00:00+00:00",
       "kind": "new",
-      "score": 3.12
+      "score": 3.03
     },
     {
-      "id": "1fd9a583649253",
+      "id": "71eb2e0faf05a1",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Ametra Group : l’industrie comme héritage, l’humain comme boussole",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad69871a77a4049a22c90cf04b35517&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fametra-group-lindustrie-comme-heritage-lhumain-comme-boussole&c=6129041268582104044&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad6f45fcc2244769bc297841ff8c7b0&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fametra-group-lindustrie-comme-heritage-lhumain-comme-boussole&c=6129041268582104044&mkt=en-us",
       "source": "Bing News",
       "published": "2026-10-15T03:42:00+00:00",
       "kind": "news",
-      "score": 2.33
+      "score": 2.23
     },
     {
-      "id": "46d4af745f7f1f",
+      "id": "35c4bbf18c691c",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Reprise de Duralex : Cédric Meston choisi par le tribunal de commerce d’Orléans",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad69871a77a4049a22c90cf04b35517&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2freprise-de-duralex-cedric-meston-choisi-par-le-tribunal-de-commerce-dorleans&c=11137270512166545386&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad6f45fcc2244769bc297841ff8c7b0&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2freprise-de-duralex-cedric-meston-choisi-par-le-tribunal-de-commerce-dorleans&c=11137270512166545386&mkt=en-us",
       "source": "Bing News",
       "published": "2026-10-14T10:55:00+00:00",
       "kind": "news",
-      "score": 2.08
+      "score": 1.99
     }
   ],
   "status": "ok",
