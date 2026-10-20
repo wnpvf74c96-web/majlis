@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T11:44:13.933079+00:00",
+  "generatedAt": "2026-10-20T17:13:20.721387+00:00",
   "topics": [
     {
       "id": "ai",
@@ -34,70 +34,14 @@
       "label": "Réglementation"
     }
   ],
-  "items": [
-    {
-      "id": "4179d719e8e4fb",
-      "topic": "funding",
-      "topicLabel": "Aides & appels à projets",
-      "title": "Cancer@work oeuvre pour une meilleure intégration de la maladie au travail",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad754113d04435191eab544fe086e84&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fcancerwork-oeuvre-pour-une-meilleure-integration-de-la-maladie-au-travail&c=11637767656727273766&mkt=en-us",
-      "source": "Bing News",
-      "published": "2026-10-20T04:04:00+00:00",
-      "kind": "news",
-      "score": 3.89
-    },
-    {
-      "id": "806ec622b7fc26",
-      "topic": "funding",
-      "topicLabel": "Aides & appels à projets",
-      "title": "Sylvie-René : elles réinventent les meubles de nos grand-mères",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad754113d04435191eab544fe086e84&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fsylvie-rene-elles-reinventent-les-meubles-de-nos-grand-meres&c=8296110263091386986&mkt=en-us",
-      "source": "Bing News",
-      "published": "2026-10-18T16:59:00+00:00",
-      "kind": "news",
-      "score": 3.38
-    },
-    {
-      "id": "7d4e66a8486ab1",
-      "topic": "funding",
-      "topicLabel": "Aides & appels à projets",
-      "title": "Sport Tech : la donnée est-elle la nouvelle star des terrains ?",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad754113d04435191eab544fe086e84&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fsport-tech-la-donnee-est-elle-la-nouvelle-star-des-terrains&c=3476073585017611862&mkt=en-us",
-      "source": "Bing News",
-      "published": "2026-10-11T17:00:00+00:00",
-      "kind": "new",
-      "score": 2.93
-    },
-    {
-      "id": "1a372372abc2d5",
-      "topic": "funding",
-      "topicLabel": "Aides & appels à projets",
-      "title": "Ametra Group : l’industrie comme héritage, l’humain comme boussole",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad754113d04435191eab544fe086e84&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fametra-group-lindustrie-comme-heritage-lhumain-comme-boussole&c=6129041268582104044&mkt=en-us",
-      "source": "Bing News",
-      "published": "2026-10-15T03:42:00+00:00",
-      "kind": "news",
-      "score": 2.13
-    },
-    {
-      "id": "f83c4e2e35987a",
-      "topic": "funding",
-      "topicLabel": "Aides & appels à projets",
-      "title": "Reprise de Duralex : Cédric Meston choisi par le tribunal de commerce d’Orléans",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad754113d04435191eab544fe086e84&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2freprise-de-duralex-cedric-meston-choisi-par-le-tribunal-de-commerce-dorleans&c=11137270512166545386&mkt=en-us",
-      "source": "Bing News",
-      "published": "2026-10-14T10:55:00+00:00",
-      "kind": "news",
-      "score": 1.89
-    }
-  ],
-  "status": "ok",
+  "items": [],
+  "status": "empty",
   "errors": [
     "IA & outils: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "SaaS & business: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "France ↔ Algérie: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "Web & freelance: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "Économie durable: Google News: aucun résultat récent | Bing News: aucun résultat récent",
-    "Marché & concurrence: Google News: aucun résultat récent | Bing News: aucun résultat récent"
+    "Aides & appels à projets: Google News: aucun résultat récent | Bing News: ParseError: not well-formed (invalid token): line 1, column 41"
   ]
 }
