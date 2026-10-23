@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T21:40:07.053036+00:00",
+  "generatedAt": "2026-10-23T04:56:56.156347+00:00",
   "topics": [
     {
       "id": "ai",
@@ -36,90 +36,101 @@
   ],
   "items": [
     {
-      "id": "75bf1110d7cf93",
+      "id": "d952f79407139a",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Financement de l’innovation en santé : entretien avec David Loew, CEO d’Ipsen",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada82bbf5c94781a94c7e522b5d4116&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2ffinancement-de-linnovation-en-sante-entretien-avec-david-loew-ceo-dipsen&c=10066647495330740983&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adae91bec2d4dd8b994d09b0eacabea&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2ffinancement-de-linnovation-en-sante-entretien-avec-david-loew-ceo-dipsen&c=10066647495330740983&mkt=en-us",
       "source": "Bing News",
       "published": "2026-10-21T02:00:00+00:00",
       "kind": "opportunity",
-      "score": 10.36
+      "score": 10.26
     },
     {
-      "id": "35ea089a8cbf09",
+      "id": "2605e9800f33cf",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Prix Pascal : le premier concours pour les livres co-écrits avec une IA",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada82bbf5c94781a94c7e522b5d4116&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fprix-pascal-le-premier-concours-pour-les-livres-co-ecrits-avec-une-ia&c=5082148120834800793&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adae91bec2d4dd8b994d09b0eacabea&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fprix-pascal-le-premier-concours-pour-les-livres-co-ecrits-avec-une-ia&c=5082148120834800793&mkt=en-us",
       "source": "Bing News",
       "published": "2026-10-21T04:02:00+00:00",
       "kind": "opportunity",
-      "score": 8.39
+      "score": 8.29
     },
     {
-      "id": "45346be8720e1a",
+      "id": "103eca5f889c4d",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Quartiers et entrepreneuriat : regards croisés en Outre-Mer",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada82bbf5c94781a94c7e522b5d4116&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fquartiers-et-entrepreneuriat-regards-croises-en-outre-mer&c=6816755821764731&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adae91bec2d4dd8b994d09b0eacabea&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fquartiers-et-entrepreneuriat-regards-croises-en-outre-mer&c=6816755821764731&mkt=en-us",
       "source": "Bing News",
       "published": "2026-10-21T17:00:00+00:00",
       "kind": "news",
-      "score": 3.58
+      "score": 3.48
     },
     {
-      "id": "86dbe39cb1e085",
+      "id": "7862ce36c0a947",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Cancer@work oeuvre pour une meilleure intégration de la maladie au travail",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada82bbf5c94781a94c7e522b5d4116&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fcancerwork-oeuvre-pour-une-meilleure-integration-de-la-maladie-au-travail&c=11637767656727273766&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adae91bec2d4dd8b994d09b0eacabea&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fcancerwork-oeuvre-pour-une-meilleure-integration-de-la-maladie-au-travail&c=11637767656727273766&mkt=en-us",
       "source": "Bing News",
       "published": "2026-10-20T04:04:00+00:00",
       "kind": "news",
-      "score": 3.04
+      "score": 2.94
     },
     {
-      "id": "51cf2da96e2892",
+      "id": "29e289cdaca8bd",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Sylvie-René : elles réinventent les meubles de nos grand-mères",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada82bbf5c94781a94c7e522b5d4116&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fsylvie-rene-elles-reinventent-les-meubles-de-nos-grand-meres&c=8296110263091386986&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adae91bec2d4dd8b994d09b0eacabea&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fsylvie-rene-elles-reinventent-les-meubles-de-nos-grand-meres&c=8296110263091386986&mkt=en-us",
       "source": "Bing News",
       "published": "2026-10-18T16:59:00+00:00",
       "kind": "news",
-      "score": 2.53
+      "score": 2.43
     },
     {
-      "id": "42b67b17d68f68",
+      "id": "a6d214fd7bfb96",
+      "topic": "durable",
+      "topicLabel": "Économie durable",
+      "title": "Comment concilier construction et environnement ? À Agen, les professionnels du bâtiment invités à débattre de solutions concrètes - PetitBleu.fr",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQRDlEekNJXzFTamtCRnJWMlpvMDRRdmU0TUlHVFRBdkhzS3hQWkJQSlp1ak0xZjl4SU9sZlRQeWJEVy1oaVVjNTZyaWk2UkJIcmNJb3EtaGpHRkl1RTlpU2dfdHRhbFVCY0kzaEpXOHpaTWNLZldIc2J1ZUowM3QwempQeFBhakx6ZUZuN2szZV9BNVhzb24ycmhEMUgtSnhtVW1JNlZqRHQxSFNkMEF5d1Znc1JyNnFpblRIeWNGLXpSMVIzYVJVX0pMUmlacnE1QTg5d0MwcmFBamRxRHNmN21TWTRQTkZCSHFXcTIzVlNDTnBLZlNwWGQwcnQ1V2p6UENtQi15Yw?oc=5",
+      "source": "PetitBleu.fr",
+      "published": "2026-10-17T12:28:00+00:00",
+      "kind": "news",
+      "score": 2.01
+    },
+    {
+      "id": "ef3220d9f9a784",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Ametra Group : l’industrie comme héritage, l’humain comme boussole",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada82bbf5c94781a94c7e522b5d4116&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fametra-group-lindustrie-comme-heritage-lhumain-comme-boussole&c=6129041268582104044&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adae91bec2d4dd8b994d09b0eacabea&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fametra-group-lindustrie-comme-heritage-lhumain-comme-boussole&c=6129041268582104044&mkt=en-us",
       "source": "Bing News",
       "published": "2026-10-15T03:42:00+00:00",
       "kind": "news",
-      "score": 1.29
+      "score": 1.18
     },
     {
-      "id": "6452b3397912c3",
+      "id": "d998b7ea8be504",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Reprise de Duralex : Cédric Meston choisi par le tribunal de commerce d’Orléans",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada82bbf5c94781a94c7e522b5d4116&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2freprise-de-duralex-cedric-meston-choisi-par-le-tribunal-de-commerce-dorleans&c=11137270512166545386&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adae91bec2d4dd8b994d09b0eacabea&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2freprise-de-duralex-cedric-meston-choisi-par-le-tribunal-de-commerce-dorleans&c=11137270512166545386&mkt=en-us",
       "source": "Bing News",
       "published": "2026-10-14T10:55:00+00:00",
       "kind": "news",
-      "score": 1.04
+      "score": 0.94
     }
   ],
   "status": "ok",
   "errors": [
-    "IA & outils: Google News: aucun résultat récent | Bing News: ParseError: not well-formed (invalid token): line 1, column 41",
-    "SaaS & business: Google News: aucun résultat récent | Bing News: ParseError: not well-formed (invalid token): line 1, column 41",
+    "IA & outils: Google News: aucun résultat récent | Bing News: aucun résultat récent",
+    "SaaS & business: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "France ↔ Algérie: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "Web & freelance: Google News: aucun résultat récent | Bing News: aucun résultat récent",
-    "Économie durable: Google News: aucun résultat récent | Bing News: aucun résultat récent",
-    "Marché & concurrence: Google News: aucun résultat récent | Bing News: aucun résultat récent"
+    "Marché & concurrence: Google News: aucun résultat récent | Bing News: aucun résultat récent",
+    "Réglementation: Google News: aucun résultat récent | Bing News: aucun résultat récent"
   ]
 }
