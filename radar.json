@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T11:37:35.930589+00:00",
+  "generatedAt": "2026-10-25T16:27:43.158772+00:00",
   "topics": [
     {
       "id": "ai",
@@ -36,70 +36,70 @@
   ],
   "items": [
     {
-      "id": "e73e7b677f571e",
+      "id": "81fc749b06a223",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Financement de l’innovation en santé : entretien avec David Loew, CEO d’Ipsen",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6addea0272034ae09d112291c4da1fd1&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2ffinancement-de-linnovation-en-sante-entretien-avec-david-loew-ceo-dipsen&c=10066647495330740983&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ade2e02415d43e1a7ee24e0e8a4af58&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2ffinancement-de-linnovation-en-sante-entretien-avec-david-loew-ceo-dipsen&c=10066647495330740983&mkt=en-us",
       "source": "Bing News",
       "published": "2026-10-21T02:00:00+00:00",
       "kind": "opportunity",
-      "score": 9.46
+      "score": 9.39
     },
     {
-      "id": "83e538dd539766",
+      "id": "456b875332b04f",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Prix Pascal : le premier concours pour les livres co-écrits avec une IA",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6addea0272034ae09d112291c4da1fd1&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fprix-pascal-le-premier-concours-pour-les-livres-co-ecrits-avec-une-ia&c=5082148120834800793&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ade2e02415d43e1a7ee24e0e8a4af58&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fprix-pascal-le-premier-concours-pour-les-livres-co-ecrits-avec-une-ia&c=5082148120834800793&mkt=en-us",
       "source": "Bing News",
       "published": "2026-10-21T04:02:00+00:00",
       "kind": "opportunity",
-      "score": 7.49
+      "score": 7.42
     },
     {
-      "id": "760aef7b614414",
+      "id": "d2ff8b69d18a95",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Le vrai du faux : l’économie de demain sera-t-elle circulaire ?",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6addea0272034ae09d112291c4da1fd1&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fle-vrai-du-faux-leconomie-de-demain-sera-t-elle-circulaire&c=7177484920918650457&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ade2e02415d43e1a7ee24e0e8a4af58&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fle-vrai-du-faux-leconomie-de-demain-sera-t-elle-circulaire&c=7177484920918650457&mkt=en-us",
       "source": "Bing News",
       "published": "2026-10-23T01:00:00+00:00",
       "kind": "news",
-      "score": 3.15
+      "score": 3.07
     },
     {
-      "id": "6122c4b202b93d",
+      "id": "f3a5d447435b87",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Quartiers et entrepreneuriat : regards croisés en Outre-Mer",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6addea0272034ae09d112291c4da1fd1&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fquartiers-et-entrepreneuriat-regards-croises-en-outre-mer&c=6816755821764731&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ade2e02415d43e1a7ee24e0e8a4af58&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fquartiers-et-entrepreneuriat-regards-croises-en-outre-mer&c=6816755821764731&mkt=en-us",
       "source": "Bing News",
       "published": "2026-10-21T17:00:00+00:00",
       "kind": "news",
-      "score": 2.68
+      "score": 2.61
     },
     {
-      "id": "0d27d5b28bd8ac",
+      "id": "457e28460db20e",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Cancer@work oeuvre pour une meilleure intégration de la maladie au travail",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6addea0272034ae09d112291c4da1fd1&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fcancerwork-oeuvre-pour-une-meilleure-integration-de-la-maladie-au-travail&c=11637767656727273766&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ade2e02415d43e1a7ee24e0e8a4af58&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fcancerwork-oeuvre-pour-une-meilleure-integration-de-la-maladie-au-travail&c=11637767656727273766&mkt=en-us",
       "source": "Bing News",
       "published": "2026-10-20T04:04:00+00:00",
       "kind": "news",
-      "score": 2.14
+      "score": 2.07
     },
     {
-      "id": "8542f04fa79a67",
+      "id": "b4bffee649ed8c",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Sylvie-René : elles réinventent les meubles de nos grand-mères",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6addea0272034ae09d112291c4da1fd1&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fsylvie-rene-elles-reinventent-les-meubles-de-nos-grand-meres&c=8296110263091386986&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ade2e02415d43e1a7ee24e0e8a4af58&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fsylvie-rene-elles-reinventent-les-meubles-de-nos-grand-meres&c=8296110263091386986&mkt=en-us",
       "source": "Bing News",
       "published": "2026-10-18T16:59:00+00:00",
       "kind": "news",
-      "score": 1.63
+      "score": 1.56
     },
     {
       "id": "a6d214fd7bfb96",
@@ -110,7 +110,18 @@
       "source": "PetitBleu.fr",
       "published": "2026-10-17T12:28:00+00:00",
       "kind": "news",
-      "score": 1.21
+      "score": 1.14
+    },
+    {
+      "id": "c6a382a3180185",
+      "topic": "funding",
+      "topicLabel": "Aides & appels à projets",
+      "title": "IA et durabilité : mesurer et maîtriser les impacts environnementaux, sociaux, éthiques et économiques",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ade2e02415d43e1a7ee24e0e8a4af58&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-evenements%2fia-et-durabilite-mesurer-et-maitriser-les-impacts-environnementaux-sociaux-ethiques-et-economiques&c=7472314319549448622&mkt=en-us",
+      "source": "Bing News",
+      "published": "2026-10-15T17:01:00+00:00",
+      "kind": "news",
+      "score": 0.51
     }
   ],
   "status": "ok",
