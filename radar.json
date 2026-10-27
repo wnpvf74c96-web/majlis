@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T22:42:47.858420+00:00",
+  "generatedAt": "2026-10-27T05:11:23.646332+00:00",
   "topics": [
     {
       "id": "ai",
@@ -36,92 +36,81 @@
   ],
   "items": [
     {
-      "id": "b0092904146710",
+      "id": "4ddd36fc4753bc",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Financement de l’innovation en santé : entretien avec David Loew, CEO d’Ipsen",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adfd76a31674c3382c63129b4734d8f&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2ffinancement-de-linnovation-en-sante-entretien-avec-david-loew-ceo-dipsen&c=10066647495330740983&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae0327e430a43b893cff4b982781e40&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2ffinancement-de-linnovation-en-sante-entretien-avec-david-loew-ceo-dipsen&c=10066647495330740983&mkt=en-us",
       "source": "Bing News",
       "published": "2026-10-21T02:00:00+00:00",
       "kind": "opportunity",
-      "score": 8.95
+      "score": 8.85
     },
     {
-      "id": "780374463038fd",
+      "id": "f4f99aafd8fac7",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Oganoïdes et organes sur puce : vers la fin des tests sur animaux en recherche médicale",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adfd76a31674c3382c63129b4734d8f&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2foganoides-et-organes-sur-puce-vers-la-fin-des-tests-sur-animaux-en-recherche-medicale&c=153187997099788048&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae0327e430a43b893cff4b982781e40&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2foganoides-et-organes-sur-puce-vers-la-fin-des-tests-sur-animaux-en-recherche-medicale&c=153187997099788048&mkt=en-us",
       "source": "Bing News",
       "published": "2026-10-26T10:22:00+00:00",
       "kind": "news",
-      "score": 3.82
+      "score": 3.73
     },
     {
-      "id": "10a83c5d4ecfdb",
+      "id": "6ac74c49b23fd8",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Bijou haute fantaisie : l’art de se distinguer entre mode, émotion et création",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adfd76a31674c3382c63129b4734d8f&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fbijou-haute-fantaisie-lart-de-se-distinguer-entre-mode-emotion-et-creation&c=14947782172833610833&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae0327e430a43b893cff4b982781e40&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fbijou-haute-fantaisie-lart-de-se-distinguer-entre-mode-emotion-et-creation&c=14947782172833610833&mkt=en-us",
       "source": "Bing News",
       "published": "2026-10-26T08:50:00+00:00",
       "kind": "news",
-      "score": 3.8
+      "score": 3.7
     },
     {
-      "id": "f197f636b552d0",
+      "id": "6f7470a6c285b8",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Le vrai du faux : l’économie de demain sera-t-elle circulaire ?",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adfd76a31674c3382c63129b4734d8f&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fle-vrai-du-faux-leconomie-de-demain-sera-t-elle-circulaire&c=7177484920918650457&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae0327e430a43b893cff4b982781e40&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fle-vrai-du-faux-leconomie-de-demain-sera-t-elle-circulaire&c=7177484920918650457&mkt=en-us",
       "source": "Bing News",
       "published": "2026-10-23T01:00:00+00:00",
       "kind": "news",
-      "score": 2.63
+      "score": 2.54
     },
     {
-      "id": "1dcbf4e0201528",
+      "id": "727310b5bdb20a",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Quartiers et entrepreneuriat : regards croisés en Outre-Mer",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adfd76a31674c3382c63129b4734d8f&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fquartiers-et-entrepreneuriat-regards-croises-en-outre-mer&c=6816755821764731&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae0327e430a43b893cff4b982781e40&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fquartiers-et-entrepreneuriat-regards-croises-en-outre-mer&c=6816755821764731&mkt=en-us",
       "source": "Bing News",
       "published": "2026-10-21T17:00:00+00:00",
       "kind": "news",
-      "score": 2.17
+      "score": 2.07
     },
     {
-      "id": "fbdb9dbc8f3d44",
+      "id": "c26526682017ba",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Cancer@work oeuvre pour une meilleure intégration de la maladie au travail",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adfd76a31674c3382c63129b4734d8f&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fcancerwork-oeuvre-pour-une-meilleure-integration-de-la-maladie-au-travail&c=11637767656727273766&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae0327e430a43b893cff4b982781e40&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fcancerwork-oeuvre-pour-une-meilleure-integration-de-la-maladie-au-travail&c=11637767656727273766&mkt=en-us",
       "source": "Bing News",
       "published": "2026-10-20T04:04:00+00:00",
       "kind": "news",
-      "score": 1.63
+      "score": 1.53
     },
     {
-      "id": "ee5865dc3642b0",
+      "id": "c67090621babe6",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Sylvie-René : elles réinventent les meubles de nos grand-mères",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adfd76a31674c3382c63129b4734d8f&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fsylvie-rene-elles-reinventent-les-meubles-de-nos-grand-meres&c=8296110263091386986&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae0327e430a43b893cff4b982781e40&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fsylvie-rene-elles-reinventent-les-meubles-de-nos-grand-meres&c=8296110263091386986&mkt=en-us",
       "source": "Bing News",
       "published": "2026-10-18T16:59:00+00:00",
       "kind": "news",
-      "score": 1.12
-    },
-    {
-      "id": "a6d214fd7bfb96",
-      "topic": "durable",
-      "topicLabel": "Économie durable",
-      "title": "Comment concilier construction et environnement ? À Agen, les professionnels du bâtiment invités à débattre de solutions concrètes - PetitBleu.fr",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQRDlEekNJXzFTamtCRnJWMlpvMDRRdmU0TUlHVFRBdkhzS3hQWkJQSlp1ak0xZjl4SU9sZlRQeWJEVy1oaVVjNTZyaWk2UkJIcmNJb3EtaGpHRkl1RTlpU2dfdHRhbFVCY0kzaEpXOHpaTWNLZldIc2J1ZUowM3QwempQeFBhakx6ZUZuN2szZV9BNVhzb24ycmhEMUgtSnhtVW1JNlZqRHQxSFNkMEF5d1Znc1JyNnFpblRIeWNGLXpSMVIzYVJVX0pMUmlacnE1QTg5d0MwcmFBamRxRHNmN21TWTRQTkZCSHFXcTIzVlNDTnBLZlNwWGQwcnQ1V2p6UENtQi15Yw?oc=5",
-      "source": "PetitBleu.fr",
-      "published": "2026-10-17T12:28:00+00:00",
-      "kind": "news",
-      "score": 0.7
+      "score": 1.02
     }
   ],
   "status": "ok",
@@ -130,7 +119,7 @@
     "SaaS & business: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "France ↔ Algérie: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "Web & freelance: Google News: aucun résultat récent | Bing News: aucun résultat récent",
-    "Marché & concurrence: Google News: aucun résultat récent | Bing News: aucun résultat récent",
-    "Réglementation: Google News: aucun résultat récent | Bing News: aucun résultat récent"
+    "Économie durable: Google News: aucun résultat récent | Bing News: aucun résultat récent",
+    "Marché & concurrence: Google News: aucun résultat récent | Bing News: aucun résultat récent"
   ]
 }
