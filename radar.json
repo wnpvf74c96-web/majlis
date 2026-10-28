@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T05:47:59.118219+00:00",
+  "generatedAt": "2026-10-28T13:01:14.978138+00:00",
   "topics": [
     {
       "id": "ai",
@@ -36,37 +36,37 @@
   ],
   "items": [
     {
-      "id": "49ca2a5e89b5f0",
+      "id": "2599385239d361",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Financement de l’innovation en santé : entretien avec David Loew, CEO d’Ipsen",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae18c92afad4ca5ac45e0d98cfa0001&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2ffinancement-de-linnovation-en-sante-entretien-avec-david-loew-ceo-dipsen&c=10066647495330740983&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae1f21d73cf4bd2b7618b4f3fcf4466&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2ffinancement-de-linnovation-en-sante-entretien-avec-david-loew-ceo-dipsen&c=10066647495330740983&mkt=en-us",
       "source": "Bing News",
       "published": "2026-10-21T02:00:00+00:00",
       "kind": "opportunity",
-      "score": 8.49
+      "score": 8.39
     },
     {
-      "id": "cc56752fdfbc15",
+      "id": "e03afe4e5282e8",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Oganoïdes et organes sur puce : vers la fin des tests sur animaux en recherche médicale",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae18c92afad4ca5ac45e0d98cfa0001&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2foganoides-et-organes-sur-puce-vers-la-fin-des-tests-sur-animaux-en-recherche-medicale&c=153187997099788048&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae1f21d73cf4bd2b7618b4f3fcf4466&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2foganoides-et-organes-sur-puce-vers-la-fin-des-tests-sur-animaux-en-recherche-medicale&c=153187997099788048&mkt=en-us",
       "source": "Bing News",
       "published": "2026-10-26T10:22:00+00:00",
       "kind": "news",
-      "score": 3.37
+      "score": 3.26
     },
     {
-      "id": "2d62aeb480ce74",
+      "id": "408448cb1117ac",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Bijou haute fantaisie : l’art de se distinguer entre mode, émotion et création",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae18c92afad4ca5ac45e0d98cfa0001&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fbijou-haute-fantaisie-lart-de-se-distinguer-entre-mode-emotion-et-creation&c=14947782172833610833&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae1f21d73cf4bd2b7618b4f3fcf4466&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fbijou-haute-fantaisie-lart-de-se-distinguer-entre-mode-emotion-et-creation&c=14947782172833610833&mkt=en-us",
       "source": "Bing News",
       "published": "2026-10-26T08:50:00+00:00",
       "kind": "news",
-      "score": 3.34
+      "score": 3.24
     },
     {
       "id": "02139b6dcfa3d2",
@@ -77,51 +77,62 @@
       "source": "Region Réunion",
       "published": "2026-10-24T07:00:00+00:00",
       "kind": "news",
-      "score": 2.62
+      "score": 2.51
     },
     {
-      "id": "6d5cae1666ca89",
+      "id": "3a1b7c33e3e6be",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Le vrai du faux : l’économie de demain sera-t-elle circulaire ?",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae18c92afad4ca5ac45e0d98cfa0001&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fle-vrai-du-faux-leconomie-de-demain-sera-t-elle-circulaire&c=7177484920918650457&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae1f21d73cf4bd2b7618b4f3fcf4466&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fle-vrai-du-faux-leconomie-de-demain-sera-t-elle-circulaire&c=7177484920918650457&mkt=en-us",
       "source": "Bing News",
       "published": "2026-10-23T01:00:00+00:00",
       "kind": "news",
-      "score": 2.18
+      "score": 2.07
     },
     {
-      "id": "5acb3fa7fc954c",
+      "id": "8b211871379185",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Soins bucco-dentaires : 10 entreprises de la « mouthcare » à suivre",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae18c92afad4ca5ac45e0d98cfa0001&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fsoins-bucco-dentaires-10-entreprises-de-la-mouthcare-a-suivre&c=4893616851538092409&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae1f21d73cf4bd2b7618b4f3fcf4466&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fsoins-bucco-dentaires-10-entreprises-de-la-mouthcare-a-suivre&c=4893616851538092409&mkt=en-us",
       "source": "Bing News",
       "published": "2026-10-22T03:39:00+00:00",
       "kind": "news",
-      "score": 1.87
+      "score": 1.76
     },
     {
-      "id": "9d9a50928ee4cc",
+      "id": "64cd24faf40911",
+      "topic": "funding",
+      "topicLabel": "Aides & appels à projets",
+      "title": "Quartiers et entrepreneuriat : regards croisés en Outre-Mer",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae1f21d73cf4bd2b7618b4f3fcf4466&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fquartiers-et-entrepreneuriat-regards-croises-en-outre-mer&c=6816755821764731&mkt=en-us",
+      "source": "Bing News",
+      "published": "2026-10-21T17:00:00+00:00",
+      "kind": "news",
+      "score": 1.61
+    },
+    {
+      "id": "1684df5c5b4423",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Cancer@work oeuvre pour une meilleure intégration de la maladie au travail",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae18c92afad4ca5ac45e0d98cfa0001&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fcancerwork-oeuvre-pour-une-meilleure-integration-de-la-maladie-au-travail&c=11637767656727273766&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae1f21d73cf4bd2b7618b4f3fcf4466&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fcancerwork-oeuvre-pour-une-meilleure-integration-de-la-maladie-au-travail&c=11637767656727273766&mkt=en-us",
       "source": "Bing News",
       "published": "2026-10-20T04:04:00+00:00",
       "kind": "news",
-      "score": 1.17
+      "score": 1.07
     },
     {
-      "id": "ec46c89cf440be",
+      "id": "1a6d08f5700a53",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Sylvie-René : elles réinventent les meubles de nos grand-mères",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae18c92afad4ca5ac45e0d98cfa0001&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fsylvie-rene-elles-reinventent-les-meubles-de-nos-grand-meres&c=8296110263091386986&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae1f21d73cf4bd2b7618b4f3fcf4466&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fsylvie-rene-elles-reinventent-les-meubles-de-nos-grand-meres&c=8296110263091386986&mkt=en-us",
       "source": "Bing News",
       "published": "2026-10-18T16:59:00+00:00",
       "kind": "news",
-      "score": 0.66
+      "score": 0.56
     }
   ],
   "status": "ok",
