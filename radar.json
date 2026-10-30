@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T22:48:11.254848+00:00",
+  "generatedAt": "2026-10-30T05:54:32.758318+00:00",
   "topics": [
     {
       "id": "ai",
@@ -36,81 +36,70 @@
   ],
   "items": [
     {
-      "id": "ca8bffe143e72e",
+      "id": "1e2f00294fd094",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
-      "title": "Financement de l’innovation en santé : entretien avec David Loew, CEO d’Ipsen",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae3cd2eea29453485c6f14b41b827d2&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2ffinancement-de-linnovation-en-sante-entretien-avec-david-loew-ceo-dipsen&c=10066647495330740983&mkt=fr-ca",
+      "title": "À Tahiti, ils testent leur escape game en nomade avant d’ouvrir leur salle",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae4311b1c414eb7899e197f7968cd04&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fa-tahiti-ils-testent-leur-escape-game-en-nomade-avant-douvrir-leur-salle&c=103543658011381279&mkt=en-us",
       "source": "Bing News",
-      "published": "2026-10-21T02:00:00+00:00",
-      "kind": "opportunity",
-      "score": 7.9
-    },
-    {
-      "id": "0160efc0d11228",
-      "topic": "funding",
-      "topicLabel": "Aides & appels à projets",
-      "title": "Prix Pascal : le premier concours pour les livres co-écrits avec une IA",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae3cd2eea29453485c6f14b41b827d2&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fprix-pascal-le-premier-concours-pour-les-livres-co-ecrits-avec-une-ia&c=5082148120834800793&mkt=fr-ca",
-      "source": "Bing News",
-      "published": "2026-10-21T04:02:00+00:00",
-      "kind": "opportunity",
-      "score": 5.93
-    },
-    {
-      "id": "f5760972dc7e53",
-      "topic": "funding",
-      "topicLabel": "Aides & appels à projets",
-      "title": "Chocolat : les tendances à croquer",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae3cd2eea29453485c6f14b41b827d2&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fchocolat-les-tendances-a-croquer&c=6544250958563825103&mkt=fr-ca",
-      "source": "Bing News",
-      "published": "2026-10-29T09:37:00+00:00",
+      "published": "2026-10-29T17:01:00+00:00",
       "kind": "news",
       "score": 3.81
     },
     {
-      "id": "a9eb28e3eff89e",
+      "id": "f6e7366e8d3c81",
+      "topic": "funding",
+      "topicLabel": "Aides & appels à projets",
+      "title": "Chocolat : les tendances à croquer",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae4311b1c414eb7899e197f7968cd04&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fchocolat-les-tendances-a-croquer&c=6544250958563825103&mkt=en-us",
+      "source": "Bing News",
+      "published": "2026-10-29T09:37:00+00:00",
+      "kind": "news",
+      "score": 3.7
+    },
+    {
+      "id": "65905b29394415",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Nanoush, la chaussure qui grandit en même temps que les enfants",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae3cd2eea29453485c6f14b41b827d2&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fnanoush-la-chaussure-qui-grandit-en-meme-temps-que-les-enfants&c=5680256393018394255&mkt=fr-ca",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae4311b1c414eb7899e197f7968cd04&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fnanoush-la-chaussure-qui-grandit-en-meme-temps-que-les-enfants&c=5680256393018394255&mkt=en-us",
       "source": "Bing News",
       "published": "2026-10-29T03:03:00+00:00",
       "kind": "news",
-      "score": 3.71
+      "score": 3.61
     },
     {
-      "id": "994d9a1ca1c0f5",
+      "id": "db141275e09541",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Cybersécurité : 5 chiffres sur l’écart entre grandes entreprises et PME",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae3cd2eea29453485c6f14b41b827d2&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fcybersecurite-5-chiffres-sur-lecart-entre-grandes-entreprises-et-pme&c=8650245769135489030&mkt=fr-ca",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae4311b1c414eb7899e197f7968cd04&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fcybersecurite-5-chiffres-sur-lecart-entre-grandes-entreprises-et-pme&c=8650245769135489030&mkt=en-us",
       "source": "Bing News",
       "published": "2026-10-28T02:52:00+00:00",
       "kind": "news",
-      "score": 3.36
+      "score": 3.26
     },
     {
-      "id": "a259414e225a30",
+      "id": "509ab41cad87c0",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Oganoïdes et organes sur puce : vers la fin des tests sur animaux en recherche médicale",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae3cd2eea29453485c6f14b41b827d2&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2foganoides-et-organes-sur-puce-vers-la-fin-des-tests-sur-animaux-en-recherche-medicale&c=153187997099788048&mkt=fr-ca",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae4311b1c414eb7899e197f7968cd04&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2foganoides-et-organes-sur-puce-vers-la-fin-des-tests-sur-animaux-en-recherche-medicale&c=153187997099788048&mkt=en-us",
       "source": "Bing News",
       "published": "2026-10-26T10:22:00+00:00",
       "kind": "news",
-      "score": 2.77
+      "score": 2.67
     },
     {
-      "id": "93915fa368fb16",
+      "id": "95226f47a21751",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Bijou haute fantaisie : l’art de se distinguer entre mode, émotion et création",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae3cd2eea29453485c6f14b41b827d2&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fbijou-haute-fantaisie-lart-de-se-distinguer-entre-mode-emotion-et-creation&c=14947782172833610833&mkt=fr-ca",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae4311b1c414eb7899e197f7968cd04&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fbijou-haute-fantaisie-lart-de-se-distinguer-entre-mode-emotion-et-creation&c=14947782172833610833&mkt=en-us",
       "source": "Bing News",
       "published": "2026-10-26T08:50:00+00:00",
       "kind": "news",
-      "score": 2.75
+      "score": 2.64
     },
     {
       "id": "02139b6dcfa3d2",
@@ -121,51 +110,40 @@
       "source": "Region Réunion",
       "published": "2026-10-24T07:00:00+00:00",
       "kind": "news",
-      "score": 2.02
+      "score": 1.92
     },
     {
-      "id": "8d484b0e37fb27",
+      "id": "777bd795f6f799",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Le vrai du faux : l’économie de demain sera-t-elle circulaire ?",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae3cd2eea29453485c6f14b41b827d2&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fle-vrai-du-faux-leconomie-de-demain-sera-t-elle-circulaire&c=7177484920918650457&mkt=fr-ca",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae4311b1c414eb7899e197f7968cd04&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fle-vrai-du-faux-leconomie-de-demain-sera-t-elle-circulaire&c=7177484920918650457&mkt=en-us",
       "source": "Bing News",
       "published": "2026-10-23T01:00:00+00:00",
       "kind": "news",
-      "score": 1.58
+      "score": 1.48
     },
     {
-      "id": "072d4185267d6b",
+      "id": "3486d02e7b2d53",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Soins bucco-dentaires : 10 entreprises de la « mouthcare » à suivre",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae3cd2eea29453485c6f14b41b827d2&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fsoins-bucco-dentaires-10-entreprises-de-la-mouthcare-a-suivre&c=4893616851538092409&mkt=fr-ca",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae4311b1c414eb7899e197f7968cd04&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fsoins-bucco-dentaires-10-entreprises-de-la-mouthcare-a-suivre&c=4893616851538092409&mkt=en-us",
       "source": "Bing News",
       "published": "2026-10-22T03:39:00+00:00",
       "kind": "news",
-      "score": 1.27
+      "score": 1.17
     },
     {
-      "id": "7b6ae8abdb8455",
+      "id": "c60ee63a19d3e6",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Quartiers et entrepreneuriat : regards croisés en Outre-Mer",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae3cd2eea29453485c6f14b41b827d2&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fquartiers-et-entrepreneuriat-regards-croises-en-outre-mer&c=6816755821764731&mkt=fr-ca",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae4311b1c414eb7899e197f7968cd04&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fquartiers-et-entrepreneuriat-regards-croises-en-outre-mer&c=6816755821764731&mkt=en-us",
       "source": "Bing News",
       "published": "2026-10-21T17:00:00+00:00",
       "kind": "news",
-      "score": 1.12
-    },
-    {
-      "id": "767b95fc9a3e7e",
-      "topic": "funding",
-      "topicLabel": "Aides & appels à projets",
-      "title": "Cancer@work oeuvre pour une meilleure intégration de la maladie au travail",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae3cd2eea29453485c6f14b41b827d2&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fcancerwork-oeuvre-pour-une-meilleure-integration-de-la-maladie-au-travail&c=11637767656727273766&mkt=fr-ca",
-      "source": "Bing News",
-      "published": "2026-10-20T04:04:00+00:00",
-      "kind": "news",
-      "score": 0.58
+      "score": 1.01
     }
   ],
   "status": "ok",
