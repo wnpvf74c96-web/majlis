@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T05:54:32.758318+00:00",
+  "generatedAt": "2026-10-30T13:01:27.081371+00:00",
   "topics": [
     {
       "id": "ai",
@@ -36,72 +36,6 @@
   ],
   "items": [
     {
-      "id": "1e2f00294fd094",
-      "topic": "funding",
-      "topicLabel": "Aides & appels à projets",
-      "title": "À Tahiti, ils testent leur escape game en nomade avant d’ouvrir leur salle",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae4311b1c414eb7899e197f7968cd04&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fa-tahiti-ils-testent-leur-escape-game-en-nomade-avant-douvrir-leur-salle&c=103543658011381279&mkt=en-us",
-      "source": "Bing News",
-      "published": "2026-10-29T17:01:00+00:00",
-      "kind": "news",
-      "score": 3.81
-    },
-    {
-      "id": "f6e7366e8d3c81",
-      "topic": "funding",
-      "topicLabel": "Aides & appels à projets",
-      "title": "Chocolat : les tendances à croquer",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae4311b1c414eb7899e197f7968cd04&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fchocolat-les-tendances-a-croquer&c=6544250958563825103&mkt=en-us",
-      "source": "Bing News",
-      "published": "2026-10-29T09:37:00+00:00",
-      "kind": "news",
-      "score": 3.7
-    },
-    {
-      "id": "65905b29394415",
-      "topic": "funding",
-      "topicLabel": "Aides & appels à projets",
-      "title": "Nanoush, la chaussure qui grandit en même temps que les enfants",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae4311b1c414eb7899e197f7968cd04&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fnanoush-la-chaussure-qui-grandit-en-meme-temps-que-les-enfants&c=5680256393018394255&mkt=en-us",
-      "source": "Bing News",
-      "published": "2026-10-29T03:03:00+00:00",
-      "kind": "news",
-      "score": 3.61
-    },
-    {
-      "id": "db141275e09541",
-      "topic": "funding",
-      "topicLabel": "Aides & appels à projets",
-      "title": "Cybersécurité : 5 chiffres sur l’écart entre grandes entreprises et PME",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae4311b1c414eb7899e197f7968cd04&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fcybersecurite-5-chiffres-sur-lecart-entre-grandes-entreprises-et-pme&c=8650245769135489030&mkt=en-us",
-      "source": "Bing News",
-      "published": "2026-10-28T02:52:00+00:00",
-      "kind": "news",
-      "score": 3.26
-    },
-    {
-      "id": "509ab41cad87c0",
-      "topic": "funding",
-      "topicLabel": "Aides & appels à projets",
-      "title": "Oganoïdes et organes sur puce : vers la fin des tests sur animaux en recherche médicale",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae4311b1c414eb7899e197f7968cd04&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2foganoides-et-organes-sur-puce-vers-la-fin-des-tests-sur-animaux-en-recherche-medicale&c=153187997099788048&mkt=en-us",
-      "source": "Bing News",
-      "published": "2026-10-26T10:22:00+00:00",
-      "kind": "news",
-      "score": 2.67
-    },
-    {
-      "id": "95226f47a21751",
-      "topic": "funding",
-      "topicLabel": "Aides & appels à projets",
-      "title": "Bijou haute fantaisie : l’art de se distinguer entre mode, émotion et création",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae4311b1c414eb7899e197f7968cd04&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fbijou-haute-fantaisie-lart-de-se-distinguer-entre-mode-emotion-et-creation&c=14947782172833610833&mkt=en-us",
-      "source": "Bing News",
-      "published": "2026-10-26T08:50:00+00:00",
-      "kind": "news",
-      "score": 2.64
-    },
-    {
       "id": "02139b6dcfa3d2",
       "topic": "durable",
       "topicLabel": "Économie durable",
@@ -110,49 +44,16 @@
       "source": "Region Réunion",
       "published": "2026-10-24T07:00:00+00:00",
       "kind": "news",
-      "score": 1.92
-    },
-    {
-      "id": "777bd795f6f799",
-      "topic": "funding",
-      "topicLabel": "Aides & appels à projets",
-      "title": "Le vrai du faux : l’économie de demain sera-t-elle circulaire ?",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae4311b1c414eb7899e197f7968cd04&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fle-vrai-du-faux-leconomie-de-demain-sera-t-elle-circulaire&c=7177484920918650457&mkt=en-us",
-      "source": "Bing News",
-      "published": "2026-10-23T01:00:00+00:00",
-      "kind": "news",
-      "score": 1.48
-    },
-    {
-      "id": "3486d02e7b2d53",
-      "topic": "funding",
-      "topicLabel": "Aides & appels à projets",
-      "title": "Soins bucco-dentaires : 10 entreprises de la « mouthcare » à suivre",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae4311b1c414eb7899e197f7968cd04&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fsoins-bucco-dentaires-10-entreprises-de-la-mouthcare-a-suivre&c=4893616851538092409&mkt=en-us",
-      "source": "Bing News",
-      "published": "2026-10-22T03:39:00+00:00",
-      "kind": "news",
-      "score": 1.17
-    },
-    {
-      "id": "c60ee63a19d3e6",
-      "topic": "funding",
-      "topicLabel": "Aides & appels à projets",
-      "title": "Quartiers et entrepreneuriat : regards croisés en Outre-Mer",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae4311b1c414eb7899e197f7968cd04&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fquartiers-et-entrepreneuriat-regards-croises-en-outre-mer&c=6816755821764731&mkt=en-us",
-      "source": "Bing News",
-      "published": "2026-10-21T17:00:00+00:00",
-      "kind": "news",
-      "score": 1.01
+      "score": 1.81
     }
   ],
   "status": "ok",
   "errors": [
-    "IA & outils: Google News: aucun résultat récent | Bing News: aucun résultat récent",
+    "IA & outils: Google News: aucun résultat récent | Bing News: ParseError: not well-formed (invalid token): line 1, column 41",
     "SaaS & business: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "France ↔ Algérie: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "Web & freelance: Google News: aucun résultat récent | Bing News: aucun résultat récent",
-    "Marché & concurrence: Google News: aucun résultat récent | Bing News: aucun résultat récent",
-    "Réglementation: Google News: aucun résultat récent | Bing News: aucun résultat récent"
+    "Aides & appels à projets: Google News: aucun résultat récent | Bing News: ParseError: not well-formed (invalid token): line 1, column 41",
+    "Marché & concurrence: Google News: aucun résultat récent | Bing News: ParseError: not well-formed (invalid token): line 1, column 41"
   ]
 }
