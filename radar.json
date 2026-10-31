@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T05:50:07.125220+00:00",
+  "generatedAt": "2026-10-31T12:39:11.680017+00:00",
   "topics": [
     {
       "id": "ai",
@@ -36,94 +36,6 @@
   ],
   "items": [
     {
-      "id": "bbc21f81ae5043",
-      "topic": "funding",
-      "topicLabel": "Aides & appels à projets",
-      "title": "We Are French Touch 2026 : les personnalités à ne pas manquer",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae5819274eb42ff8b17d999ed4a91c0&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fwe-are-french-touch-2026-les-personnalites-a-ne-pas-manquer&c=8780375609226599837&mkt=en-us",
-      "source": "Bing News",
-      "published": "2026-10-30T03:56:00+00:00",
-      "kind": "news",
-      "score": 3.62
-    },
-    {
-      "id": "5933db66f70922",
-      "topic": "funding",
-      "topicLabel": "Aides & appels à projets",
-      "title": "7 entreprises et startups françaises qui innovent dans le funéraire",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae5819274eb42ff8b17d999ed4a91c0&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2f7-entreprises-et-startups-francaises-qui-innovent-dans-le-funeraire&c=10298404575482062752&mkt=en-us",
-      "source": "Bing News",
-      "published": "2026-10-29T22:41:00+00:00",
-      "kind": "news",
-      "score": 3.55
-    },
-    {
-      "id": "22841e1e764987",
-      "topic": "funding",
-      "topicLabel": "Aides & appels à projets",
-      "title": "À Tahiti, ils testent leur escape game en nomade avant d’ouvrir leur salle",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae5819274eb42ff8b17d999ed4a91c0&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fa-tahiti-ils-testent-leur-escape-game-en-nomade-avant-douvrir-leur-salle&c=103543658011381279&mkt=en-us",
-      "source": "Bing News",
-      "published": "2026-10-29T17:01:00+00:00",
-      "kind": "news",
-      "score": 3.46
-    },
-    {
-      "id": "7b9dd903b27b9a",
-      "topic": "funding",
-      "topicLabel": "Aides & appels à projets",
-      "title": "TVA à l’international : sécurisez vos opérations et votre trésorerie",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae5819274eb42ff8b17d999ed4a91c0&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-evenements%2ftva-a-linternational-securisez-vos-operations-et-votre-tresorerie&c=8250160245858469188&mkt=en-us",
-      "source": "Bing News",
-      "published": "2026-10-29T17:01:00+00:00",
-      "kind": "news",
-      "score": 3.46
-    },
-    {
-      "id": "4e6c0ce6ef2aee",
-      "topic": "funding",
-      "topicLabel": "Aides & appels à projets",
-      "title": "Chocolat : les tendances à croquer",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae5819274eb42ff8b17d999ed4a91c0&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fchocolat-les-tendances-a-croquer&c=6544250958563825103&mkt=en-us",
-      "source": "Bing News",
-      "published": "2026-10-29T09:37:00+00:00",
-      "kind": "news",
-      "score": 3.36
-    },
-    {
-      "id": "7d14cd5a4b9191",
-      "topic": "funding",
-      "topicLabel": "Aides & appels à projets",
-      "title": "Nanoush, la chaussure qui grandit en même temps que les enfants",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae5819274eb42ff8b17d999ed4a91c0&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fnanoush-la-chaussure-qui-grandit-en-meme-temps-que-les-enfants&c=5680256393018394255&mkt=en-us",
-      "source": "Bing News",
-      "published": "2026-10-29T03:03:00+00:00",
-      "kind": "news",
-      "score": 3.26
-    },
-    {
-      "id": "d08ff5c8363d3d",
-      "topic": "funding",
-      "topicLabel": "Aides & appels à projets",
-      "title": "Cybersécurité : 5 chiffres sur l’écart entre grandes entreprises et PME",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae5819274eb42ff8b17d999ed4a91c0&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fcybersecurite-5-chiffres-sur-lecart-entre-grandes-entreprises-et-pme&c=8650245769135489030&mkt=en-us",
-      "source": "Bing News",
-      "published": "2026-10-28T02:52:00+00:00",
-      "kind": "news",
-      "score": 2.91
-    },
-    {
-      "id": "b148b4f0afbb09",
-      "topic": "funding",
-      "topicLabel": "Aides & appels à projets",
-      "title": "Oganoïdes et organes sur puce : vers la fin des tests sur animaux en recherche médicale",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae5819274eb42ff8b17d999ed4a91c0&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2foganoides-et-organes-sur-puce-vers-la-fin-des-tests-sur-animaux-en-recherche-medicale&c=153187997099788048&mkt=en-us",
-      "source": "Bing News",
-      "published": "2026-10-26T10:22:00+00:00",
-      "kind": "news",
-      "score": 2.32
-    },
-    {
       "id": "02139b6dcfa3d2",
       "topic": "durable",
       "topicLabel": "Économie durable",
@@ -132,38 +44,16 @@
       "source": "Region Réunion",
       "published": "2026-10-24T07:00:00+00:00",
       "kind": "news",
-      "score": 1.57
-    },
-    {
-      "id": "87e6de4e329e14",
-      "topic": "funding",
-      "topicLabel": "Aides & appels à projets",
-      "title": "Soins bucco-dentaires : 10 entreprises de la « mouthcare » à suivre",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae5819274eb42ff8b17d999ed4a91c0&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fsoins-bucco-dentaires-10-entreprises-de-la-mouthcare-a-suivre&c=4893616851538092409&mkt=en-us",
-      "source": "Bing News",
-      "published": "2026-10-22T03:39:00+00:00",
-      "kind": "news",
-      "score": 0.82
-    },
-    {
-      "id": "23e8d3e1f68719",
-      "topic": "funding",
-      "topicLabel": "Aides & appels à projets",
-      "title": "Quartiers et entrepreneuriat : regards croisés en Outre-Mer",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae5819274eb42ff8b17d999ed4a91c0&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fquartiers-et-entrepreneuriat-regards-croises-en-outre-mer&c=6816755821764731&mkt=en-us",
-      "source": "Bing News",
-      "published": "2026-10-21T17:00:00+00:00",
-      "kind": "news",
-      "score": 0.66
+      "score": 1.47
     }
   ],
   "status": "ok",
   "errors": [
     "IA & outils: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "SaaS & business: Google News: aucun résultat récent | Bing News: aucun résultat récent",
-    "France ↔ Algérie: Google News: aucun résultat récent | Bing News: aucun résultat récent",
-    "Web & freelance: Google News: aucun résultat récent | Bing News: aucun résultat récent",
-    "Marché & concurrence: Google News: aucun résultat récent | Bing News: aucun résultat récent",
-    "Réglementation: Google News: aucun résultat récent | Bing News: aucun résultat récent"
+    "France ↔ Algérie: Google News: aucun résultat récent | Bing News: ParseError: not well-formed (invalid token): line 1, column 41",
+    "Web & freelance: Google News: aucun résultat récent | Bing News: ParseError: not well-formed (invalid token): line 1, column 41",
+    "Aides & appels à projets: Google News: aucun résultat récent | Bing News: ParseError: not well-formed (invalid token): line 1, column 41",
+    "Marché & concurrence: Google News: aucun résultat récent | Bing News: ParseError: not well-formed (invalid token): line 1, column 41"
   ]
 }
