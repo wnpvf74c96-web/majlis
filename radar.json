@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T13:35:45.056672+00:00",
+  "generatedAt": "2026-11-01T22:05:42.998300+00:00",
   "topics": [
     {
       "id": "ai",
@@ -36,92 +36,92 @@
   ],
   "items": [
     {
-      "id": "8b698eeefbe8a0",
-      "topic": "funding",
-      "topicLabel": "Aides & appels à projets",
-      "title": "Fonds de fonds",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae74034ae344c5aad577d1b02c47f89&url=https%3a%2f%2fbigmedia.bpifrance.fr%2ffonds-de-fonds&c=13040816496380404477&mkt=en-us",
-      "source": "Bing News",
-      "published": "2026-10-29T13:53:00+00:00",
-      "kind": "opportunity",
-      "score": 7.95
-    },
-    {
-      "id": "6e25e5fb84206e",
+      "id": "9dedeb1c151472",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "We Are French Touch 2026 : les personnalités à ne pas manquer",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae74034ae344c5aad577d1b02c47f89&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fwe-are-french-touch-2026-les-personnalites-a-ne-pas-manquer&c=8780375609226599837&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae7b7b9101148bdbea2918c3de903e4&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fwe-are-french-touch-2026-les-personnalites-a-ne-pas-manquer&c=8780375609226599837&mkt=en-us",
       "source": "Bing News",
       "published": "2026-10-30T03:56:00+00:00",
       "kind": "news",
-      "score": 3.16
+      "score": 3.04
     },
     {
-      "id": "4e0e1131f26670",
+      "id": "44c09d8016be54",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "7 entreprises et startups françaises qui innovent dans le funéraire",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae74034ae344c5aad577d1b02c47f89&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2f7-entreprises-et-startups-francaises-qui-innovent-dans-le-funeraire&c=10298404575482062752&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae7b7b9101148bdbea2918c3de903e4&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2f7-entreprises-et-startups-francaises-qui-innovent-dans-le-funeraire&c=10298404575482062752&mkt=en-us",
       "source": "Bing News",
       "published": "2026-10-29T22:41:00+00:00",
       "kind": "news",
-      "score": 3.08
+      "score": 2.96
     },
     {
-      "id": "f6ee69916b6f8e",
+      "id": "d03199f7551f4d",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "À Tahiti, ils testent leur escape game en nomade avant d’ouvrir leur salle",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae74034ae344c5aad577d1b02c47f89&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fa-tahiti-ils-testent-leur-escape-game-en-nomade-avant-douvrir-leur-salle&c=103543658011381279&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae7b7b9101148bdbea2918c3de903e4&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fa-tahiti-ils-testent-leur-escape-game-en-nomade-avant-douvrir-leur-salle&c=103543658011381279&mkt=en-us",
       "source": "Bing News",
       "published": "2026-10-29T17:01:00+00:00",
       "kind": "news",
-      "score": 3.0
+      "score": 2.88
     },
     {
-      "id": "473349cdd774c8",
+      "id": "f870996490c0af",
+      "topic": "funding",
+      "topicLabel": "Aides & appels à projets",
+      "title": "We Are French Touch",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae7b7b9101148bdbea2918c3de903e4&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fwe-are-french-touch&c=10953758741395382881&mkt=en-us",
+      "source": "Bing News",
+      "published": "2026-10-29T17:01:00+00:00",
+      "kind": "news",
+      "score": 2.88
+    },
+    {
+      "id": "eafa5f8f4b2434",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Chocolat : les tendances à croquer",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae74034ae344c5aad577d1b02c47f89&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fchocolat-les-tendances-a-croquer&c=6544250958563825103&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae7b7b9101148bdbea2918c3de903e4&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fchocolat-les-tendances-a-croquer&c=6544250958563825103&mkt=en-us",
       "source": "Bing News",
       "published": "2026-10-29T09:37:00+00:00",
       "kind": "news",
-      "score": 2.89
+      "score": 2.77
     },
     {
-      "id": "40d62b69593e4f",
+      "id": "3749b8b49a1fa4",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Nanoush, la chaussure qui grandit en même temps que les enfants",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae74034ae344c5aad577d1b02c47f89&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fnanoush-la-chaussure-qui-grandit-en-meme-temps-que-les-enfants&c=5680256393018394255&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae7b7b9101148bdbea2918c3de903e4&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fnanoush-la-chaussure-qui-grandit-en-meme-temps-que-les-enfants&c=5680256393018394255&mkt=en-us",
       "source": "Bing News",
       "published": "2026-10-29T03:03:00+00:00",
       "kind": "news",
-      "score": 2.8
+      "score": 2.67
     },
     {
-      "id": "765fbfbc3df192",
+      "id": "09f093ab13e38c",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Cybersécurité : 5 chiffres sur l’écart entre grandes entreprises et PME",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae74034ae344c5aad577d1b02c47f89&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fcybersecurite-5-chiffres-sur-lecart-entre-grandes-entreprises-et-pme&c=8650245769135489030&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae7b7b9101148bdbea2918c3de903e4&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fcybersecurite-5-chiffres-sur-lecart-entre-grandes-entreprises-et-pme&c=8650245769135489030&mkt=en-us",
       "source": "Bing News",
       "published": "2026-10-28T02:52:00+00:00",
       "kind": "news",
-      "score": 2.44
+      "score": 2.32
     },
     {
-      "id": "38d7b1f49c1e92",
+      "id": "b7c81f2f1ba317",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Oganoïdes et organes sur puce : vers la fin des tests sur animaux en recherche médicale",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae74034ae344c5aad577d1b02c47f89&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2foganoides-et-organes-sur-puce-vers-la-fin-des-tests-sur-animaux-en-recherche-medicale&c=153187997099788048&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae7b7b9101148bdbea2918c3de903e4&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2foganoides-et-organes-sur-puce-vers-la-fin-des-tests-sur-animaux-en-recherche-medicale&c=153187997099788048&mkt=en-us",
       "source": "Bing News",
       "published": "2026-10-26T10:22:00+00:00",
       "kind": "news",
-      "score": 1.85
+      "score": 1.73
     },
     {
       "id": "02139b6dcfa3d2",
@@ -132,16 +132,16 @@
       "source": "Region Réunion",
       "published": "2026-10-24T07:00:00+00:00",
       "kind": "news",
-      "score": 1.1
+      "score": 0.98
     }
   ],
   "status": "ok",
   "errors": [
-    "IA & outils: Google News: aucun résultat récent | Bing News: aucun résultat récent",
-    "SaaS & business: Google News: aucun résultat récent | Bing News: aucun résultat récent",
-    "France ↔ Algérie: Google News: aucun résultat récent | Bing News: aucun résultat récent",
-    "Web & freelance: Google News: aucun résultat récent | Bing News: aucun résultat récent",
-    "Marché & concurrence: Google News: aucun résultat récent | Bing News: aucun résultat récent",
-    "Réglementation: Google News: aucun résultat récent | Bing News: aucun résultat récent"
+    "IA & outils: Google News: aucun résultat récent | Bing News: ParseError: not well-formed (invalid token): line 1, column 41",
+    "SaaS & business: Google News: aucun résultat récent | Bing News: ParseError: not well-formed (invalid token): line 1, column 41",
+    "France ↔ Algérie: Google News: aucun résultat récent | Bing News: ParseError: not well-formed (invalid token): line 1, column 41",
+    "Web & freelance: Google News: aucun résultat récent | Bing News: ParseError: not well-formed (invalid token): line 1, column 41",
+    "Marché & concurrence: Google News: aucun résultat récent | Bing News: ParseError: not well-formed (invalid token): line 1, column 41",
+    "Réglementation: Google News: aucun résultat récent | Bing News: ParseError: not well-formed (invalid token): line 1, column 41"
   ]
 }
