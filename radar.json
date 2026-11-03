@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T14:22:50.301802+00:00",
+  "generatedAt": "2026-11-03T23:26:39.984750+00:00",
   "topics": [
     {
       "id": "ai",
@@ -44,7 +44,7 @@
       "source": "economie.gouv.fr",
       "published": "2026-11-02T00:14:52+00:00",
       "kind": "news",
-      "score": 3.44
+      "score": 3.31
     }
   ],
   "status": "ok",
