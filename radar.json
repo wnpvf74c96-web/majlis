@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T01:01:32.044107+00:00",
+  "generatedAt": "2026-11-03T14:22:50.301802+00:00",
   "topics": [
     {
       "id": "ai",
@@ -44,18 +44,7 @@
       "source": "economie.gouv.fr",
       "published": "2026-11-02T00:14:52+00:00",
       "kind": "news",
-      "score": 3.64
-    },
-    {
-      "id": "02139b6dcfa3d2",
-      "topic": "durable",
-      "topicLabel": "Économie durable",
-      "title": "Votre projet FEDER 2021-2027 - Region Réunion",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMEJ5TkdzYmhRcHJRZElzZzFDY2dseFNGdVRLeVFPZmpjQlhOMFpXVHhpaVp2SUVtd1pvLWVUWENwWmcwMkplNkk2RXEwelJzSUVQeXJoTzEzQ1JJM0dEcVI4Wmk0dC1wak5fYVFHNTB1ak5tMEhQR1B1TkFKNFNSaFo4RFFRc1c2YWpEX2dOdUthbkJJSW1aV1BR?oc=5",
-      "source": "Region Réunion",
-      "published": "2026-10-24T07:00:00+00:00",
-      "kind": "news",
-      "score": 0.59
+      "score": 3.44
     }
   ],
   "status": "ok",
@@ -64,7 +53,7 @@
     "SaaS & business: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "France ↔ Algérie: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "Web & freelance: Google News: aucun résultat récent | Bing News: aucun résultat récent",
-    "Marché & concurrence: Google News: aucun résultat récent | Bing News: aucun résultat récent",
-    "Réglementation: Google News: aucun résultat récent | Bing News: aucun résultat récent"
+    "Économie durable: Google News: aucun résultat récent | Bing News: aucun résultat récent",
+    "Marché & concurrence: Google News: aucun résultat récent | Bing News: aucun résultat récent"
   ]
 }
