@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T16:13:36.759417+00:00",
+  "generatedAt": "2026-11-03T01:01:32.044107+00:00",
   "topics": [
     {
       "id": "ai",
@@ -34,14 +34,37 @@
       "label": "Réglementation"
     }
   ],
-  "items": [],
-  "status": "empty",
+  "items": [
+    {
+      "id": "c9794827200d2b",
+      "topic": "funding",
+      "topicLabel": "Aides & appels à projets",
+      "title": "LETTRE ÉCONOMIQUE Égypte - economie.gouv.fr",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNWxjNzU0UWJDODFOWnFlNWtNazR1NzJkbkdSZDhZZjdHbXhkZnctdmVGbXlPWk9zeXZzVWZFeGM1TXd5Qi1Nd1pmbFowRWFjeHdRQUNNMWxtckVVZGZ6UXQxM01CVlZyZUVybzB2bnZELWF2d0p1MGktWUpScDhoYk05OFhPbklWZUFKSnJiZGMweWxNa0xMOXpPT21JRmVQd3p5ZzllQktRZ0dDYklnMS1jX3VOWmdyQ0ljTFVuRjM4OEUydkFOMlg3ak05Zks5enlBZG5jWElvZw?oc=5",
+      "source": "economie.gouv.fr",
+      "published": "2026-11-02T00:14:52+00:00",
+      "kind": "news",
+      "score": 3.64
+    },
+    {
+      "id": "02139b6dcfa3d2",
+      "topic": "durable",
+      "topicLabel": "Économie durable",
+      "title": "Votre projet FEDER 2021-2027 - Region Réunion",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMEJ5TkdzYmhRcHJRZElzZzFDY2dseFNGdVRLeVFPZmpjQlhOMFpXVHhpaVp2SUVtd1pvLWVUWENwWmcwMkplNkk2RXEwelJzSUVQeXJoTzEzQ1JJM0dEcVI4Wmk0dC1wak5fYVFHNTB1ak5tMEhQR1B1TkFKNFNSaFo4RFFRc1c2YWpEX2dOdUthbkJJSW1aV1BR?oc=5",
+      "source": "Region Réunion",
+      "published": "2026-10-24T07:00:00+00:00",
+      "kind": "news",
+      "score": 0.59
+    }
+  ],
+  "status": "ok",
   "errors": [
-    "IA & outils: Google News: HTTPError: HTTP Error 503: Service Unavailable | Bing News: aucun résultat récent",
-    "SaaS & business: Google News: HTTPError: HTTP Error 503: Service Unavailable | Bing News: ParseError: not well-formed (invalid token): line 1, column 41",
-    "France ↔ Algérie: Google News: HTTPError: HTTP Error 503: Service Unavailable | Bing News: ParseError: not well-formed (invalid token): line 1, column 41",
-    "Web & freelance: Google News: HTTPError: HTTP Error 503: Service Unavailable | Bing News: ParseError: not well-formed (invalid token): line 1, column 41",
-    "Économie durable: Google News: HTTPError: HTTP Error 503: Service Unavailable | Bing News: ParseError: not well-formed (invalid token): line 1, column 41",
-    "Aides & appels à projets: Google News: HTTPError: HTTP Error 503: Service Unavailable | Bing News: ParseError: not well-formed (invalid token): line 1, column 41"
+    "IA & outils: Google News: aucun résultat récent | Bing News: aucun résultat récent",
+    "SaaS & business: Google News: aucun résultat récent | Bing News: aucun résultat récent",
+    "France ↔ Algérie: Google News: aucun résultat récent | Bing News: aucun résultat récent",
+    "Web & freelance: Google News: aucun résultat récent | Bing News: aucun résultat récent",
+    "Marché & concurrence: Google News: aucun résultat récent | Bing News: aucun résultat récent",
+    "Réglementation: Google News: aucun résultat récent | Bing News: aucun résultat récent"
   ]
 }
