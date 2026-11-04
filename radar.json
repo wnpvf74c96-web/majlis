@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T23:26:39.984750+00:00",
+  "generatedAt": "2026-11-04T06:31:46.092593+00:00",
   "topics": [
     {
       "id": "ai",
@@ -34,26 +34,14 @@
       "label": "Réglementation"
     }
   ],
-  "items": [
-    {
-      "id": "c9794827200d2b",
-      "topic": "funding",
-      "topicLabel": "Aides & appels à projets",
-      "title": "LETTRE ÉCONOMIQUE Égypte - economie.gouv.fr",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNWxjNzU0UWJDODFOWnFlNWtNazR1NzJkbkdSZDhZZjdHbXhkZnctdmVGbXlPWk9zeXZzVWZFeGM1TXd5Qi1Nd1pmbFowRWFjeHdRQUNNMWxtckVVZGZ6UXQxM01CVlZyZUVybzB2bnZELWF2d0p1MGktWUpScDhoYk05OFhPbklWZUFKSnJiZGMweWxNa0xMOXpPT21JRmVQd3p5ZzllQktRZ0dDYklnMS1jX3VOWmdyQ0ljTFVuRjM4OEUydkFOMlg3ak05Zks5enlBZG5jWElvZw?oc=5",
-      "source": "economie.gouv.fr",
-      "published": "2026-11-02T00:14:52+00:00",
-      "kind": "news",
-      "score": 3.31
-    }
-  ],
-  "status": "ok",
+  "items": [],
+  "status": "empty",
   "errors": [
     "IA & outils: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "SaaS & business: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "France ↔ Algérie: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "Web & freelance: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "Économie durable: Google News: aucun résultat récent | Bing News: aucun résultat récent",
-    "Marché & concurrence: Google News: aucun résultat récent | Bing News: aucun résultat récent"
+    "Aides & appels à projets: Google News: aucun résultat récent | Bing News: aucun résultat récent"
   ]
 }
