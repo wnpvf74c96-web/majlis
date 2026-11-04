@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T06:31:46.092593+00:00",
+  "generatedAt": "2026-11-04T19:49:27.755330+00:00",
   "topics": [
     {
       "id": "ai",
@@ -34,14 +34,92 @@
       "label": "Réglementation"
     }
   ],
-  "items": [],
-  "status": "empty",
+  "items": [
+    {
+      "id": "f630d5bd3a8b9e",
+      "topic": "funding",
+      "topicLabel": "Aides & appels à projets",
+      "title": "Sandwichs de chefs : six adresses à tester partout en France",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aeb8c4ac1514f4fb9088cb2ca29ad4c&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fsandwichs-de-chefs-six-adresses-a-tester-partout-en-france&c=16727903754092561347&mkt=en-us",
+      "source": "Bing News",
+      "published": "2026-11-02T09:00:00+00:00",
+      "kind": "news",
+      "score": 3.14
+    },
+    {
+      "id": "f1c920a7b9f291",
+      "topic": "funding",
+      "topicLabel": "Aides & appels à projets",
+      "title": "We Are French Touch 2026 : les personnalités à ne pas manquer",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aeb8c4ac1514f4fb9088cb2ca29ad4c&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fwe-are-french-touch-2026-les-personnalites-a-ne-pas-manquer&c=8780375609226599837&mkt=en-us",
+      "source": "Bing News",
+      "published": "2026-10-30T03:56:00+00:00",
+      "kind": "news",
+      "score": 2.02
+    },
+    {
+      "id": "c042df41770be7",
+      "topic": "funding",
+      "topicLabel": "Aides & appels à projets",
+      "title": "7 entreprises et startups françaises qui innovent dans le funéraire",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aeb8c4ac1514f4fb9088cb2ca29ad4c&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2f7-entreprises-et-startups-francaises-qui-innovent-dans-le-funeraire&c=10298404575482062752&mkt=en-us",
+      "source": "Bing News",
+      "published": "2026-10-29T22:41:00+00:00",
+      "kind": "news",
+      "score": 1.94
+    },
+    {
+      "id": "8ed2100f5222ca",
+      "topic": "funding",
+      "topicLabel": "Aides & appels à projets",
+      "title": "À Tahiti, ils testent leur escape game en nomade avant d’ouvrir leur salle",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aeb8c4ac1514f4fb9088cb2ca29ad4c&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fa-tahiti-ils-testent-leur-escape-game-en-nomade-avant-douvrir-leur-salle&c=103543658011381279&mkt=en-us",
+      "source": "Bing News",
+      "published": "2026-10-29T17:01:00+00:00",
+      "kind": "news",
+      "score": 1.86
+    },
+    {
+      "id": "3a247e43671222",
+      "topic": "funding",
+      "topicLabel": "Aides & appels à projets",
+      "title": "Chocolat : les tendances à croquer",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aeb8c4ac1514f4fb9088cb2ca29ad4c&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fchocolat-les-tendances-a-croquer&c=6544250958563825103&mkt=en-us",
+      "source": "Bing News",
+      "published": "2026-10-29T09:37:00+00:00",
+      "kind": "news",
+      "score": 1.75
+    },
+    {
+      "id": "ddcffb6fae2587",
+      "topic": "funding",
+      "topicLabel": "Aides & appels à projets",
+      "title": "Nanoush, la chaussure qui grandit en même temps que les enfants",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aeb8c4ac1514f4fb9088cb2ca29ad4c&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fnanoush-la-chaussure-qui-grandit-en-meme-temps-que-les-enfants&c=5680256393018394255&mkt=en-us",
+      "source": "Bing News",
+      "published": "2026-10-29T03:03:00+00:00",
+      "kind": "news",
+      "score": 1.66
+    },
+    {
+      "id": "4030a31b4e4dd3",
+      "topic": "funding",
+      "topicLabel": "Aides & appels à projets",
+      "title": "Oganoïdes et organes sur puce : vers la fin des tests sur animaux en recherche médicale",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aeb8c4ac1514f4fb9088cb2ca29ad4c&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2foganoides-et-organes-sur-puce-vers-la-fin-des-tests-sur-animaux-en-recherche-medicale&c=153187997099788048&mkt=en-us",
+      "source": "Bing News",
+      "published": "2026-10-26T10:22:00+00:00",
+      "kind": "news",
+      "score": 0.71
+    }
+  ],
+  "status": "ok",
   "errors": [
     "IA & outils: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "SaaS & business: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "France ↔ Algérie: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "Web & freelance: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "Économie durable: Google News: aucun résultat récent | Bing News: aucun résultat récent",
-    "Aides & appels à projets: Google News: aucun résultat récent | Bing News: aucun résultat récent"
+    "Marché & concurrence: Google News: aucun résultat récent | Bing News: aucun résultat récent"
   ]
 }
