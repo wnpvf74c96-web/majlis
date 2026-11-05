@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T06:53:43.457469+00:00",
+  "generatedAt": "2026-11-05T19:59:58.578719+00:00",
   "topics": [
     {
       "id": "ai",
@@ -37,10 +37,10 @@
   "items": [],
   "status": "empty",
   "errors": [
-    "IA & outils: Google News: aucun résultat récent | Bing News: ParseError: not well-formed (invalid token): line 1, column 41",
+    "IA & outils: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "SaaS & business: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "France ↔ Algérie: Google News: aucun résultat récent | Bing News: aucun résultat récent",
-    "Web & freelance: Google News: aucun résultat récent | Bing News: aucun résultat récent",
+    "Web & freelance: Google News: aucun résultat récent | Bing News: ParseError: not well-formed (invalid token): line 1, column 41",
     "Économie durable: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "Aides & appels à projets: Google News: aucun résultat récent | Bing News: ParseError: not well-formed (invalid token): line 1, column 41"
   ]
