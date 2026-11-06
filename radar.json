@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T06:53:55.572618+00:00",
+  "generatedAt": "2026-11-06T19:27:27.657971+00:00",
   "topics": [
     {
       "id": "ai",
@@ -36,92 +36,59 @@
   ],
   "items": [
     {
-      "id": "215216c4150ec6",
+      "id": "9b067f978bd5a8",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
-      "title": "Communiqués de presse",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aed79862a5a4a6e9a09e4bd66ffb9a9&url=https%3a%2f%2fpresse.bpifrance.fr%2fsection%2factualites%2fcommuniques-de-presse&c=4238233409835081555&mkt=en-us",
+      "title": "7 marques de chaussettes qui transpirent le savoir-faire français",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee2a22487746d08cc28b9e068c6bc8&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2f7-marques-de-chaussettes-qui-transpirent-le-savoir-faire-francais&c=5695836180064169077&mkt=en-us",
       "source": "Bing News",
-      "published": "2026-11-02T16:00:00+00:00",
+      "published": "2026-11-04T04:00:00+00:00",
       "kind": "news",
-      "score": 2.73
+      "score": 3.07
     },
     {
-      "id": "9a8df4c50698a0",
-      "topic": "funding",
-      "topicLabel": "Aides & appels à projets",
-      "title": "Sandwichs de chefs : six adresses à tester partout en France",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aed79862a5a4a6e9a09e4bd66ffb9a9&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fsandwichs-de-chefs-six-adresses-a-tester-partout-en-france&c=16727903754092561347&mkt=en-us",
-      "source": "Bing News",
-      "published": "2026-11-02T09:00:00+00:00",
-      "kind": "news",
-      "score": 2.63
-    },
-    {
-      "id": "773f70c3dfc134",
+      "id": "01a64f1df02ba4",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "We Are French Touch 2026 : les personnalités à ne pas manquer",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aed79862a5a4a6e9a09e4bd66ffb9a9&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fwe-are-french-touch-2026-les-personnalites-a-ne-pas-manquer&c=8780375609226599837&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee2a22487746d08cc28b9e068c6bc8&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fwe-are-french-touch-2026-les-personnalites-a-ne-pas-manquer&c=8780375609226599837&mkt=en-us",
       "source": "Bing News",
       "published": "2026-10-30T03:56:00+00:00",
       "kind": "news",
-      "score": 1.51
+      "score": 1.32
     },
     {
-      "id": "67cc725bca64f6",
+      "id": "0e95f6febc515a",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "7 entreprises et startups françaises qui innovent dans le funéraire",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aed79862a5a4a6e9a09e4bd66ffb9a9&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2f7-entreprises-et-startups-francaises-qui-innovent-dans-le-funeraire&c=10298404575482062752&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee2a22487746d08cc28b9e068c6bc8&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2f7-entreprises-et-startups-francaises-qui-innovent-dans-le-funeraire&c=10298404575482062752&mkt=en-us",
       "source": "Bing News",
       "published": "2026-10-29T22:41:00+00:00",
       "kind": "news",
-      "score": 1.43
+      "score": 1.25
     },
     {
-      "id": "2d4ae48588beeb",
-      "topic": "funding",
-      "topicLabel": "Aides & appels à projets",
-      "title": "À Tahiti, ils testent leur escape game en nomade avant d’ouvrir leur salle",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aed79862a5a4a6e9a09e4bd66ffb9a9&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fa-tahiti-ils-testent-leur-escape-game-en-nomade-avant-douvrir-leur-salle&c=103543658011381279&mkt=en-us",
-      "source": "Bing News",
-      "published": "2026-10-29T17:01:00+00:00",
-      "kind": "news",
-      "score": 1.35
-    },
-    {
-      "id": "c53b7d370e313e",
+      "id": "5c21b17d6d1a6d",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Chocolat : les tendances à croquer",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aed79862a5a4a6e9a09e4bd66ffb9a9&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fchocolat-les-tendances-a-croquer&c=6544250958563825103&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee2a22487746d08cc28b9e068c6bc8&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fchocolat-les-tendances-a-croquer&c=6544250958563825103&mkt=en-us",
       "source": "Bing News",
       "published": "2026-10-29T09:37:00+00:00",
       "kind": "news",
-      "score": 1.24
+      "score": 1.06
     },
     {
-      "id": "ec21c49ca237cb",
+      "id": "d30724e1ca261f",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Nanoush, la chaussure qui grandit en même temps que les enfants",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aed79862a5a4a6e9a09e4bd66ffb9a9&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fnanoush-la-chaussure-qui-grandit-en-meme-temps-que-les-enfants&c=5680256393018394255&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee2a22487746d08cc28b9e068c6bc8&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fnanoush-la-chaussure-qui-grandit-en-meme-temps-que-les-enfants&c=5680256393018394255&mkt=en-us",
       "source": "Bing News",
       "published": "2026-10-29T03:03:00+00:00",
       "kind": "news",
-      "score": 1.14
-    },
-    {
-      "id": "d13c92a699c1b1",
-      "topic": "funding",
-      "topicLabel": "Aides & appels à projets",
-      "title": "Cybersécurité : 5 chiffres sur l’écart entre grandes entreprises et PME",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aed79862a5a4a6e9a09e4bd66ffb9a9&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fcybersecurite-5-chiffres-sur-lecart-entre-grandes-entreprises-et-pme&c=8650245769135489030&mkt=en-us",
-      "source": "Bing News",
-      "published": "2026-10-28T02:52:00+00:00",
-      "kind": "news",
-      "score": 0.79
+      "score": 0.96
     }
   ],
   "status": "ok",
