@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T19:59:58.578719+00:00",
+  "generatedAt": "2026-11-06T06:53:55.572618+00:00",
   "topics": [
     {
       "id": "ai",
@@ -34,14 +34,103 @@
       "label": "Réglementation"
     }
   ],
-  "items": [],
-  "status": "empty",
+  "items": [
+    {
+      "id": "215216c4150ec6",
+      "topic": "funding",
+      "topicLabel": "Aides & appels à projets",
+      "title": "Communiqués de presse",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aed79862a5a4a6e9a09e4bd66ffb9a9&url=https%3a%2f%2fpresse.bpifrance.fr%2fsection%2factualites%2fcommuniques-de-presse&c=4238233409835081555&mkt=en-us",
+      "source": "Bing News",
+      "published": "2026-11-02T16:00:00+00:00",
+      "kind": "news",
+      "score": 2.73
+    },
+    {
+      "id": "9a8df4c50698a0",
+      "topic": "funding",
+      "topicLabel": "Aides & appels à projets",
+      "title": "Sandwichs de chefs : six adresses à tester partout en France",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aed79862a5a4a6e9a09e4bd66ffb9a9&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fsandwichs-de-chefs-six-adresses-a-tester-partout-en-france&c=16727903754092561347&mkt=en-us",
+      "source": "Bing News",
+      "published": "2026-11-02T09:00:00+00:00",
+      "kind": "news",
+      "score": 2.63
+    },
+    {
+      "id": "773f70c3dfc134",
+      "topic": "funding",
+      "topicLabel": "Aides & appels à projets",
+      "title": "We Are French Touch 2026 : les personnalités à ne pas manquer",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aed79862a5a4a6e9a09e4bd66ffb9a9&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fwe-are-french-touch-2026-les-personnalites-a-ne-pas-manquer&c=8780375609226599837&mkt=en-us",
+      "source": "Bing News",
+      "published": "2026-10-30T03:56:00+00:00",
+      "kind": "news",
+      "score": 1.51
+    },
+    {
+      "id": "67cc725bca64f6",
+      "topic": "funding",
+      "topicLabel": "Aides & appels à projets",
+      "title": "7 entreprises et startups françaises qui innovent dans le funéraire",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aed79862a5a4a6e9a09e4bd66ffb9a9&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2f7-entreprises-et-startups-francaises-qui-innovent-dans-le-funeraire&c=10298404575482062752&mkt=en-us",
+      "source": "Bing News",
+      "published": "2026-10-29T22:41:00+00:00",
+      "kind": "news",
+      "score": 1.43
+    },
+    {
+      "id": "2d4ae48588beeb",
+      "topic": "funding",
+      "topicLabel": "Aides & appels à projets",
+      "title": "À Tahiti, ils testent leur escape game en nomade avant d’ouvrir leur salle",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aed79862a5a4a6e9a09e4bd66ffb9a9&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fa-tahiti-ils-testent-leur-escape-game-en-nomade-avant-douvrir-leur-salle&c=103543658011381279&mkt=en-us",
+      "source": "Bing News",
+      "published": "2026-10-29T17:01:00+00:00",
+      "kind": "news",
+      "score": 1.35
+    },
+    {
+      "id": "c53b7d370e313e",
+      "topic": "funding",
+      "topicLabel": "Aides & appels à projets",
+      "title": "Chocolat : les tendances à croquer",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aed79862a5a4a6e9a09e4bd66ffb9a9&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fchocolat-les-tendances-a-croquer&c=6544250958563825103&mkt=en-us",
+      "source": "Bing News",
+      "published": "2026-10-29T09:37:00+00:00",
+      "kind": "news",
+      "score": 1.24
+    },
+    {
+      "id": "ec21c49ca237cb",
+      "topic": "funding",
+      "topicLabel": "Aides & appels à projets",
+      "title": "Nanoush, la chaussure qui grandit en même temps que les enfants",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aed79862a5a4a6e9a09e4bd66ffb9a9&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fnanoush-la-chaussure-qui-grandit-en-meme-temps-que-les-enfants&c=5680256393018394255&mkt=en-us",
+      "source": "Bing News",
+      "published": "2026-10-29T03:03:00+00:00",
+      "kind": "news",
+      "score": 1.14
+    },
+    {
+      "id": "d13c92a699c1b1",
+      "topic": "funding",
+      "topicLabel": "Aides & appels à projets",
+      "title": "Cybersécurité : 5 chiffres sur l’écart entre grandes entreprises et PME",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aed79862a5a4a6e9a09e4bd66ffb9a9&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fcybersecurite-5-chiffres-sur-lecart-entre-grandes-entreprises-et-pme&c=8650245769135489030&mkt=en-us",
+      "source": "Bing News",
+      "published": "2026-10-28T02:52:00+00:00",
+      "kind": "news",
+      "score": 0.79
+    }
+  ],
+  "status": "ok",
   "errors": [
     "IA & outils: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "SaaS & business: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "France ↔ Algérie: Google News: aucun résultat récent | Bing News: aucun résultat récent",
-    "Web & freelance: Google News: aucun résultat récent | Bing News: ParseError: not well-formed (invalid token): line 1, column 41",
+    "Web & freelance: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "Économie durable: Google News: aucun résultat récent | Bing News: aucun résultat récent",
-    "Aides & appels à projets: Google News: aucun résultat récent | Bing News: ParseError: not well-formed (invalid token): line 1, column 41"
+    "Marché & concurrence: Google News: aucun résultat récent | Bing News: aucun résultat récent"
   ]
 }
