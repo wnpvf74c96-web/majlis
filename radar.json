@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T06:04:05.283148+00:00",
+  "generatedAt": "2026-11-07T13:09:34.002760+00:00",
   "topics": [
     {
       "id": "ai",
@@ -44,71 +44,93 @@
       "source": "www.cci-paris-idf.fr",
       "published": "2026-11-03T15:43:40+00:00",
       "kind": "opportunity",
-      "score": 7.74
+      "score": 7.64
     },
     {
-      "id": "d7e47683163438",
+      "id": "a17d38853d73a4",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "7 marques de chaussettes qui transpirent le savoir-faire français",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aeebf57290d49378455c2259dc6cd34&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2f7-marques-de-chaussettes-qui-transpirent-le-savoir-faire-francais&c=5695836180064169077&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef23103597474dbe0eac133c493cb9&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2f7-marques-de-chaussettes-qui-transpirent-le-savoir-faire-francais&c=5695836180064169077&mkt=en-us",
       "source": "Bing News",
       "published": "2026-11-04T04:00:00+00:00",
       "kind": "news",
-      "score": 2.92
+      "score": 2.82
     },
     {
-      "id": "5ea10d80bc753e",
+      "id": "2138c261dc96da",
+      "topic": "funding",
+      "topicLabel": "Aides & appels à projets",
+      "title": "Communiqués de presse",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef23103597474dbe0eac133c493cb9&url=https%3a%2f%2fpresse.bpifrance.fr%2fsection%2factualites%2fcommuniques-de-presse&c=4238233409835081555&mkt=en-us",
+      "source": "Bing News",
+      "published": "2026-11-02T16:00:00+00:00",
+      "kind": "news",
+      "score": 2.29
+    },
+    {
+      "id": "ef0cd4a3d22277",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "We Are French Touch 2026 : les personnalités à ne pas manquer",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aeebf57290d49378455c2259dc6cd34&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fwe-are-french-touch-2026-les-personnalites-a-ne-pas-manquer&c=8780375609226599837&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef23103597474dbe0eac133c493cb9&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fwe-are-french-touch-2026-les-personnalites-a-ne-pas-manquer&c=8780375609226599837&mkt=en-us",
       "source": "Bing News",
       "published": "2026-10-30T03:56:00+00:00",
       "kind": "news",
-      "score": 1.17
+      "score": 1.07
     },
     {
-      "id": "8419258e08b282",
+      "id": "ca3ee78fc36a31",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "7 entreprises et startups françaises qui innovent dans le funéraire",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aeebf57290d49378455c2259dc6cd34&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2f7-entreprises-et-startups-francaises-qui-innovent-dans-le-funeraire&c=10298404575482062752&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef23103597474dbe0eac133c493cb9&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2f7-entreprises-et-startups-francaises-qui-innovent-dans-le-funeraire&c=10298404575482062752&mkt=en-us",
       "source": "Bing News",
       "published": "2026-10-29T22:41:00+00:00",
       "kind": "news",
-      "score": 1.09
+      "score": 0.99
     },
     {
-      "id": "863a5832f7add8",
+      "id": "b7a52d99a2923c",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "À Tahiti, ils testent leur escape game en nomade avant d’ouvrir leur salle",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aeebf57290d49378455c2259dc6cd34&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fa-tahiti-ils-testent-leur-escape-game-en-nomade-avant-douvrir-leur-salle&c=103543658011381279&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef23103597474dbe0eac133c493cb9&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fa-tahiti-ils-testent-leur-escape-game-en-nomade-avant-douvrir-leur-salle&c=103543658011381279&mkt=en-us",
       "source": "Bing News",
       "published": "2026-10-29T17:01:00+00:00",
       "kind": "news",
-      "score": 1.01
+      "score": 0.91
     },
     {
-      "id": "386e62e84a52b9",
+      "id": "2803927ca45528",
+      "topic": "funding",
+      "topicLabel": "Aides & appels à projets",
+      "title": "Chocolat : les tendances à croquer",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef23103597474dbe0eac133c493cb9&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fchocolat-les-tendances-a-croquer&c=6544250958563825103&mkt=en-us",
+      "source": "Bing News",
+      "published": "2026-10-29T09:37:00+00:00",
+      "kind": "news",
+      "score": 0.8
+    },
+    {
+      "id": "b441dd0759f74f",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Nanoush, la chaussure qui grandit en même temps que les enfants",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aeebf57290d49378455c2259dc6cd34&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fnanoush-la-chaussure-qui-grandit-en-meme-temps-que-les-enfants&c=5680256393018394255&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef23103597474dbe0eac133c493cb9&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fnanoush-la-chaussure-qui-grandit-en-meme-temps-que-les-enfants&c=5680256393018394255&mkt=en-us",
       "source": "Bing News",
       "published": "2026-10-29T03:03:00+00:00",
       "kind": "news",
-      "score": 0.81
+      "score": 0.7
     }
   ],
   "status": "ok",
   "errors": [
     "IA & outils: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "SaaS & business: Google News: aucun résultat récent | Bing News: aucun résultat récent",
-    "France ↔ Algérie: Google News: aucun résultat récent | Bing News: aucun résultat récent",
+    "France ↔ Algérie: Google News: aucun résultat récent | Bing News: ParseError: not well-formed (invalid token): line 1, column 41",
     "Web & freelance: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "Marché & concurrence: Google News: aucun résultat récent | Bing News: aucun résultat récent",
-    "Réglementation: Google News: aucun résultat récent | Bing News: aucun résultat récent"
+    "Réglementation: Google News: aucun résultat récent | Bing News: ParseError: not well-formed (invalid token): line 1, column 41"
   ]
 }
