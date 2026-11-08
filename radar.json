@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T06:08:25.551424+00:00",
+  "generatedAt": "2026-11-08T13:30:05.533098+00:00",
   "topics": [
     {
       "id": "ai",
@@ -44,29 +44,51 @@
       "source": "www.cci-paris-idf.fr",
       "published": "2026-11-03T15:43:40+00:00",
       "kind": "opportunity",
-      "score": 7.39
+      "score": 7.28
     },
     {
-      "id": "40c7d4e4789a29",
+      "id": "0f9e3bdb92517a",
+      "topic": "funding",
+      "topicLabel": "Aides & appels à projets",
+      "title": "7 marques de chaussettes qui transpirent le savoir-faire français",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af07960902945dc8820c590965bab00&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2f7-marques-de-chaussettes-qui-transpirent-le-savoir-faire-francais&c=5695836180064169077&mkt=en-us",
+      "source": "Bing News",
+      "published": "2026-11-04T04:00:00+00:00",
+      "kind": "news",
+      "score": 2.46
+    },
+    {
+      "id": "17f7b46acf735c",
+      "topic": "funding",
+      "topicLabel": "Aides & appels à projets",
+      "title": "Communiqués de presse",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af07960902945dc8820c590965bab00&url=https%3a%2f%2fpresse.bpifrance.fr%2fsection%2factualites%2fcommuniques-de-presse&c=4238233409835081555&mkt=en-us",
+      "source": "Bing News",
+      "published": "2026-11-02T16:00:00+00:00",
+      "kind": "news",
+      "score": 1.94
+    },
+    {
+      "id": "423bbd4fdbdc72",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "We Are French Touch 2026 : les personnalités à ne pas manquer",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af011dc894a45e895e8217a7db0b1e9&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fwe-are-french-touch-2026-les-personnalites-a-ne-pas-manquer&c=8780375609226599837&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af07960902945dc8820c590965bab00&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fwe-are-french-touch-2026-les-personnalites-a-ne-pas-manquer&c=8780375609226599837&mkt=en-us",
       "source": "Bing News",
       "published": "2026-10-30T03:56:00+00:00",
       "kind": "news",
-      "score": 0.82
+      "score": 0.71
     },
     {
-      "id": "9825481fa825a0",
+      "id": "bf097050889983",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "7 entreprises et startups françaises qui innovent dans le funéraire",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af011dc894a45e895e8217a7db0b1e9&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2f7-entreprises-et-startups-francaises-qui-innovent-dans-le-funeraire&c=10298404575482062752&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af07960902945dc8820c590965bab00&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2f7-entreprises-et-startups-francaises-qui-innovent-dans-le-funeraire&c=10298404575482062752&mkt=en-us",
       "source": "Bing News",
       "published": "2026-10-29T22:41:00+00:00",
       "kind": "news",
-      "score": 0.74
+      "score": 0.63
     }
   ],
   "status": "ok",
