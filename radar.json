@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T06:42:04.567734+00:00",
+  "generatedAt": "2026-11-09T22:25:26.774511+00:00",
   "topics": [
     {
       "id": "ai",
@@ -44,7 +44,18 @@
       "source": "www.cci-paris-idf.fr",
       "published": "2026-11-03T15:43:40+00:00",
       "kind": "opportunity",
-      "score": 7.03
+      "score": 6.8
+    },
+    {
+      "id": "945d6d76b074ca",
+      "topic": "funding",
+      "topicLabel": "Aides & appels à projets",
+      "title": "7 marques de chaussettes qui transpirent le savoir-faire français",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af2485a549e456ea6eee522df45d995&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2f7-marques-de-chaussettes-qui-transpirent-le-savoir-faire-francais&c=5695836180064169077&mkt=en-us",
+      "source": "Bing News",
+      "published": "2026-11-04T04:00:00+00:00",
+      "kind": "news",
+      "score": 1.98
     }
   ],
   "status": "ok",
@@ -53,7 +64,7 @@
     "SaaS & business: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "France ↔ Algérie: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "Web & freelance: Google News: aucun résultat récent | Bing News: aucun résultat récent",
-    "Aides & appels à projets: Google News: aucun résultat récent | Bing News: aucun résultat récent",
-    "Marché & concurrence: Google News: aucun résultat récent | Bing News: aucun résultat récent"
+    "Marché & concurrence: Google News: aucun résultat récent | Bing News: aucun résultat récent",
+    "Réglementation: Google News: aucun résultat récent | Bing News: aucun résultat récent"
   ]
 }
