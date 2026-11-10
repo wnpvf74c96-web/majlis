@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T07:24:08.848305+00:00",
+  "generatedAt": "2026-11-10T19:47:17.545181+00:00",
   "topics": [
     {
       "id": "ai",
@@ -44,18 +44,40 @@
       "source": "www.cci-paris-idf.fr",
       "published": "2026-11-03T15:43:40+00:00",
       "kind": "opportunity",
-      "score": 6.67
+      "score": 6.49
     },
     {
-      "id": "6b678bab31b03b",
+      "id": "707a7fea34fee0",
+      "topic": "funding",
+      "topicLabel": "Aides & appels à projets",
+      "title": "DJ Snake lance sa marque de soda en France",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af374c84ca4425491fe0bdeea8b68a5&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fdj-snake-lance-sa-marque-de-soda-en-france&c=12085953426143214998&mkt=en-us",
+      "source": "Bing News",
+      "published": "2026-11-10T04:15:00+00:00",
+      "kind": "new",
+      "score": 5.77
+    },
+    {
+      "id": "82423cea342f05",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "7 marques de chaussettes qui transpirent le savoir-faire français",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af2c69b065e4c7595450cbd2f9e298f&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2f7-marques-de-chaussettes-qui-transpirent-le-savoir-faire-francais&c=5695836180064169077&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af374c84ca4425491fe0bdeea8b68a5&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2f7-marques-de-chaussettes-qui-transpirent-le-savoir-faire-francais&c=5695836180064169077&mkt=en-us",
       "source": "Bing News",
       "published": "2026-11-04T04:00:00+00:00",
       "kind": "news",
-      "score": 1.85
+      "score": 1.67
+    },
+    {
+      "id": "d4f4ae148e6202",
+      "topic": "funding",
+      "topicLabel": "Aides & appels à projets",
+      "title": "Actualités Bpifrance",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af374c84ca4425491fe0bdeea8b68a5&url=https%3a%2f%2fpresse.bpifrance.fr%2fsection%2factualites-bpifrance&c=17634291548492447750&mkt=en-us",
+      "source": "Bing News",
+      "published": "2026-11-02T16:00:00+00:00",
+      "kind": "news",
+      "score": 1.14
     }
   ],
   "status": "ok",
