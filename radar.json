@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T22:25:26.774511+00:00",
+  "generatedAt": "2026-11-10T07:24:08.848305+00:00",
   "topics": [
     {
       "id": "ai",
@@ -44,18 +44,18 @@
       "source": "www.cci-paris-idf.fr",
       "published": "2026-11-03T15:43:40+00:00",
       "kind": "opportunity",
-      "score": 6.8
+      "score": 6.67
     },
     {
-      "id": "945d6d76b074ca",
+      "id": "6b678bab31b03b",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "7 marques de chaussettes qui transpirent le savoir-faire français",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af2485a549e456ea6eee522df45d995&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2f7-marques-de-chaussettes-qui-transpirent-le-savoir-faire-francais&c=5695836180064169077&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af2c69b065e4c7595450cbd2f9e298f&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2f7-marques-de-chaussettes-qui-transpirent-le-savoir-faire-francais&c=5695836180064169077&mkt=en-us",
       "source": "Bing News",
       "published": "2026-11-04T04:00:00+00:00",
       "kind": "news",
-      "score": 1.98
+      "score": 1.85
     }
   ],
   "status": "ok",
