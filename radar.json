@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T19:47:17.545181+00:00",
+  "generatedAt": "2026-11-11T06:32:38.505254+00:00",
   "topics": [
     {
       "id": "ai",
@@ -44,49 +44,38 @@
       "source": "www.cci-paris-idf.fr",
       "published": "2026-11-03T15:43:40+00:00",
       "kind": "opportunity",
-      "score": 6.49
+      "score": 6.33
     },
     {
-      "id": "707a7fea34fee0",
+      "id": "e29e34e15c1250",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "DJ Snake lance sa marque de soda en France",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af374c84ca4425491fe0bdeea8b68a5&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fdj-snake-lance-sa-marque-de-soda-en-france&c=12085953426143214998&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af40c0b6e5040838a02ab2031d22b0b&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fdj-snake-lance-sa-marque-de-soda-en-france&c=12085953426143214998&mkt=en-us",
       "source": "Bing News",
       "published": "2026-11-10T04:15:00+00:00",
       "kind": "new",
-      "score": 5.77
+      "score": 5.62
     },
     {
-      "id": "82423cea342f05",
+      "id": "405976a4220097",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "7 marques de chaussettes qui transpirent le savoir-faire français",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af374c84ca4425491fe0bdeea8b68a5&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2f7-marques-de-chaussettes-qui-transpirent-le-savoir-faire-francais&c=5695836180064169077&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af40c0b6e5040838a02ab2031d22b0b&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2f7-marques-de-chaussettes-qui-transpirent-le-savoir-faire-francais&c=5695836180064169077&mkt=en-us",
       "source": "Bing News",
       "published": "2026-11-04T04:00:00+00:00",
       "kind": "news",
-      "score": 1.67
-    },
-    {
-      "id": "d4f4ae148e6202",
-      "topic": "funding",
-      "topicLabel": "Aides & appels à projets",
-      "title": "Actualités Bpifrance",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af374c84ca4425491fe0bdeea8b68a5&url=https%3a%2f%2fpresse.bpifrance.fr%2fsection%2factualites-bpifrance&c=17634291548492447750&mkt=en-us",
-      "source": "Bing News",
-      "published": "2026-11-02T16:00:00+00:00",
-      "kind": "news",
-      "score": 1.14
+      "score": 1.51
     }
   ],
   "status": "ok",
   "errors": [
-    "IA & outils: Google News: aucun résultat récent | Bing News: aucun résultat récent",
+    "IA & outils: Google News: aucun résultat récent | Bing News: ParseError: not well-formed (invalid token): line 1, column 41",
     "SaaS & business: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "France ↔ Algérie: Google News: aucun résultat récent | Bing News: aucun résultat récent",
-    "Web & freelance: Google News: aucun résultat récent | Bing News: aucun résultat récent",
-    "Marché & concurrence: Google News: aucun résultat récent | Bing News: aucun résultat récent",
+    "Web & freelance: Google News: aucun résultat récent | Bing News: ParseError: not well-formed (invalid token): line 1, column 41",
+    "Marché & concurrence: Google News: aucun résultat récent | Bing News: ParseError: not well-formed (invalid token): line 1, column 41",
     "Réglementation: Google News: aucun résultat récent | Bing News: aucun résultat récent"
   ]
 }
