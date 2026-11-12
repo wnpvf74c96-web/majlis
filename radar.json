@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T19:39:00.208582+00:00",
+  "generatedAt": "2026-11-12T07:17:40.249346+00:00",
   "topics": [
     {
       "id": "ai",
@@ -44,35 +44,35 @@
       "source": "www.cci-paris-idf.fr",
       "published": "2026-11-03T15:43:40+00:00",
       "kind": "opportunity",
-      "score": 6.14
+      "score": 5.97
     },
     {
-      "id": "5578a7707a78f0",
+      "id": "deb6966d22f364",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "DJ Snake lance sa marque de soda en France",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af4c457c3dd4b58bd11ceeb66b5b021&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fdj-snake-lance-sa-marque-de-soda-en-france&c=12085953426143214998&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af5681697f1473792f021ff082af7bd&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fdj-snake-lance-sa-marque-de-soda-en-france&c=12085953426143214998&mkt=en-us",
       "source": "Bing News",
       "published": "2026-11-10T04:15:00+00:00",
       "kind": "new",
-      "score": 5.43
+      "score": 5.26
     },
     {
-      "id": "1964f5add57b78",
+      "id": "ae15ec5e36e19b",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "7 marques de chaussettes qui transpirent le savoir-faire français",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af4c457c3dd4b58bd11ceeb66b5b021&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2f7-marques-de-chaussettes-qui-transpirent-le-savoir-faire-francais&c=5695836180064169077&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af5681697f1473792f021ff082af7bd&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2f7-marques-de-chaussettes-qui-transpirent-le-savoir-faire-francais&c=5695836180064169077&mkt=en-us",
       "source": "Bing News",
       "published": "2026-11-04T04:00:00+00:00",
       "kind": "news",
-      "score": 1.32
+      "score": 1.15
     }
   ],
   "status": "ok",
   "errors": [
-    "IA & outils: Google News: aucun résultat récent | Bing News: aucun résultat récent",
-    "SaaS & business: Google News: aucun résultat récent | Bing News: aucun résultat récent",
+    "IA & outils: Google News: aucun résultat récent | Bing News: ParseError: not well-formed (invalid token): line 1, column 41",
+    "SaaS & business: Google News: aucun résultat récent | Bing News: ParseError: not well-formed (invalid token): line 1, column 41",
     "France ↔ Algérie: Google News: aucun résultat récent | Bing News: ParseError: not well-formed (invalid token): line 1, column 41",
     "Web & freelance: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "Marché & concurrence: Google News: aucun résultat récent | Bing News: aucun résultat récent",
