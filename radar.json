@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T19:58:39.498642+00:00",
+  "generatedAt": "2026-11-13T06:51:22.976184+00:00",
   "topics": [
     {
       "id": "ai",
@@ -44,62 +44,51 @@
       "source": "www.cci-paris-idf.fr",
       "published": "2026-11-03T15:43:40+00:00",
       "kind": "opportunity",
-      "score": 5.79
+      "score": 5.63
     },
     {
-      "id": "4d1822f1a5f559",
+      "id": "5cd8691eb02110",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Maritime : cinq innovations qui dessinent la mer de demain",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af61a726dde4287a1f793cb1c2e687b&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fmaritime-cinq-innovations-qui-dessinent-la-mer-de-demain&c=1380410706671484837&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6b36d2e114e9fb61cee972e1be2a2&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fmaritime-cinq-innovations-qui-dessinent-la-mer-de-demain&c=1380410706671484837&mkt=en-us",
       "source": "Bing News",
       "published": "2026-11-12T02:10:00+00:00",
       "kind": "new",
-      "score": 5.74
+      "score": 5.58
     },
     {
-      "id": "6a67f872700838",
+      "id": "cae803bedf50d1",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "DJ Snake lance sa marque de soda en France",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af61a726dde4287a1f793cb1c2e687b&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fdj-snake-lance-sa-marque-de-soda-en-france&c=12085953426143214998&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6b36d2e114e9fb61cee972e1be2a2&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fdj-snake-lance-sa-marque-de-soda-en-france&c=12085953426143214998&mkt=en-us",
       "source": "Bing News",
       "published": "2026-11-10T04:15:00+00:00",
       "kind": "new",
-      "score": 5.07
+      "score": 4.91
     },
     {
-      "id": "53ed80d2730a1f",
+      "id": "b50899d1b9b092",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Look'Up du Hub : Souveraineté numérique : quelles alternatives européennes pour le cloud, la data et l’IA ?",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af61a726dde4287a1f793cb1c2e687b&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-evenements%2flookup-du-hub-souverainete-numerique-quelles-alternatives-europeennes-pour-le-cloud-la-data-et-lia&c=11508597256324805401&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6b36d2e114e9fb61cee972e1be2a2&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-evenements%2flookup-du-hub-souverainete-numerique-quelles-alternatives-europeennes-pour-le-cloud-la-data-et-lia&c=11508597256324805401&mkt=en-us",
       "source": "Bing News",
       "published": "2026-11-12T07:30:00+00:00",
       "kind": "news",
-      "score": 3.82
+      "score": 3.66
     },
     {
-      "id": "d9f1669a35e938",
+      "id": "def6ac55c6e6d0",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Quartiers et entrepreneuriat : regards croisés dans le Grand Est",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af61a726dde4287a1f793cb1c2e687b&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fquartiers-et-entrepreneuriat-regards-croises-dans-le-grand-est&c=7106807505623468745&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af6b36d2e114e9fb61cee972e1be2a2&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fquartiers-et-entrepreneuriat-regards-croises-dans-le-grand-est&c=7106807505623468745&mkt=en-us",
       "source": "Bing News",
       "published": "2026-11-11T23:00:00+00:00",
       "kind": "news",
-      "score": 3.69
-    },
-    {
-      "id": "5f1d70d9ec109f",
-      "topic": "funding",
-      "topicLabel": "Aides & appels à projets",
-      "title": "7 marques de chaussettes qui transpirent le savoir-faire français",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af61a726dde4287a1f793cb1c2e687b&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2f7-marques-de-chaussettes-qui-transpirent-le-savoir-faire-francais&c=5695836180064169077&mkt=en-us",
-      "source": "Bing News",
-      "published": "2026-11-04T04:00:00+00:00",
-      "kind": "news",
-      "score": 0.97
+      "score": 3.54
     }
   ],
   "status": "ok",
