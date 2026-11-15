@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T22:29:22.127935+00:00",
+  "generatedAt": "2026-11-15T06:40:34.121243+00:00",
   "topics": [
     {
       "id": "ai",
@@ -36,48 +36,48 @@
   ],
   "items": [
     {
-      "id": "703f7ea046b441",
+      "id": "5660725fdc0a45",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Maritime : cinq innovations qui dessinent la mer de demain",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af8e0c5164c498fb5f556f910d40c77&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fmaritime-cinq-innovations-qui-dessinent-la-mer-de-demain&c=1380410706671484837&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af953e5ed514710a8890eed4002fa71&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fmaritime-cinq-innovations-qui-dessinent-la-mer-de-demain&c=1380410706671484837&mkt=en-us",
       "source": "Bing News",
       "published": "2026-11-12T02:10:00+00:00",
       "kind": "new",
-      "score": 5.0
+      "score": 4.88
     },
     {
-      "id": "6b378e5b7d3c4e",
+      "id": "6c2c581f2c76b7",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "DJ Snake lance sa marque de soda en France",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af8e0c5164c498fb5f556f910d40c77&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fdj-snake-lance-sa-marque-de-soda-en-france&c=12085953426143214998&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af953e5ed514710a8890eed4002fa71&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fdj-snake-lance-sa-marque-de-soda-en-france&c=12085953426143214998&mkt=en-us",
       "source": "Bing News",
       "published": "2026-11-10T04:15:00+00:00",
       "kind": "new",
-      "score": 4.33
+      "score": 4.21
     },
     {
-      "id": "5d403a2e1ea9fb",
+      "id": "92a5f6ef550cc6",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Look'Up du Hub : Souveraineté numérique : quelles alternatives européennes pour le cloud, la data et l’IA ?",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af8e0c5164c498fb5f556f910d40c77&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-evenements%2flookup-du-hub-souverainete-numerique-quelles-alternatives-europeennes-pour-le-cloud-la-data-et-lia&c=11508597256324805401&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af953e5ed514710a8890eed4002fa71&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-evenements%2flookup-du-hub-souverainete-numerique-quelles-alternatives-europeennes-pour-le-cloud-la-data-et-lia&c=11508597256324805401&mkt=en-us",
       "source": "Bing News",
       "published": "2026-11-12T07:30:00+00:00",
       "kind": "news",
-      "score": 3.08
+      "score": 2.96
     },
     {
-      "id": "99115a5e968de4",
+      "id": "2d4d70c4198c7a",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Quartiers et entrepreneuriat : regards croisés dans le Grand Est",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af8e0c5164c498fb5f556f910d40c77&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fquartiers-et-entrepreneuriat-regards-croises-dans-le-grand-est&c=7106807505623468745&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af953e5ed514710a8890eed4002fa71&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fquartiers-et-entrepreneuriat-regards-croises-dans-le-grand-est&c=7106807505623468745&mkt=en-us",
       "source": "Bing News",
       "published": "2026-11-11T23:00:00+00:00",
       "kind": "news",
-      "score": 2.96
+      "score": 2.84
     }
   ],
   "status": "ok",
