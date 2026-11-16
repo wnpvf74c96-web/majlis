@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T18:54:10.319663+00:00",
+  "generatedAt": "2026-11-16T06:37:12.882198+00:00",
   "topics": [
     {
       "id": "ai",
@@ -36,37 +36,37 @@
   ],
   "items": [
     {
-      "id": "d5ac3673c764da",
+      "id": "5c6ae8ee563d36",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Maritime : cinq innovations qui dessinent la mer de demain",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af9ffd598a540fc874c509f01e1dd68&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fmaritime-cinq-innovations-qui-dessinent-la-mer-de-demain&c=1380410706671484837&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afaa49b6d844f3ea963b18e71951019&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fmaritime-cinq-innovations-qui-dessinent-la-mer-de-demain&c=1380410706671484837&mkt=en-us",
       "source": "Bing News",
       "published": "2026-11-12T02:10:00+00:00",
       "kind": "new",
-      "score": 4.71
+      "score": 4.54
     },
     {
-      "id": "5f358346253950",
+      "id": "690dded4784d61",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "DJ Snake lance sa marque de soda en France",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af9ffd598a540fc874c509f01e1dd68&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fdj-snake-lance-sa-marque-de-soda-en-france&c=12085953426143214998&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afaa49b6d844f3ea963b18e71951019&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fdj-snake-lance-sa-marque-de-soda-en-france&c=12085953426143214998&mkt=en-us",
       "source": "Bing News",
       "published": "2026-11-10T04:15:00+00:00",
       "kind": "new",
-      "score": 4.04
+      "score": 3.87
     },
     {
-      "id": "ce94b7ce9c5820",
+      "id": "5f0ecf63de0120",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Quartiers et entrepreneuriat : regards croisés dans le Grand Est",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af9ffd598a540fc874c509f01e1dd68&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fquartiers-et-entrepreneuriat-regards-croises-dans-le-grand-est&c=7106807505623468745&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afaa49b6d844f3ea963b18e71951019&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fquartiers-et-entrepreneuriat-regards-croises-dans-le-grand-est&c=7106807505623468745&mkt=en-us",
       "source": "Bing News",
       "published": "2026-11-11T23:00:00+00:00",
       "kind": "news",
-      "score": 2.66
+      "score": 2.49
     }
   ],
   "status": "ok",
