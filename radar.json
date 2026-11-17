@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T22:10:48.976083+00:00",
+  "generatedAt": "2026-11-17T07:59:13.890366+00:00",
   "topics": [
     {
       "id": "ai",
@@ -36,37 +36,37 @@
   ],
   "items": [
     {
-      "id": "8e2ab6937d5511",
+      "id": "70411b0a7e79f4",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Maritime : cinq innovations qui dessinent la mer de demain",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb7f6cb79748ccb5608a4ff4233d82&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fmaritime-cinq-innovations-qui-dessinent-la-mer-de-demain&c=1380410706671484837&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afc0954b006492c957035e96af301d7&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fmaritime-cinq-innovations-qui-dessinent-la-mer-de-demain&c=1380410706671484837&mkt=en-us",
       "source": "Bing News",
       "published": "2026-11-12T02:10:00+00:00",
       "kind": "new",
-      "score": 4.31
+      "score": 4.17
     },
     {
-      "id": "17cd5964192c97",
+      "id": "24c4617fef58fe",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "DJ Snake lance sa marque de soda en France",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb7f6cb79748ccb5608a4ff4233d82&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fdj-snake-lance-sa-marque-de-soda-en-france&c=12085953426143214998&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afc0954b006492c957035e96af301d7&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fdj-snake-lance-sa-marque-de-soda-en-france&c=12085953426143214998&mkt=en-us",
       "source": "Bing News",
       "published": "2026-11-10T04:15:00+00:00",
       "kind": "new",
-      "score": 3.64
+      "score": 3.5
     },
     {
-      "id": "2a11488a1b2c36",
+      "id": "71f3516f1a648b",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
-      "title": "Quartiers et entrepreneuriat : regards croisés dans le Grand Est",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb7f6cb79748ccb5608a4ff4233d82&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fquartiers-et-entrepreneuriat-regards-croises-dans-le-grand-est&c=7106807505623468745&mkt=en-us",
+      "title": "Look'Up du Hub : Souveraineté numérique : quelles alternatives européennes pour le cloud, la data et l’IA ?",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afc0954b006492c957035e96af301d7&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-evenements%2flookup-du-hub-souverainete-numerique-quelles-alternatives-europeennes-pour-le-cloud-la-data-et-lia&c=11508597256324805401&mkt=en-us",
       "source": "Bing News",
-      "published": "2026-11-11T23:00:00+00:00",
+      "published": "2026-11-12T07:30:00+00:00",
       "kind": "news",
-      "score": 2.26
+      "score": 2.24
     }
   ],
   "status": "ok",
@@ -74,7 +74,7 @@
     "IA & outils: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "SaaS & business: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "France ↔ Algérie: Google News: aucun résultat récent | Bing News: aucun résultat récent",
-    "Web & freelance: Google News: HTTPError: HTTP Error 429: Too Many Requests | Bing News: aucun résultat récent",
+    "Web & freelance: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "Économie durable: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "Marché & concurrence: Google News: aucun résultat récent | Bing News: aucun résultat récent"
   ]
