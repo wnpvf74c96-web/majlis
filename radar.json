@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T07:59:13.890366+00:00",
+  "generatedAt": "2026-11-17T20:59:01.742482+00:00",
   "topics": [
     {
       "id": "ai",
@@ -36,37 +36,26 @@
   ],
   "items": [
     {
-      "id": "70411b0a7e79f4",
+      "id": "b2dc5c6ceed4ad",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Maritime : cinq innovations qui dessinent la mer de demain",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afc0954b006492c957035e96af301d7&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fmaritime-cinq-innovations-qui-dessinent-la-mer-de-demain&c=1380410706671484837&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afcc018774f4c24a54feced32d4250c&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fmaritime-cinq-innovations-qui-dessinent-la-mer-de-demain&c=1380410706671484837&mkt=en-us",
       "source": "Bing News",
       "published": "2026-11-12T02:10:00+00:00",
       "kind": "new",
-      "score": 4.17
+      "score": 3.98
     },
     {
-      "id": "24c4617fef58fe",
+      "id": "23f96caac60d23",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "DJ Snake lance sa marque de soda en France",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afc0954b006492c957035e96af301d7&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fdj-snake-lance-sa-marque-de-soda-en-france&c=12085953426143214998&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afcc018774f4c24a54feced32d4250c&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fdj-snake-lance-sa-marque-de-soda-en-france&c=12085953426143214998&mkt=en-us",
       "source": "Bing News",
       "published": "2026-11-10T04:15:00+00:00",
       "kind": "new",
-      "score": 3.5
-    },
-    {
-      "id": "71f3516f1a648b",
-      "topic": "funding",
-      "topicLabel": "Aides & appels à projets",
-      "title": "Look'Up du Hub : Souveraineté numérique : quelles alternatives européennes pour le cloud, la data et l’IA ?",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afc0954b006492c957035e96af301d7&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-evenements%2flookup-du-hub-souverainete-numerique-quelles-alternatives-europeennes-pour-le-cloud-la-data-et-lia&c=11508597256324805401&mkt=en-us",
-      "source": "Bing News",
-      "published": "2026-11-12T07:30:00+00:00",
-      "kind": "news",
-      "score": 2.24
+      "score": 3.31
     }
   ],
   "status": "ok",
