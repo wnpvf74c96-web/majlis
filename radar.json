@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T20:59:01.742482+00:00",
+  "generatedAt": "2026-11-18T07:35:14.470813+00:00",
   "topics": [
     {
       "id": "ai",
@@ -36,26 +36,48 @@
   ],
   "items": [
     {
-      "id": "b2dc5c6ceed4ad",
+      "id": "3f5b0de68fca40",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Maritime : cinq innovations qui dessinent la mer de demain",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afcc018774f4c24a54feced32d4250c&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fmaritime-cinq-innovations-qui-dessinent-la-mer-de-demain&c=1380410706671484837&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afd553589a54a1d992b0326309f019e&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fmaritime-cinq-innovations-qui-dessinent-la-mer-de-demain&c=1380410706671484837&mkt=en-us",
       "source": "Bing News",
       "published": "2026-11-12T02:10:00+00:00",
       "kind": "new",
-      "score": 3.98
+      "score": 3.82
     },
     {
-      "id": "23f96caac60d23",
+      "id": "fb11c15c5ac267",
+      "topic": "funding",
+      "topicLabel": "Aides & appels à projets",
+      "title": "Technilum : l’industriel qui illumine nos villes",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afd553589a54a1d992b0326309f019e&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2ftechnilum-lindustriel-qui-illumine-nos-villes&c=397686024574648937&mkt=en-us",
+      "source": "Bing News",
+      "published": "2026-11-17T16:00:00+00:00",
+      "kind": "news",
+      "score": 3.77
+    },
+    {
+      "id": "16d173cef3aa95",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "DJ Snake lance sa marque de soda en France",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afcc018774f4c24a54feced32d4250c&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fdj-snake-lance-sa-marque-de-soda-en-france&c=12085953426143214998&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afd553589a54a1d992b0326309f019e&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fdj-snake-lance-sa-marque-de-soda-en-france&c=12085953426143214998&mkt=en-us",
       "source": "Bing News",
       "published": "2026-11-10T04:15:00+00:00",
       "kind": "new",
-      "score": 3.31
+      "score": 3.15
+    },
+    {
+      "id": "b46abc522758b8",
+      "topic": "funding",
+      "topicLabel": "Aides & appels à projets",
+      "title": "Look'Up du Hub : Souveraineté numérique : quelles alternatives européennes pour le cloud, la data et l’IA ?",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afd553589a54a1d992b0326309f019e&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-evenements%2flookup-du-hub-souverainete-numerique-quelles-alternatives-europeennes-pour-le-cloud-la-data-et-lia&c=11508597256324805401&mkt=en-us",
+      "source": "Bing News",
+      "published": "2026-11-12T07:30:00+00:00",
+      "kind": "news",
+      "score": 1.9
     }
   ],
   "status": "ok",
