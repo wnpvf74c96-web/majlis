@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T20:36:37.804869+00:00",
+  "generatedAt": "2026-11-19T07:31:16.312209+00:00",
   "topics": [
     {
       "id": "ai",
@@ -36,68 +36,68 @@
   ],
   "items": [
     {
-      "id": "4f98014de8d4e8",
-      "topic": "ai",
-      "topicLabel": "IA & outils",
-      "title": "Google lance la publicité IA dans dix pays supplémentaires - Brief IA",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNUswcmpOMFhMNzhZUFFZcm1yZGdHSEYzdUJjT2ZkY2JUdGFFdWlzRzRQdldRZmtIZFozZG13Zk53dWlRR0NucXhFbmN5d1BwVGJrNkVOM0l6elNTRmxvazNsOEFrb2w1QzUwNVhrYzEzbDJDZXl3YnRnWW5wN3VqNUZJX2Jla2VKSHdENVUyNlllUkU?oc=5",
-      "source": "Brief IA",
-      "published": "2026-11-17T14:04:47+00:00",
-      "kind": "new",
-      "score": 5.55
-    },
-    {
-      "id": "b945cfac5af902",
+      "id": "9a7a08fce7c8e9",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Dégradations urbaines : un prêt à taux zéro pour les commerces vandalisés",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afe0c58a24148ab90c4371b795e7f83&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fdegradations-urbaines-un-pret-a-taux-zero-pour-les-commerces-vandalises&c=5256644153236803809&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afea5c772824d5a94271f9e422ee257&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fdegradations-urbaines-un-pret-a-taux-zero-pour-les-commerces-vandalises&c=5256644153236803809&mkt=en-us",
       "source": "Bing News",
       "published": "2026-11-18T06:30:00+00:00",
       "kind": "news",
-      "score": 3.79
+      "score": 3.64
     },
     {
-      "id": "e1b56644b82528",
+      "id": "4b5e262ed6e84f",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Maritime : cinq innovations qui dessinent la mer de demain",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afe0c58a24148ab90c4371b795e7f83&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fmaritime-cinq-innovations-qui-dessinent-la-mer-de-demain&c=1380410706671484837&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afea5c772824d5a94271f9e422ee257&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fmaritime-cinq-innovations-qui-dessinent-la-mer-de-demain&c=1380410706671484837&mkt=en-us",
       "source": "Bing News",
       "published": "2026-11-12T02:10:00+00:00",
       "kind": "new",
-      "score": 3.63
+      "score": 3.47
     },
     {
-      "id": "57f13ce20128e7",
+      "id": "f2a44e4e4e47f0",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Technilum : l’industriel qui illumine nos villes",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afe0c58a24148ab90c4371b795e7f83&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2ftechnilum-lindustriel-qui-illumine-nos-villes&c=397686024574648937&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afea5c772824d5a94271f9e422ee257&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2ftechnilum-lindustriel-qui-illumine-nos-villes&c=397686024574648937&mkt=en-us",
       "source": "Bing News",
       "published": "2026-11-17T16:00:00+00:00",
       "kind": "news",
-      "score": 3.58
+      "score": 3.42
     },
     {
-      "id": "294a31d1c7ae48",
+      "id": "f22642d34c74c2",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "DJ Snake lance sa marque de soda en France",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afe0c58a24148ab90c4371b795e7f83&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fdj-snake-lance-sa-marque-de-soda-en-france&c=12085953426143214998&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afea5c772824d5a94271f9e422ee257&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fdj-snake-lance-sa-marque-de-soda-en-france&c=12085953426143214998&mkt=en-us",
       "source": "Bing News",
       "published": "2026-11-10T04:15:00+00:00",
       "kind": "new",
-      "score": 2.96
+      "score": 2.8
+    },
+    {
+      "id": "f25a345f2ee658",
+      "topic": "funding",
+      "topicLabel": "Aides & appels à projets",
+      "title": "Look'Up du Hub : Souveraineté numérique : quelles alternatives européennes pour le cloud, la data et l’IA ?",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afea5c772824d5a94271f9e422ee257&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-evenements%2flookup-du-hub-souverainete-numerique-quelles-alternatives-europeennes-pour-le-cloud-la-data-et-lia&c=11508597256324805401&mkt=en-us",
+      "source": "Bing News",
+      "published": "2026-11-12T07:30:00+00:00",
+      "kind": "news",
+      "score": 1.55
     }
   ],
   "status": "ok",
   "errors": [
+    "IA & outils: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "SaaS & business: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "France ↔ Algérie: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "Web & freelance: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "Économie durable: Google News: aucun résultat récent | Bing News: aucun résultat récent",
-    "Marché & concurrence: Google News: aucun résultat récent | Bing News: aucun résultat récent",
-    "Réglementation: Google News: aucun résultat récent | Bing News: aucun résultat récent"
+    "Marché & concurrence: Google News: aucun résultat récent | Bing News: aucun résultat récent"
   ]
 }
