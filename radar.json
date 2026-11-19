@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T07:31:16.312209+00:00",
+  "generatedAt": "2026-11-19T20:41:44.272484+00:00",
   "topics": [
     {
       "id": "ai",
@@ -36,59 +36,81 @@
   ],
   "items": [
     {
-      "id": "9a7a08fce7c8e9",
+      "id": "a4addda9366d8d",
+      "topic": "legal",
+      "topicLabel": "Réglementation",
+      "title": "Solution de facturation électronique intégrée au compte pro : la checklist freelances et TPE avant 2027 - Leptidigital",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPanZHS2lWNjM1R2gtNXN0NFMxeldUVEZqNGlid2pRU2Eydk5WSW9zRlFHVzJMVmRTbGsyVFl3Mml6XzVoMHZOQjhFZmtxSUxjbjZSYUZXcl94MTVnNUJuSTQtaEhNOHo3QXN3LW1OcFVXRVFzWGNld0VRaWF3X0V0ampPMEFOeWFPYzkwaTBiOVBTZ0FLbkpGUjlfb2hlZmhDU0F4N2tqaFh2TEJ1d19DRGkwM2czUkxQUlpiYkNCTTNpbDZxdEwwV1JnNGVaNHVzSnkyMzFYMzZMV3ZsS2tV?oc=5",
+      "source": "Leptidigital",
+      "published": "2026-11-19T05:30:00+00:00",
+      "kind": "opportunity",
+      "score": 10.78
+    },
+    {
+      "id": "54fe6be2138906",
+      "topic": "funding",
+      "topicLabel": "Aides & appels à projets",
+      "title": "« L’innovation vient de l’espace laissé à l’expression des idées » (Hachette)",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aff5f0b57b44b6cab283164e8798e8c&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2flinnovation-vient-de-lespace-laisse-a-lexpression-des-idees-hachette&c=12047488016870893999&mkt=en-us",
+      "source": "Bing News",
+      "published": "2026-11-17T02:22:00+00:00",
+      "kind": "new",
+      "score": 5.03
+    },
+    {
+      "id": "5fd1d45f61b192",
+      "topic": "funding",
+      "topicLabel": "Aides & appels à projets",
+      "title": "Grands Prix CFNEWS Auvergne-Rhône-Alpes 2026",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aff5f0b57b44b6cab283164e8798e8c&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-evenements%2fgrands-prix-cfnews-auvergne-rhone-alpes-2026&c=17954690125232174657&mkt=en-us",
+      "source": "Bing News",
+      "published": "2026-11-19T02:01:00+00:00",
+      "kind": "news",
+      "score": 3.73
+    },
+    {
+      "id": "459cc77c5a9a1d",
+      "topic": "funding",
+      "topicLabel": "Aides & appels à projets",
+      "title": "Quartier Général 2026 : 5 personnalités pour inspirer les entrepreneurs des quartiers",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aff5f0b57b44b6cab283164e8798e8c&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fquartier-general-2026-5-personnalites-pour-inspirer-les-entrepreneurs-des-quartiers&c=7381881857600868372&mkt=en-us",
+      "source": "Bing News",
+      "published": "2026-11-18T10:00:00+00:00",
+      "kind": "news",
+      "score": 3.49
+    },
+    {
+      "id": "f54d75ab652217",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Dégradations urbaines : un prêt à taux zéro pour les commerces vandalisés",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afea5c772824d5a94271f9e422ee257&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fdegradations-urbaines-un-pret-a-taux-zero-pour-les-commerces-vandalises&c=5256644153236803809&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aff5f0b57b44b6cab283164e8798e8c&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fdegradations-urbaines-un-pret-a-taux-zero-pour-les-commerces-vandalises&c=5256644153236803809&mkt=en-us",
       "source": "Bing News",
       "published": "2026-11-18T06:30:00+00:00",
       "kind": "news",
-      "score": 3.64
+      "score": 3.44
     },
     {
-      "id": "4b5e262ed6e84f",
-      "topic": "funding",
-      "topicLabel": "Aides & appels à projets",
-      "title": "Maritime : cinq innovations qui dessinent la mer de demain",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afea5c772824d5a94271f9e422ee257&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fmaritime-cinq-innovations-qui-dessinent-la-mer-de-demain&c=1380410706671484837&mkt=en-us",
-      "source": "Bing News",
-      "published": "2026-11-12T02:10:00+00:00",
-      "kind": "new",
-      "score": 3.47
-    },
-    {
-      "id": "f2a44e4e4e47f0",
+      "id": "84d4b5391e9241",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Technilum : l’industriel qui illumine nos villes",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afea5c772824d5a94271f9e422ee257&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2ftechnilum-lindustriel-qui-illumine-nos-villes&c=397686024574648937&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aff5f0b57b44b6cab283164e8798e8c&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2ftechnilum-lindustriel-qui-illumine-nos-villes&c=397686024574648937&mkt=en-us",
       "source": "Bing News",
       "published": "2026-11-17T16:00:00+00:00",
       "kind": "news",
-      "score": 3.42
+      "score": 3.23
     },
     {
-      "id": "f22642d34c74c2",
+      "id": "9ed9f450232f6a",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "DJ Snake lance sa marque de soda en France",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afea5c772824d5a94271f9e422ee257&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fdj-snake-lance-sa-marque-de-soda-en-france&c=12085953426143214998&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aff5f0b57b44b6cab283164e8798e8c&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fdj-snake-lance-sa-marque-de-soda-en-france&c=12085953426143214998&mkt=en-us",
       "source": "Bing News",
       "published": "2026-11-10T04:15:00+00:00",
       "kind": "new",
-      "score": 2.8
-    },
-    {
-      "id": "f25a345f2ee658",
-      "topic": "funding",
-      "topicLabel": "Aides & appels à projets",
-      "title": "Look'Up du Hub : Souveraineté numérique : quelles alternatives européennes pour le cloud, la data et l’IA ?",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afea5c772824d5a94271f9e422ee257&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-evenements%2flookup-du-hub-souverainete-numerique-quelles-alternatives-europeennes-pour-le-cloud-la-data-et-lia&c=11508597256324805401&mkt=en-us",
-      "source": "Bing News",
-      "published": "2026-11-12T07:30:00+00:00",
-      "kind": "news",
-      "score": 1.55
+      "score": 2.61
     }
   ],
   "status": "ok",
