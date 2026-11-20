@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T07:22:56.968198+00:00",
+  "generatedAt": "2026-11-20T20:26:18.908813+00:00",
   "topics": [
     {
       "id": "ai",
@@ -44,62 +44,84 @@
       "source": "Leptidigital",
       "published": "2026-11-19T05:30:00+00:00",
       "kind": "opportunity",
-      "score": 10.62
+      "score": 10.43
     },
     {
-      "id": "c23b8e3cddbf6a",
+      "id": "ad09686d142733",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "« L’innovation vient de l’espace laissé à l’expression des idées » (Hachette)",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afff553aa7c44eea9b3e5d6720b7137&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2flinnovation-vient-de-lespace-laisse-a-lexpression-des-idees-hachette&c=12047488016870893999&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b00acee38e545849f67c2360912851e&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2flinnovation-vient-de-lespace-laisse-a-lexpression-des-idees-hachette&c=12047488016870893999&mkt=en-us",
       "source": "Bing News",
       "published": "2026-11-17T02:22:00+00:00",
       "kind": "new",
-      "score": 4.88
+      "score": 4.69
     },
     {
-      "id": "0841b7560d071b",
+      "id": "18bbc137060209",
+      "topic": "funding",
+      "topicLabel": "Aides & appels à projets",
+      "title": "5 entreprises françaises qui réinventent les loisirs sans écran",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b00acee38e545849f67c2360912851e&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2f5-entreprises-francaises-qui-reinventent-les-loisirs-sans-ecran&c=14828823095271148902&mkt=en-us",
+      "source": "Bing News",
+      "published": "2026-11-19T16:00:00+00:00",
+      "kind": "news",
+      "score": 3.59
+    },
+    {
+      "id": "5f8f66dc78dd1c",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Grands Prix CFNEWS Auvergne-Rhône-Alpes 2026",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afff553aa7c44eea9b3e5d6720b7137&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-evenements%2fgrands-prix-cfnews-auvergne-rhone-alpes-2026&c=17954690125232174657&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b00acee38e545849f67c2360912851e&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-evenements%2fgrands-prix-cfnews-auvergne-rhone-alpes-2026&c=17954690125232174657&mkt=en-us",
       "source": "Bing News",
       "published": "2026-11-19T02:01:00+00:00",
       "kind": "news",
-      "score": 3.57
+      "score": 3.38
     },
     {
-      "id": "8e3bd2d5f6210c",
+      "id": "81bc95e79774da",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Quartier Général 2026 : 5 personnalités pour inspirer les entrepreneurs des quartiers",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afff553aa7c44eea9b3e5d6720b7137&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fquartier-general-2026-5-personnalites-pour-inspirer-les-entrepreneurs-des-quartiers&c=7381881857600868372&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b00acee38e545849f67c2360912851e&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fquartier-general-2026-5-personnalites-pour-inspirer-les-entrepreneurs-des-quartiers&c=7381881857600868372&mkt=en-us",
       "source": "Bing News",
       "published": "2026-11-18T10:00:00+00:00",
       "kind": "news",
-      "score": 3.34
+      "score": 3.15
     },
     {
-      "id": "af48cc32bc6b30",
+      "id": "4ac4de9d77d8c0",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Dégradations urbaines : un prêt à taux zéro pour les commerces vandalisés",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afff553aa7c44eea9b3e5d6720b7137&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fdegradations-urbaines-un-pret-a-taux-zero-pour-les-commerces-vandalises&c=5256644153236803809&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b00acee38e545849f67c2360912851e&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fdegradations-urbaines-un-pret-a-taux-zero-pour-les-commerces-vandalises&c=5256644153236803809&mkt=en-us",
       "source": "Bing News",
       "published": "2026-11-18T06:30:00+00:00",
       "kind": "news",
-      "score": 3.29
+      "score": 3.1
     },
     {
-      "id": "3c6db75fb9c0e9",
+      "id": "c57ca5f417b502",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Technilum : l’industriel qui illumine nos villes",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afff553aa7c44eea9b3e5d6720b7137&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2ftechnilum-lindustriel-qui-illumine-nos-villes&c=397686024574648937&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b00acee38e545849f67c2360912851e&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2ftechnilum-lindustriel-qui-illumine-nos-villes&c=397686024574648937&mkt=en-us",
       "source": "Bing News",
       "published": "2026-11-17T16:00:00+00:00",
       "kind": "news",
-      "score": 3.08
+      "score": 2.89
+    },
+    {
+      "id": "9d965ac1814ef6",
+      "topic": "funding",
+      "topicLabel": "Aides & appels à projets",
+      "title": "Dip Doundou Guiss « J’aimerais aller plus loin dans ma rencontre avec le public français »",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b00acee38e545849f67c2360912851e&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fdip-doundou-guiss-jaimerais-aller-plus-loin-dans-ma-rencontre-avec-le-public-francais&c=12131600791785323199&mkt=en-us",
+      "source": "Bing News",
+      "published": "2026-11-17T02:26:00+00:00",
+      "kind": "news",
+      "score": 2.69
     }
   ],
   "status": "ok",
