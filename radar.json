@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T07:45:17.954281+00:00",
+  "generatedAt": "2026-11-23T23:57:32.426656+00:00",
   "topics": [
     {
       "id": "ai",
@@ -44,73 +44,84 @@
       "source": "Leptidigital",
       "published": "2026-11-19T05:30:00+00:00",
       "kind": "opportunity",
-      "score": 9.57
+      "score": 9.33
     },
     {
-      "id": "34e218a1d86819",
+      "id": "a18c76f39b7660",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "« L’innovation vient de l’espace laissé à l’expression des idées » (Hachette)",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b03ef1036b04c9198061f1f41faffa5&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2flinnovation-vient-de-lespace-laisse-a-lexpression-des-idees-hachette&c=12047488016870893999&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b04d2ef63ab4e929833e21a2b25ef2a&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2flinnovation-vient-de-lespace-laisse-a-lexpression-des-idees-hachette&c=12047488016870893999&mkt=en-us",
       "source": "Bing News",
       "published": "2026-11-17T02:22:00+00:00",
       "kind": "new",
-      "score": 3.82
+      "score": 3.59
     },
     {
-      "id": "b8e99206928196",
+      "id": "17d8f9f6adcb56",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "5 entreprises françaises qui réinventent les loisirs sans écran",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b03ef1036b04c9198061f1f41faffa5&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2f5-entreprises-francaises-qui-reinventent-les-loisirs-sans-ecran&c=14828823095271148902&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b04d2ef63ab4e929833e21a2b25ef2a&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2f5-entreprises-francaises-qui-reinventent-les-loisirs-sans-ecran&c=14828823095271148902&mkt=en-us",
       "source": "Bing News",
       "published": "2026-11-19T16:00:00+00:00",
       "kind": "news",
-      "score": 2.72
+      "score": 2.48
     },
     {
-      "id": "edeaf555bce5ad",
+      "id": "ceec28e22b69d1",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Grands Prix CFNEWS Auvergne-Rhône-Alpes 2026",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b03ef1036b04c9198061f1f41faffa5&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-evenements%2fgrands-prix-cfnews-auvergne-rhone-alpes-2026&c=17954690125232174657&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b04d2ef63ab4e929833e21a2b25ef2a&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-evenements%2fgrands-prix-cfnews-auvergne-rhone-alpes-2026&c=17954690125232174657&mkt=en-us",
       "source": "Bing News",
       "published": "2026-11-19T02:01:00+00:00",
-      "kind": "news",
-      "score": 2.52
-    },
-    {
-      "id": "10cdf4864e3cef",
-      "topic": "funding",
-      "topicLabel": "Aides & appels à projets",
-      "title": "Quartier Général 2026 : 5 personnalités pour inspirer les entrepreneurs des quartiers",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b03ef1036b04c9198061f1f41faffa5&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fquartier-general-2026-5-personnalites-pour-inspirer-les-entrepreneurs-des-quartiers&c=7381881857600868372&mkt=en-us",
-      "source": "Bing News",
-      "published": "2026-11-18T10:00:00+00:00",
       "kind": "news",
       "score": 2.28
     },
     {
-      "id": "02e4f9de5ab173",
+      "id": "11fa0900daecd1",
+      "topic": "funding",
+      "topicLabel": "Aides & appels à projets",
+      "title": "Quartier Général 2026 : 5 personnalités pour inspirer les entrepreneurs des quartiers",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b04d2ef63ab4e929833e21a2b25ef2a&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fquartier-general-2026-5-personnalites-pour-inspirer-les-entrepreneurs-des-quartiers&c=7381881857600868372&mkt=en-us",
+      "source": "Bing News",
+      "published": "2026-11-18T10:00:00+00:00",
+      "kind": "news",
+      "score": 2.05
+    },
+    {
+      "id": "56aa01e8ad38f9",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Dégradations urbaines : un prêt à taux zéro pour les commerces vandalisés",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b03ef1036b04c9198061f1f41faffa5&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fdegradations-urbaines-un-pret-a-taux-zero-pour-les-commerces-vandalises&c=5256644153236803809&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b04d2ef63ab4e929833e21a2b25ef2a&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fdegradations-urbaines-un-pret-a-taux-zero-pour-les-commerces-vandalises&c=5256644153236803809&mkt=en-us",
       "source": "Bing News",
       "published": "2026-11-18T06:30:00+00:00",
       "kind": "news",
-      "score": 2.23
+      "score": 2.0
     },
     {
-      "id": "41a8ae980c9cc6",
+      "id": "58cf4595766ead",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Technilum : l’industriel qui illumine nos villes",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b03ef1036b04c9198061f1f41faffa5&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2ftechnilum-lindustriel-qui-illumine-nos-villes&c=397686024574648937&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b04d2ef63ab4e929833e21a2b25ef2a&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2ftechnilum-lindustriel-qui-illumine-nos-villes&c=397686024574648937&mkt=en-us",
       "source": "Bing News",
       "published": "2026-11-17T16:00:00+00:00",
       "kind": "news",
-      "score": 2.02
+      "score": 1.78
+    },
+    {
+      "id": "9205a229ea582b",
+      "topic": "funding",
+      "topicLabel": "Aides & appels à projets",
+      "title": "Dip Doundou Guiss « J’aimerais aller plus loin dans ma rencontre avec le public français »",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b04d2ef63ab4e929833e21a2b25ef2a&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fdip-doundou-guiss-jaimerais-aller-plus-loin-dans-ma-rencontre-avec-le-public-francais&c=12131600791785323199&mkt=en-us",
+      "source": "Bing News",
+      "published": "2026-11-17T02:26:00+00:00",
+      "kind": "news",
+      "score": 1.59
     }
   ],
   "status": "ok",
