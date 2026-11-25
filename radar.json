@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T22:29:50.218548+00:00",
+  "generatedAt": "2026-11-25T08:42:15.478085+00:00",
   "topics": [
     {
       "id": "ai",
@@ -44,84 +44,73 @@
       "source": "Leptidigital",
       "published": "2026-11-19T05:30:00+00:00",
       "kind": "opportunity",
-      "score": 9.0
+      "score": 8.85
     },
     {
-      "id": "3ed801e7ba1057",
+      "id": "eec05ba0f6fd29",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "« L’innovation vient de l’espace laissé à l’expression des idées » (Hachette)",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b060fe1f323406c98e96cf7032570aa&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2flinnovation-vient-de-lespace-laisse-a-lexpression-des-idees-hachette&c=12047488016870893999&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b069f6a2f234055ace84bc64dd7bac7&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2flinnovation-vient-de-lespace-laisse-a-lexpression-des-idees-hachette&c=12047488016870893999&mkt=en-us",
       "source": "Bing News",
       "published": "2026-11-17T02:22:00+00:00",
       "kind": "new",
-      "score": 3.26
+      "score": 3.11
     },
     {
-      "id": "2f1ff575d0bc4a",
-      "topic": "funding",
-      "topicLabel": "Aides & appels à projets",
-      "title": "Coluxia : dans les coulisses d’un pansement, un savoir-faire industriel bien français",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b060fe1f323406c98e96cf7032570aa&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fcoluxia-dans-les-coulisses-dun-pansement-un-savoir-faire-industriel-bien-francais&c=17435508387217136129&mkt=en-us",
-      "source": "Bing News",
-      "published": "2026-11-20T02:28:00+00:00",
-      "kind": "news",
-      "score": 2.31
-    },
-    {
-      "id": "84eb9cb21450a2",
+      "id": "2a75f4fa4b362c",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "5 entreprises françaises qui réinventent les loisirs sans écran",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b060fe1f323406c98e96cf7032570aa&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2f5-entreprises-francaises-qui-reinventent-les-loisirs-sans-ecran&c=14828823095271148902&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b069f6a2f234055ace84bc64dd7bac7&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2f5-entreprises-francaises-qui-reinventent-les-loisirs-sans-ecran&c=14828823095271148902&mkt=en-us",
       "source": "Bing News",
       "published": "2026-11-19T16:00:00+00:00",
       "kind": "news",
-      "score": 2.16
+      "score": 2.01
     },
     {
-      "id": "719f7eba3395d3",
+      "id": "c796a4d646976d",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Grands Prix CFNEWS Auvergne-Rhône-Alpes 2026",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b060fe1f323406c98e96cf7032570aa&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-evenements%2fgrands-prix-cfnews-auvergne-rhone-alpes-2026&c=17954690125232174657&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b069f6a2f234055ace84bc64dd7bac7&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-evenements%2fgrands-prix-cfnews-auvergne-rhone-alpes-2026&c=17954690125232174657&mkt=en-us",
       "source": "Bing News",
       "published": "2026-11-19T02:01:00+00:00",
       "kind": "news",
-      "score": 1.95
+      "score": 1.8
     },
     {
-      "id": "a0929a0387f229",
+      "id": "7bb81d19f4a9d5",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Quartier Général 2026 : 5 personnalités pour inspirer les entrepreneurs des quartiers",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b060fe1f323406c98e96cf7032570aa&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fquartier-general-2026-5-personnalites-pour-inspirer-les-entrepreneurs-des-quartiers&c=7381881857600868372&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b069f6a2f234055ace84bc64dd7bac7&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fquartier-general-2026-5-personnalites-pour-inspirer-les-entrepreneurs-des-quartiers&c=7381881857600868372&mkt=en-us",
       "source": "Bing News",
       "published": "2026-11-18T10:00:00+00:00",
       "kind": "news",
-      "score": 1.72
+      "score": 1.57
     },
     {
-      "id": "7523a836e723da",
+      "id": "f95806db45933e",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Dégradations urbaines : un prêt à taux zéro pour les commerces vandalisés",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b060fe1f323406c98e96cf7032570aa&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fdegradations-urbaines-un-pret-a-taux-zero-pour-les-commerces-vandalises&c=5256644153236803809&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b069f6a2f234055ace84bc64dd7bac7&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fdegradations-urbaines-un-pret-a-taux-zero-pour-les-commerces-vandalises&c=5256644153236803809&mkt=en-us",
       "source": "Bing News",
       "published": "2026-11-18T06:30:00+00:00",
       "kind": "news",
-      "score": 1.67
+      "score": 1.52
     },
     {
-      "id": "ecdcb8460c8248",
+      "id": "ccb106c9da1d01",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Technilum : l’industriel qui illumine nos villes",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b060fe1f323406c98e96cf7032570aa&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2ftechnilum-lindustriel-qui-illumine-nos-villes&c=397686024574648937&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b069f6a2f234055ace84bc64dd7bac7&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2ftechnilum-lindustriel-qui-illumine-nos-villes&c=397686024574648937&mkt=en-us",
       "source": "Bing News",
       "published": "2026-11-17T16:00:00+00:00",
       "kind": "news",
-      "score": 1.46
+      "score": 1.31
     }
   ],
   "status": "ok",
