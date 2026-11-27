@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T21:38:07.423323+00:00",
+  "generatedAt": "2026-11-27T08:41:31.973400+00:00",
   "topics": [
     {
       "id": "ai",
@@ -44,117 +44,84 @@
       "source": "LEPTIDIGITAL",
       "published": "2026-11-19T05:30:00+00:00",
       "kind": "opportunity",
-      "score": 8.31
+      "score": 8.15
     },
     {
-      "id": "82f333d789f3f2",
+      "id": "adafe7fc0c594b",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Vedettes de Paris : 50 ans sur la Seine et un nouveau cap pour le tourisme fluvial parisien",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08a6c330d541178482b53db3dc913c&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fvedettes-de-paris-50-ans-sur-la-seine-et-un-nouveau-cap-pour-le-tourisme-fluvial-parisien&c=13512366058389234239&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09423f80ef46b693cf3b6f25e3109f&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fvedettes-de-paris-50-ans-sur-la-seine-et-un-nouveau-cap-pour-le-tourisme-fluvial-parisien&c=13512366058389234239&mkt=en-us",
       "source": "Bing News",
       "published": "2026-11-26T07:17:00+00:00",
       "kind": "new",
-      "score": 5.79
+      "score": 5.63
     },
     {
-      "id": "cbffaa449cdb71",
+      "id": "72c9df10699ee8",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "We Are French Touch 2026 : 6 innovations qui révolutionnent les industries culturelles et créatives",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08a6c330d541178482b53db3dc913c&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fwe-are-french-touch-2026-6-innovations-qui-revolutionnent-les-industries-culturelles-et-creatives&c=18107780400924894787&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09423f80ef46b693cf3b6f25e3109f&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fwe-are-french-touch-2026-6-innovations-qui-revolutionnent-les-industries-culturelles-et-creatives&c=18107780400924894787&mkt=en-us",
       "source": "Bing News",
       "published": "2026-11-26T05:41:00+00:00",
       "kind": "new",
-      "score": 5.77
+      "score": 5.61
     },
     {
-      "id": "4e65c4d8adfdbb",
+      "id": "23ad3fc8bbbc5d",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Chaînes d'approvisionnement : les PME et ETI face au risque de rupture",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08a6c330d541178482b53db3dc913c&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fchaines-dapprovisionnement-les-pme-et-eti-face-au-risque-de-rupture&c=10129577148278866153&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09423f80ef46b693cf3b6f25e3109f&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fchaines-dapprovisionnement-les-pme-et-eti-face-au-risque-de-rupture&c=10129577148278866153&mkt=en-us",
       "source": "Bing News",
       "published": "2026-11-26T07:01:00+00:00",
       "kind": "news",
-      "score": 3.79
+      "score": 3.63
     },
     {
-      "id": "456b5bcb6490dc",
-      "topic": "funding",
-      "topicLabel": "Aides & appels à projets",
-      "title": "Nos événements",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08a6c330d541178482b53db3dc913c&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-evenements&c=13206852665148714331&mkt=en-us",
-      "source": "Bing News",
-      "published": "2026-11-25T16:00:00+00:00",
-      "kind": "news",
-      "score": 3.57
-    },
-    {
-      "id": "9467873c325cd9",
+      "id": "3b927179c1d3bc",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Grands Prix CFNEWS Auvergne-Rhône-Alpes 2026",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08a6c330d541178482b53db3dc913c&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-evenements%2fgrands-prix-cfnews-auvergne-rhone-alpes-2026&c=17954690125232174657&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09423f80ef46b693cf3b6f25e3109f&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-evenements%2fgrands-prix-cfnews-auvergne-rhone-alpes-2026&c=17954690125232174657&mkt=en-us",
       "source": "Bing News",
       "published": "2026-11-25T16:00:00+00:00",
       "kind": "news",
-      "score": 3.57
+      "score": 3.41
     },
     {
-      "id": "49fc2fc935be91",
+      "id": "303bf08958f974",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "We Are French Touch 2026 : les meilleures punchlines de cette édition",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08a6c330d541178482b53db3dc913c&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fwe-are-french-touch-2026-les-meilleures-punchlines-de-cette-edition&c=1809865206855444749&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09423f80ef46b693cf3b6f25e3109f&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fwe-are-french-touch-2026-les-meilleures-punchlines-de-cette-edition&c=1809865206855444749&mkt=en-us",
       "source": "Bing News",
       "published": "2026-11-25T08:14:00+00:00",
       "kind": "news",
-      "score": 3.45
+      "score": 3.29
     },
     {
-      "id": "9e603c748f0fbd",
-      "topic": "funding",
-      "topicLabel": "Aides & appels à projets",
-      "title": "« L’innovation vient de l’espace laissé à l’expression des idées » (Hachette)",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08a6c330d541178482b53db3dc913c&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2flinnovation-vient-de-lespace-laisse-a-lexpression-des-idees-hachette&c=12047488016870893999&mkt=en-us",
-      "source": "Bing News",
-      "published": "2026-11-17T02:22:00+00:00",
-      "kind": "new",
-      "score": 2.57
-    },
-    {
-      "id": "7631f7aa00144d",
+      "id": "d568cacf2874d7",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "5 entreprises françaises qui réinventent les loisirs sans écran",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08a6c330d541178482b53db3dc913c&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2f5-entreprises-francaises-qui-reinventent-les-loisirs-sans-ecran&c=14828823095271148902&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09423f80ef46b693cf3b6f25e3109f&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2f5-entreprises-francaises-qui-reinventent-les-loisirs-sans-ecran&c=14828823095271148902&mkt=en-us",
       "source": "Bing News",
       "published": "2026-11-19T16:00:00+00:00",
       "kind": "news",
-      "score": 1.47
+      "score": 1.31
     },
     {
-      "id": "5a43bfee457145",
-      "topic": "funding",
-      "topicLabel": "Aides & appels à projets",
-      "title": "Quartier Général 2026 : 5 personnalités pour inspirer les entrepreneurs des quartiers",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08a6c330d541178482b53db3dc913c&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fquartier-general-2026-5-personnalites-pour-inspirer-les-entrepreneurs-des-quartiers&c=7381881857600868372&mkt=en-us",
-      "source": "Bing News",
-      "published": "2026-11-18T10:00:00+00:00",
-      "kind": "news",
-      "score": 1.03
-    },
-    {
-      "id": "6e07d7c60e89d8",
+      "id": "6068c7da4a9aec",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Technilum : l’industriel qui illumine nos villes",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b08a6c330d541178482b53db3dc913c&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2ftechnilum-lindustriel-qui-illumine-nos-villes&c=397686024574648937&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09423f80ef46b693cf3b6f25e3109f&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2ftechnilum-lindustriel-qui-illumine-nos-villes&c=397686024574648937&mkt=en-us",
       "source": "Bing News",
       "published": "2026-11-17T16:00:00+00:00",
       "kind": "news",
-      "score": 0.77
+      "score": 0.61
     }
   ],
   "status": "ok",
@@ -163,7 +130,7 @@
     "SaaS & business: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "France ↔ Algérie: Google News: aucun résultat récent | Bing News: aucun résultat récent",
     "Web & freelance: Google News: aucun résultat récent | Bing News: aucun résultat récent",
-    "Économie durable: Google News: aucun résultat récent | Bing News: aucun résultat récent",
+    "Économie durable: Google News: HTTPError: HTTP Error 429: Too Many Requests | Bing News: aucun résultat récent",
     "Marché & concurrence: Google News: aucun résultat récent | Bing News: aucun résultat récent"
   ]
 }
