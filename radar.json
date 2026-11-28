@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T21:22:14.100168+00:00",
+  "generatedAt": "2026-11-28T07:55:28.459745+00:00",
   "topics": [
     {
       "id": "ai",
@@ -44,73 +44,73 @@
       "source": "LEPTIDIGITAL",
       "published": "2026-11-19T05:30:00+00:00",
       "kind": "opportunity",
-      "score": 7.97
+      "score": 7.81
     },
     {
-      "id": "482057d64bf832",
+      "id": "0cfcacf0f586f1",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Loups Garous : une nouvelle saison aussi prometteuse ?",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09f489e71f4988bb350b71d81d646d&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2floups-garous-une-nouvelle-saison-aussi-prometteuse&c=996805683113241875&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a88f3e4aa49faa46522be74d33852&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2floups-garous-une-nouvelle-saison-aussi-prometteuse&c=996805683113241875&mkt=en-us",
       "source": "Bing News",
       "published": "2026-11-27T01:43:00+00:00",
       "kind": "new",
-      "score": 5.71
+      "score": 5.56
     },
     {
-      "id": "037c22d5ae1ba5",
+      "id": "c2c927cb5f211b",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Vedettes de Paris : 50 ans sur la Seine et un nouveau cap pour le tourisme fluvial parisien",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09f489e71f4988bb350b71d81d646d&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fvedettes-de-paris-50-ans-sur-la-seine-et-un-nouveau-cap-pour-le-tourisme-fluvial-parisien&c=13512366058389234239&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a88f3e4aa49faa46522be74d33852&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fvedettes-de-paris-50-ans-sur-la-seine-et-un-nouveau-cap-pour-le-tourisme-fluvial-parisien&c=13512366058389234239&mkt=en-us",
       "source": "Bing News",
       "published": "2026-11-26T07:17:00+00:00",
       "kind": "new",
-      "score": 5.44
+      "score": 5.29
     },
     {
-      "id": "51be28afac7a07",
+      "id": "4e227f58e776d9",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "We Are French Touch 2026 : 6 innovations qui révolutionnent les industries culturelles et créatives",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09f489e71f4988bb350b71d81d646d&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fwe-are-french-touch-2026-6-innovations-qui-revolutionnent-les-industries-culturelles-et-creatives&c=18107780400924894787&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a88f3e4aa49faa46522be74d33852&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fwe-are-french-touch-2026-6-innovations-qui-revolutionnent-les-industries-culturelles-et-creatives&c=18107780400924894787&mkt=en-us",
       "source": "Bing News",
       "published": "2026-11-26T05:41:00+00:00",
       "kind": "new",
-      "score": 5.42
+      "score": 5.27
     },
     {
-      "id": "1f6e0281ba6240",
+      "id": "5072904be3e16d",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Chaînes d'approvisionnement : les PME et ETI face au risque de rupture",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09f489e71f4988bb350b71d81d646d&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fchaines-dapprovisionnement-les-pme-et-eti-face-au-risque-de-rupture&c=10129577148278866153&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a88f3e4aa49faa46522be74d33852&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fchaines-dapprovisionnement-les-pme-et-eti-face-au-risque-de-rupture&c=10129577148278866153&mkt=en-us",
       "source": "Bing News",
       "published": "2026-11-26T07:01:00+00:00",
       "kind": "news",
-      "score": 3.44
+      "score": 3.29
     },
     {
-      "id": "00acd73326c159",
+      "id": "a04d75e9b814bd",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "Grands Prix CFNEWS Auvergne-Rhône-Alpes 2026",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09f489e71f4988bb350b71d81d646d&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-evenements%2fgrands-prix-cfnews-auvergne-rhone-alpes-2026&c=17954690125232174657&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a88f3e4aa49faa46522be74d33852&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-evenements%2fgrands-prix-cfnews-auvergne-rhone-alpes-2026&c=17954690125232174657&mkt=en-us",
       "source": "Bing News",
       "published": "2026-11-25T16:00:00+00:00",
       "kind": "news",
-      "score": 3.22
+      "score": 3.07
     },
     {
-      "id": "a442900b2b9422",
+      "id": "c350c15d8e70d7",
       "topic": "funding",
       "topicLabel": "Aides & appels à projets",
       "title": "We Are French Touch 2026 : les meilleures punchlines de cette édition",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09f489e71f4988bb350b71d81d646d&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fwe-are-french-touch-2026-les-meilleures-punchlines-de-cette-edition&c=1809865206855444749&mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a88f3e4aa49faa46522be74d33852&url=https%3a%2f%2fbigmedia.bpifrance.fr%2fnos-actualites%2fwe-are-french-touch-2026-les-meilleures-punchlines-de-cette-edition&c=1809865206855444749&mkt=en-us",
       "source": "Bing News",
       "published": "2026-11-25T08:14:00+00:00",
       "kind": "news",
-      "score": 3.11
+      "score": 2.95
     }
   ],
   "status": "ok",
